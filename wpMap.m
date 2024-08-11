@@ -24,7 +24,7 @@ close all
         edges = [];
     end
     
-    %map
+    map
     
     %randomise the number of points
     randpoints = [1:10];
@@ -46,10 +46,10 @@ close all
             shortestPath = pathlen;
         end
     end
-    
-    % currentLinks
-    % randpoints
-    % shortestPath
+    % 
+    % currentLinks;
+    % randpoints;
+    % shortestPath;
     
     waypoints.x = zeros(10,1);
     waypoints.y = zeros(10,1);
