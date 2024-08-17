@@ -24,7 +24,7 @@ close all
         edges = [];
     end
     
-    map
+    %map;
     
     %randomise the number of points
     randpoints = [1:10];
@@ -59,32 +59,32 @@ close all
         waypoints.y(i) = wp.y(currentLinks(i));
     end
     
-    %plotting
-    figure(1)
-    hold on;
-    labels = {'1','2','3','4','5','6','7','8','9','10'};
-    plot(wp.x,wp.y,'k*')
-    plot(waypoints.x,waypoints.y,'b-.')
-    
+    % %plotting
+    % figure(1)
+    % hold on;
+    % labels = {'1','2','3','4','5','6','7','8','9','10'};
+    % plot(wp.x,wp.y,'k*')
+    % plot(waypoints.x,waypoints.y,'b-.')
+    % 
     t = 1:numel(waypoints.x);
     tq = 1:0.2:t(end);
     xq = interp1(t,waypoints.x,tq,'v5cubic');
     yq = interp1(t,waypoints.y,tq,'v5cubic');
-    plot(waypoints.x,waypoints.y,'bo',xq,yq,'ro-.');
-    
-    text(waypoints.x-7,waypoints.y+40,labels,color='r');
-    text(wp.x-7,wp.y-30,labels,color='b');
-    
-    xlim([-500,500]);
-    ylim([-500,500]);
-    grid on;
-    set(gca,'XMinorTick','on')
-
+    % plot(waypoints.x,waypoints.y,'bo',xq,yq,'ro-.');
+    % 
+    % text(waypoints.x-7,waypoints.y+40,labels,color='r');
+    % text(wp.x-7,wp.y-30,labels,color='b');
+    % 
+    % xlim([-500,500]);
+    % ylim([-500,500]);
+    % grid on;
+    % set(gca,'XMinorTick','on')
+    % 
     path.x = xq;
     path.y = yq;
-
-    figure(2)
-    title('dummy map')
+    % 
+    % figure(2)
+    % title('dummy map')
     waypoint_mat = [];
     for i = 1:10
         waypoint_mat = [waypoint_mat;waypoints.x(i),waypoints.y(i)];
