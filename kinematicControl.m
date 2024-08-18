@@ -110,7 +110,7 @@ alpha = angdiff(theta,gamma);
 beta = angdiff(theta_star,gamma);
 
 v = 0.2*rho*cos(alpha);
-omega = 0.2*alpha+0.2*beta;
+omega = 0.2*alpha+0.3*beta;
 
 
 if rho < 0.2
