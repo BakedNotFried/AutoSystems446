@@ -1,0 +1,11 @@
+% Parameterise Output Data
+noisy_x = noisyStateOutput(1);
+noisy_y = noisyStateOutput(2);
+noisy_theta = noisyStateOutput(3);
+
+filt_x = filteredStateOutput(1);
+filt_y = filteredStateOutput(2);
+filt_theta = filteredStateOutput(3);
+
+% Subsect the output data
+[sxz, length] = size(noisyStateOutput)
