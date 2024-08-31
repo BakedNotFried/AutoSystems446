@@ -4,7 +4,7 @@ close all
 
     wp.x = (randi(50,10,1)-25)*20;
     wp.y = (randi(50,10,1)-25)*20;
-
+    
     % wp.x = [ 0,50,100,150,200,250,250,250,250,200];
     % wp.y = [50,50,50, 50, 50, 100,150,200,250,250];
     %generate edges
@@ -53,40 +53,24 @@ close all
     
     waypoints.x = zeros(10,1);
     waypoints.y = zeros(10,1);
-    
-    for i = 1:10     
-        waypoints.x(i) = wp.x(currentLinks(i));
-        waypoints.y(i) = wp.y(currentLinks(i));
+    waypoints.x = [0;waypoints.x];
+    waypoints.y = [0;waypoints.y];
+
+    for i = 2:11     
+        waypoints.x(i) = wp.x(currentLinks(i-1));
+        waypoints.y(i) = wp.y(currentLinks(i-1));
     end
-    
-    % %plotting
-    % figure(1)
-    % hold on;
-    % labels = {'1','2','3','4','5','6','7','8','9','10'};
-    % plot(wp.x,wp.y,'k*')
-    % plot(waypoints.x,waypoints.y,'b-.')
-    % 
+
     t = 1:numel(waypoints.x);
     tq = 1:0.2:t(end);
     xq = interp1(t,waypoints.x,tq,'v5cubic');
     yq = interp1(t,waypoints.y,tq,'v5cubic');
-    % plot(waypoints.x,waypoints.y,'bo',xq,yq,'ro-.');
-    % 
-    % text(waypoints.x-7,waypoints.y+40,labels,color='r');
-    % text(wp.x-7,wp.y-30,labels,color='b');
-    % 
-    % xlim([-500,500]);
-    % ylim([-500,500]);
-    % grid on;
-    % set(gca,'XMinorTick','on')
-    % 
+   
     path.x = xq;
     path.y = yq;
-    % 
-    % figure(2)
-    % title('dummy map')
+
     waypoint_mat = [];
-    for i = 1:10
+    for i = 1:11
         waypoint_mat = [waypoint_mat;waypoints.x(i),waypoints.y(i)];
     end
 end
