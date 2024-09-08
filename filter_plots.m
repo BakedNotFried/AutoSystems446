@@ -1,4 +1,3 @@
-close all
 
 % Parameterise Output Data
 noisy_x = noisyStateOutput(:, 1);
@@ -162,3 +161,4 @@ legend('Filter Gain')
 grid
 
 sgtitle(sprintf('Kalman Filter Preformance θ State Channel'))
+

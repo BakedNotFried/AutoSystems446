@@ -1,5 +1,5 @@
 
-function [waypoints,waypoint_mat,path] = setupMap()
+function [waypoints,waypoint_mat,path,shortestPath] = setupMap()
 close all
 
     wp.x = (randi(50,10,1)-25)*20;
@@ -7,7 +7,6 @@ close all
     
     % wp.x = [ 0,50,100,150,200,250,250,250,250,200];
     % wp.y = [50,50,50, 50, 50, 100,150,200,250,250];
-    
     %generate edges
     map = [];
     edges = [];
@@ -50,17 +49,19 @@ close all
     % 
     % currentLinks;
     % randpoints;
-    % shortestPath;
-    
+        
     waypoints.x = zeros(10,1);
-    waypoints.y = zeros(10,1);
+    waypoints.y = zeros(10,1);    
     waypoints.x = [0;waypoints.x];
     waypoints.y = [0;waypoints.y];
+
 
     for i = 2:11     
         waypoints.x(i) = wp.x(currentLinks(i-1));
         waypoints.y(i) = wp.y(currentLinks(i-1));
     end
+    dist = sqrt(waypoints.x(2)^2+waypoints.y(2)^2);
+    shortestPath = shortestPath+dist;
 
     t = 1:numel(waypoints.x);
     tq = 1:0.2:t(end);
