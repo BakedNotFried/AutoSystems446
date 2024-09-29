@@ -1,0 +1,11 @@
+%% Setup inital values for the simulation
+function [scanAngles] = setupParams()
+    % LiDAR
+    fov = 60;
+    fov = fov * pi/180;
+    numReturns = 25;
+    scanAngles = linspace(-fov, fov, numReturns);
+
+    % Basic A* Path
+    load('complexMap_air_ground.mat');
+end
