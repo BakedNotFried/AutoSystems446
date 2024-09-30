@@ -1,5 +1,7 @@
 function [waypoints,waypoint_mat,path,shortestPath] = updated_waypoint_gen()
-    %% Import the Map
+    % Basic A* Path
+    % close all, clc
+    
     cplx_map = load('complexMap_air_ground.mat');
     occupancy_map = cplx_map.map;
     original_logic_map = cplx_map.logical_map;
@@ -10,7 +12,6 @@ function [waypoints,waypoint_mat,path,shortestPath] = updated_waypoint_gen()
     % convert the map to its logical values...
     logic_map = occupancyMatrix(occupancy_map);
     
-    %% Generate random waypoints
     % setup the generation params...
     num_waypoints = 4;
     sample = 500;
@@ -33,6 +34,8 @@ function [waypoints,waypoint_mat,path,shortestPath] = updated_waypoint_gen()
             end
         end
     end
+
+    w.
     
     % Sanity Plot...
     figure
@@ -41,7 +44,6 @@ function [waypoints,waypoint_mat,path,shortestPath] = updated_waypoint_gen()
     plot(wp.y, wp.x, 'b*')
     plot(start(2), start(1), 'r*')
     
-    %% Plan a path via A*
     % Psudo-sort the waypoints on distance locations...
     dist_wp = [];
     for i = 1:1:num_waypoints
@@ -86,22 +88,14 @@ function [waypoints,waypoint_mat,path,shortestPath] = updated_waypoint_gen()
     % Sanity Plot
     plot(wp_path(2,:), wp_path(1,:), 'g-')
     
-    %% Clean up Variables for Export
-    % Translate values to occupancy map...
-    waypoints_world = grid2world(occupancy_map, [dist_wp.x; dist_wp.y]');
-    path_world = grid2world(occupancy_map, [wp_path(1, :); wp_path(2, :)]');
+    % Clean up Variables for Export...
+    path.x = wp_path(1, :)';
+    path.y = wp_path(2, :)';
     
-    % Assign to return variables
-    path.x = path_world(:, 1);
-    path.y = path_world(:, 2);
-    
-    waypoints.x = waypoints_world(:, 1);
-    waypoints.y = waypoints_world(:, 2);
+    waypoints.x = dist_wp.x';
+    waypoints.y = dist_wp.y';
 
-    % waypoints.x = path_world(:, 1);
-    % waypoints.y = path_world(:, 2);
-    
-    waypoint_mat = [dist_wp.x; dist_wp.y];
-    
+    waypoint_mat = [dist_wp.x; dist_wp.y]';
+
     shortestPath = 1;
 end
