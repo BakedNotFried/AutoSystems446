@@ -3,6 +3,6 @@ function [scanAngles] = setupParams()
     % LiDAR
     fov = 60;
     fov = fov * pi/180;
-    numReturns = 3;
+    numReturns = 30;
     scanAngles = linspace(-fov, fov, numReturns);
 end

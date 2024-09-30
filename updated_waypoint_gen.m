@@ -1,4 +1,5 @@
 function [waypoints,waypoint_mat,path,shortestPath] = updated_waypoint_gen()
+    close all
     %% Import the Map
     cplx_map = load('complexMap_air_ground.mat');
     occupancy_map = cplx_map.map;
