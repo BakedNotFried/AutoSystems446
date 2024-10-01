@@ -1,0 +1,39 @@
+% Basic A* Path
+cplx_map = load('complexMap_air_ground.mat');
+logic_map = cplx_map.logical_map;
+
+num_waypoints = 5;
+sample = 500;
+waypoints_x = [];
+waypoints_y = [];
+
+% get the x-cords of valid area 
+v = nonzeros(1 - logic_map);
+[x, y] = find(1 - logic_map);
+
+points_x = round(randi(410, sample, 1));
+points_y = round(randi(520, sample, 1));
+
+% determine if point in valid area
+for i = 1:1:sample
+    if (numel(waypoints_x) < num_waypoints)
+        if ismember(points_x(i), x) && ismember(points_y(i), y)
+            waypoints_x = [waypoints_x, points_x(i)];
+            waypoints_y = [waypoints_y, points_y(i)];
+        end
+    end
+end
+
+imshow(1 - logic_map)
+hold on
+% plot(waypoints_y, waypoints_x, 'r*')
+p
+
+% % init a planner....
+% planner = plannerAStarGrid(map);
+% 
+% % Define a a start and goal...
+% start = [20 20];
+% goal = [248 248];
+% 
+% path_a_star = plan(planner,start,goal);
