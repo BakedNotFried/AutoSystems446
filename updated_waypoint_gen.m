@@ -36,11 +36,11 @@ function [waypoints,waypoint_mat,path,shortestPath] = updated_waypoint_gen()
     end
     
     % Sanity Plot...
-    figure
-    imshow(1 - original_logic_map)
-    hold on
-    plot(wp.y, wp.x, 'b*')
-    plot(start(2), start(1), 'r*')
+    %figure
+    %imshow(1 - original_logic_map)
+    % hold on
+    % plot(wp.y, wp.x, 'b*')
+    % plot(start(2), start(1), 'r*')
     
     %% Plan a path via A*
     % Psudo-sort the waypoints on distance locations...
