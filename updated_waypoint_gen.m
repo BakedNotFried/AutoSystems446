@@ -1,9 +1,11 @@
-function [waypoints,waypoint_mat,path,shortestPath] = updated_waypoint_gen()
+function [waypoints,waypoint_mat,path,shortestPath, logical_map] = updated_waypoint_gen()
     close all
     %% Import the Map
     cplx_map = load('complexMap_air_ground.mat');
     occupancy_map = cplx_map.map;
     original_logic_map = cplx_map.logical_map;
+
+    logical_map = original_logic_map; % Load into the simulink sim...
     
     % inflate the map so we dont get waypoints on the wall...
     inflate(occupancy_map, 0.5);
