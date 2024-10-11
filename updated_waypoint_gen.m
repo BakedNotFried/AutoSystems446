@@ -37,12 +37,12 @@ function [waypoints,waypoint_mat,path,shortestPath, logical_map] = updated_waypo
         end
     end
     
-    % Sanity Plot...
-    figure()
-    imshow(1 - original_logic_map)
-    hold on
-    plot(wp.y, wp.x, 'b*')
-    plot(start(2), start(1), 'r*')
+    % % Sanity Plot...
+    % figure()
+    % imshow(1 - original_logic_map)
+    % hold on
+    % plot(wp.y, wp.x, 'b*')
+    % plot(start(2), start(1), 'r*')
     
     %% Plan a path via A*
     % Psudo-sort the waypoints on distance locations...
@@ -63,7 +63,7 @@ function [waypoints,waypoint_mat,path,shortestPath, logical_map] = updated_waypo
         wp.y(I) = [];
     end
 
-    plot([25, dist_wp.y], [385, dist_wp.x], '--')
+    % plot([25, dist_wp.y], [385, dist_wp.x], '--')
     
     % init a planner....
     planner = plannerAStarGrid(occupancy_map);
@@ -87,7 +87,7 @@ function [waypoints,waypoint_mat,path,shortestPath, logical_map] = updated_waypo
     end
     
     % Sanity Plot
-    plot(wp_path(2,:), wp_path(1,:), 'g-')
+    % plot(wp_path(2,:), wp_path(1,:), 'g-')
     
     %% Clean up Variables for Export
     % Translate values to occupancy map...
