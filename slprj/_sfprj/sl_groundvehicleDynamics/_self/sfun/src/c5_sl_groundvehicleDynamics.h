@@ -23,13 +23,6 @@ typedef struct c5_tag_sqKxP9zR2d3M4W2ZxldX5TD c5_sqKxP9zR2d3M4W2ZxldX5TD;
 
 #endif                                 /* c5_typedef_c5_sqKxP9zR2d3M4W2ZxldX5TD */
 
-#ifndef c5_typedef_c5_skA4KFEZ4HPkJJBOYCrevdH
-#define c5_typedef_c5_skA4KFEZ4HPkJJBOYCrevdH
-
-typedef struct c5_tag_skA4KFEZ4HPkJJBOYCrevdH c5_skA4KFEZ4HPkJJBOYCrevdH;
-
-#endif                                 /* c5_typedef_c5_skA4KFEZ4HPkJJBOYCrevdH */
-
 #ifndef c5_typedef_c5_s_0K68mFBjQDo1WRxKPpRFgD
 #define c5_typedef_c5_s_0K68mFBjQDo1WRxKPpRFgD
 
@@ -201,20 +194,6 @@ typedef struct c5_tag_vFCUN6S2JggpVvH7c1PhWE
 typedef struct c5_tag_s2z0oz15sR5NVFDR5DKwDXH c5_s2z0oz15sR5NVFDR5DKwDXH;
 
 #endif                                 /* c5_typedef_c5_s2z0oz15sR5NVFDR5DKwDXH */
-
-#ifndef c5_typedef_c5_sG4eiVjMQ0O8d9Qp49KylpE
-#define c5_typedef_c5_sG4eiVjMQ0O8d9Qp49KylpE
-
-typedef struct c5_tag_sG4eiVjMQ0O8d9Qp49KylpE c5_sG4eiVjMQ0O8d9Qp49KylpE;
-
-#endif                                 /* c5_typedef_c5_sG4eiVjMQ0O8d9Qp49KylpE */
-
-#ifndef c5_typedef_c5_sKGJXMD9VfgqCU44Gm9fvGC
-#define c5_typedef_c5_sKGJXMD9VfgqCU44Gm9fvGC
-
-typedef struct c5_tag_sKGJXMD9VfgqCU44Gm9fvGC c5_sKGJXMD9VfgqCU44Gm9fvGC;
-
-#endif                                 /* c5_typedef_c5_sKGJXMD9VfgqCU44Gm9fvGC */
 
 #ifndef c5_typedef_c5_cell_wrap_6
 #define c5_typedef_c5_cell_wrap_6
@@ -404,27 +383,6 @@ typedef struct c5_tag_yd73kc3JFqLx5xloI27XHF c5_cell_34;
 typedef struct c5_tag_ylkAc2i136FEk6g3ZulMw c5_cell_35;
 
 #endif                                 /* c5_typedef_c5_cell_35 */
-
-#ifndef c5_typedef_c5_cell_wrap_37
-#define c5_typedef_c5_cell_wrap_37
-
-typedef struct c5_tag_QUrJGLT4DsCLhnuPIs5e8F c5_cell_wrap_37;
-
-#endif                                 /* c5_typedef_c5_cell_wrap_37 */
-
-#ifndef c5_typedef_c5_cell_38
-#define c5_typedef_c5_cell_38
-
-typedef struct c5_tag_vCroJ4nSCwjPwQBS7RhjeC c5_cell_38;
-
-#endif                                 /* c5_typedef_c5_cell_38 */
-
-#ifndef c5_typedef_c5_cell_39
-#define c5_typedef_c5_cell_39
-
-typedef struct c5_tag_FWAx9YmgCYqLkaFiyAr9e c5_cell_39;
-
-#endif                                 /* c5_typedef_c5_cell_39 */
 
 #ifndef c5_typedef_c5_sslUvYZQflbyxZZRL9dphqE
 #define c5_typedef_c5_sslUvYZQflbyxZZRL9dphqE
@@ -713,34 +671,6 @@ typedef struct c5_tag_hGJZsKrUO8T9rOmAytsPq c5_s_hGJZsKrUO8T9rOmAytsPq;
 
 #endif                                 /* c5_typedef_c5_s_hGJZsKrUO8T9rOmAytsPq */
 
-#ifndef c5_typedef_c5_s_rs0J7tUaO8r8RV5HCYwLTD
-#define c5_typedef_c5_s_rs0J7tUaO8r8RV5HCYwLTD
-
-typedef struct c5_tag_rs0J7tUaO8r8RV5HCYwLTD c5_s_rs0J7tUaO8r8RV5HCYwLTD;
-
-#endif                                 /* c5_typedef_c5_s_rs0J7tUaO8r8RV5HCYwLTD */
-
-#ifndef c5_typedef_c5_s_PziPEzZoKKixmpD5T9qTcD
-#define c5_typedef_c5_s_PziPEzZoKKixmpD5T9qTcD
-
-typedef struct c5_tag_PziPEzZoKKixmpD5T9qTcD c5_s_PziPEzZoKKixmpD5T9qTcD;
-
-#endif                                 /* c5_typedef_c5_s_PziPEzZoKKixmpD5T9qTcD */
-
-#ifndef c5_typedef_c5_s_qRxSe9N4qwJIjT7M2BxNL
-#define c5_typedef_c5_s_qRxSe9N4qwJIjT7M2BxNL
-
-typedef struct c5_tag_qRxSe9N4qwJIjT7M2BxNL c5_s_qRxSe9N4qwJIjT7M2BxNL;
-
-#endif                                 /* c5_typedef_c5_s_qRxSe9N4qwJIjT7M2BxNL */
-
-#ifndef c5_typedef_c5_s_4dijvwFFQt8JouTajf5bDH
-#define c5_typedef_c5_s_4dijvwFFQt8JouTajf5bDH
-
-typedef struct c5_tag_4dijvwFFQt8JouTajf5bDH c5_s_4dijvwFFQt8JouTajf5bDH;
-
-#endif                                 /* c5_typedef_c5_s_4dijvwFFQt8JouTajf5bDH */
-
 #ifndef c5_typedef_c5_s_zDw1a7r6SMjlHMd1yKaX8
 #define c5_typedef_c5_s_zDw1a7r6SMjlHMd1yKaX8
 
@@ -995,28 +925,6 @@ struct c5_tag_sqKxP9zR2d3M4W2ZxldX5TD
 typedef struct c5_tag_sqKxP9zR2d3M4W2ZxldX5TD c5_sqKxP9zR2d3M4W2ZxldX5TD;
 
 #endif                                 /* c5_typedef_c5_sqKxP9zR2d3M4W2ZxldX5TD */
-
-#ifndef c5_struct_c5_tag_skA4KFEZ4HPkJJBOYCrevdH
-#define c5_struct_c5_tag_skA4KFEZ4HPkJJBOYCrevdH
-
-struct c5_tag_skA4KFEZ4HPkJJBOYCrevdH
-{
-  uint32_T SafeEq;
-  uint32_T Absolute;
-  uint32_T NaNBias;
-  uint32_T NaNWithFinite;
-  uint32_T FiniteWithNaN;
-  uint32_T NaNWithNaN;
-};
-
-#endif                                 /* c5_struct_c5_tag_skA4KFEZ4HPkJJBOYCrevdH */
-
-#ifndef c5_typedef_c5_skA4KFEZ4HPkJJBOYCrevdH
-#define c5_typedef_c5_skA4KFEZ4HPkJJBOYCrevdH
-
-typedef struct c5_tag_skA4KFEZ4HPkJJBOYCrevdH c5_skA4KFEZ4HPkJJBOYCrevdH;
-
-#endif                                 /* c5_typedef_c5_skA4KFEZ4HPkJJBOYCrevdH */
 
 #ifndef c5_struct_c5_tag_0K68mFBjQDo1WRxKPpRFgD
 #define c5_struct_c5_tag_0K68mFBjQDo1WRxKPpRFgD
@@ -1512,43 +1420,6 @@ struct c5_tag_s2z0oz15sR5NVFDR5DKwDXH
 typedef struct c5_tag_s2z0oz15sR5NVFDR5DKwDXH c5_s2z0oz15sR5NVFDR5DKwDXH;
 
 #endif                                 /* c5_typedef_c5_s2z0oz15sR5NVFDR5DKwDXH */
-
-#ifndef c5_struct_c5_tag_sG4eiVjMQ0O8d9Qp49KylpE
-#define c5_struct_c5_tag_sG4eiVjMQ0O8d9Qp49KylpE
-
-struct c5_tag_sG4eiVjMQ0O8d9Qp49KylpE
-{
-  char_T op[3];
-};
-
-#endif                                 /* c5_struct_c5_tag_sG4eiVjMQ0O8d9Qp49KylpE */
-
-#ifndef c5_typedef_c5_sG4eiVjMQ0O8d9Qp49KylpE
-#define c5_typedef_c5_sG4eiVjMQ0O8d9Qp49KylpE
-
-typedef struct c5_tag_sG4eiVjMQ0O8d9Qp49KylpE c5_sG4eiVjMQ0O8d9Qp49KylpE;
-
-#endif                                 /* c5_typedef_c5_sG4eiVjMQ0O8d9Qp49KylpE */
-
-#ifndef c5_struct_c5_tag_sKGJXMD9VfgqCU44Gm9fvGC
-#define c5_struct_c5_tag_sKGJXMD9VfgqCU44Gm9fvGC
-
-struct c5_tag_sKGJXMD9VfgqCU44Gm9fvGC
-{
-  boolean_T CaseSensitivity;
-  boolean_T StructExpand;
-  char_T PartialMatching[6];
-  boolean_T IgnoreNulls;
-};
-
-#endif                                 /* c5_struct_c5_tag_sKGJXMD9VfgqCU44Gm9fvGC */
-
-#ifndef c5_typedef_c5_sKGJXMD9VfgqCU44Gm9fvGC
-#define c5_typedef_c5_sKGJXMD9VfgqCU44Gm9fvGC
-
-typedef struct c5_tag_sKGJXMD9VfgqCU44Gm9fvGC c5_sKGJXMD9VfgqCU44Gm9fvGC;
-
-#endif                                 /* c5_typedef_c5_sKGJXMD9VfgqCU44Gm9fvGC */
 
 #ifndef c5_struct_c5_tag_fisVJns06LoJfzAcBfz34B
 #define c5_struct_c5_tag_fisVJns06LoJfzAcBfz34B
@@ -2071,65 +1942,6 @@ struct c5_tag_ylkAc2i136FEk6g3ZulMw
 typedef struct c5_tag_ylkAc2i136FEk6g3ZulMw c5_cell_35;
 
 #endif                                 /* c5_typedef_c5_cell_35 */
-
-#ifndef c5_struct_c5_tag_QUrJGLT4DsCLhnuPIs5e8F
-#define c5_struct_c5_tag_QUrJGLT4DsCLhnuPIs5e8F
-
-struct c5_tag_QUrJGLT4DsCLhnuPIs5e8F
-{
-  char_T f1[2];
-};
-
-#endif                                 /* c5_struct_c5_tag_QUrJGLT4DsCLhnuPIs5e8F */
-
-#ifndef c5_typedef_c5_cell_wrap_37
-#define c5_typedef_c5_cell_wrap_37
-
-typedef struct c5_tag_QUrJGLT4DsCLhnuPIs5e8F c5_cell_wrap_37;
-
-#endif                                 /* c5_typedef_c5_cell_wrap_37 */
-
-#ifndef c5_struct_c5_tag_vCroJ4nSCwjPwQBS7RhjeC
-#define c5_struct_c5_tag_vCroJ4nSCwjPwQBS7RhjeC
-
-struct c5_tag_vCroJ4nSCwjPwQBS7RhjeC
-{
-  char_T f1[6];
-  char_T f2[8];
-  char_T f3[7];
-  char_T f4[13];
-  char_T f5[13];
-  char_T f6[10];
-};
-
-#endif                                 /* c5_struct_c5_tag_vCroJ4nSCwjPwQBS7RhjeC */
-
-#ifndef c5_typedef_c5_cell_38
-#define c5_typedef_c5_cell_38
-
-typedef struct c5_tag_vCroJ4nSCwjPwQBS7RhjeC c5_cell_38;
-
-#endif                                 /* c5_typedef_c5_cell_38 */
-
-#ifndef c5_struct_c5_tag_FWAx9YmgCYqLkaFiyAr9e
-#define c5_struct_c5_tag_FWAx9YmgCYqLkaFiyAr9e
-
-struct c5_tag_FWAx9YmgCYqLkaFiyAr9e
-{
-  char_T f1[15];
-  char_T f2[12];
-  char_T f3[15];
-  char_T f4[11];
-};
-
-#endif                                 /* c5_struct_c5_tag_FWAx9YmgCYqLkaFiyAr9e */
-
-#ifndef c5_typedef_c5_cell_39
-#define c5_typedef_c5_cell_39
-
-typedef struct c5_tag_FWAx9YmgCYqLkaFiyAr9e c5_cell_39;
-
-#endif                                 /* c5_typedef_c5_cell_39 */
 
 #ifndef c5_struct_c5_tag_sslUvYZQflbyxZZRL9dphqE
 #define c5_struct_c5_tag_sslUvYZQflbyxZZRL9dphqE
@@ -2847,74 +2659,6 @@ typedef struct c5_tag_hGJZsKrUO8T9rOmAytsPq c5_s_hGJZsKrUO8T9rOmAytsPq;
 
 #endif                                 /* c5_typedef_c5_s_hGJZsKrUO8T9rOmAytsPq */
 
-#ifndef c5_struct_c5_tag_rs0J7tUaO8r8RV5HCYwLTD
-#define c5_struct_c5_tag_rs0J7tUaO8r8RV5HCYwLTD
-
-struct c5_tag_rs0J7tUaO8r8RV5HCYwLTD
-{
-  c5_cell_wrap_37 _data;
-};
-
-#endif                                 /* c5_struct_c5_tag_rs0J7tUaO8r8RV5HCYwLTD */
-
-#ifndef c5_typedef_c5_s_rs0J7tUaO8r8RV5HCYwLTD
-#define c5_typedef_c5_s_rs0J7tUaO8r8RV5HCYwLTD
-
-typedef struct c5_tag_rs0J7tUaO8r8RV5HCYwLTD c5_s_rs0J7tUaO8r8RV5HCYwLTD;
-
-#endif                                 /* c5_typedef_c5_s_rs0J7tUaO8r8RV5HCYwLTD */
-
-#ifndef c5_struct_c5_tag_PziPEzZoKKixmpD5T9qTcD
-#define c5_struct_c5_tag_PziPEzZoKKixmpD5T9qTcD
-
-struct c5_tag_PziPEzZoKKixmpD5T9qTcD
-{
-  c5_sG4eiVjMQ0O8d9Qp49KylpE nontunableWorkspace;
-};
-
-#endif                                 /* c5_struct_c5_tag_PziPEzZoKKixmpD5T9qTcD */
-
-#ifndef c5_typedef_c5_s_PziPEzZoKKixmpD5T9qTcD
-#define c5_typedef_c5_s_PziPEzZoKKixmpD5T9qTcD
-
-typedef struct c5_tag_PziPEzZoKKixmpD5T9qTcD c5_s_PziPEzZoKKixmpD5T9qTcD;
-
-#endif                                 /* c5_typedef_c5_s_PziPEzZoKKixmpD5T9qTcD */
-
-#ifndef c5_struct_c5_tag_qRxSe9N4qwJIjT7M2BxNL
-#define c5_struct_c5_tag_qRxSe9N4qwJIjT7M2BxNL
-
-struct c5_tag_qRxSe9N4qwJIjT7M2BxNL
-{
-  c5_cell_38 _data;
-};
-
-#endif                                 /* c5_struct_c5_tag_qRxSe9N4qwJIjT7M2BxNL */
-
-#ifndef c5_typedef_c5_s_qRxSe9N4qwJIjT7M2BxNL
-#define c5_typedef_c5_s_qRxSe9N4qwJIjT7M2BxNL
-
-typedef struct c5_tag_qRxSe9N4qwJIjT7M2BxNL c5_s_qRxSe9N4qwJIjT7M2BxNL;
-
-#endif                                 /* c5_typedef_c5_s_qRxSe9N4qwJIjT7M2BxNL */
-
-#ifndef c5_struct_c5_tag_4dijvwFFQt8JouTajf5bDH
-#define c5_struct_c5_tag_4dijvwFFQt8JouTajf5bDH
-
-struct c5_tag_4dijvwFFQt8JouTajf5bDH
-{
-  c5_cell_39 _data;
-};
-
-#endif                                 /* c5_struct_c5_tag_4dijvwFFQt8JouTajf5bDH */
-
-#ifndef c5_typedef_c5_s_4dijvwFFQt8JouTajf5bDH
-#define c5_typedef_c5_s_4dijvwFFQt8JouTajf5bDH
-
-typedef struct c5_tag_4dijvwFFQt8JouTajf5bDH c5_s_4dijvwFFQt8JouTajf5bDH;
-
-#endif                                 /* c5_typedef_c5_s_4dijvwFFQt8JouTajf5bDH */
-
 #ifndef c5_struct_c5_tag_zDw1a7r6SMjlHMd1yKaX8
 #define c5_struct_c5_tag_zDw1a7r6SMjlHMd1yKaX8
 
@@ -3454,6 +3198,8 @@ typedef struct {
   boolean_T c5_path_x_not_empty;
   c5_coder_array_real_T c5_path_y;
   boolean_T c5_path_y_not_empty;
+  real_T c5_timer;
+  boolean_T c5_timer_not_empty;
   real_T c5_future_wp_idx;
   boolean_T c5_future_wp_idx_not_empty;
   real_T c5_current_wp_idx;
@@ -3463,13 +3209,13 @@ typedef struct {
   uint8_T c5_JITStateAnimation[1];
   uint8_T c5_JITTransitionAnimation[1];
   uint32_T c5_mlFcnLineNumber;
-  void *c5_fcnDataPtrs[37];
-  const char_T *c5_dataNames[37];
+  void *c5_fcnDataPtrs[28];
+  const char_T *c5_dataNames[28];
   uint32_T c5_numFcnVars;
-  uint32_T c5_ssIds[37];
-  uint32_T c5_statuses[37];
-  void *c5_outMexFcns[37];
-  void *c5_inMexFcns[37];
+  uint32_T c5_ssIds[28];
+  uint32_T c5_statuses[28];
+  void *c5_outMexFcns[28];
+  void *c5_inMexFcns[28];
   c5_nav_algs_internal_plannerAStarGrid c5_astarInternal;
   c5_plannerAStarGrid c5_planner;
   real_T c5_pose1[426400];
@@ -3488,8 +3234,9 @@ typedef struct {
   boolean_T c5_logical_map[213200];
   boolean_T c5_b_logical_map[213200];
   boolean_T c5_c_logical_map[213200];
-  c5_binaryOccupancyMap c5_occupancy_map;
   boolean_T c5_d_logical_map[213200];
+  c5_binaryOccupancyMap c5_occupancy_map;
+  boolean_T c5_e_logical_map[213200];
   int8_T c5_ExploredNodes[213200];
   int8_T c5_ClosedMAT[213200];
   boolean_T c5_x[213200];
@@ -3502,7 +3249,7 @@ typedef struct {
   int32_T c5_varargout_6[213200];
   int32_T c5_vk[213200];
   c5_binaryOccupancyMap c5_b_occupancy_map;
-  boolean_T c5_e_logical_map[213200];
+  boolean_T c5_f_logical_map[213200];
   real_T c5_occMat[213200];
   real_T c5_b_y[213200];
   real_T c5_allCol[213200];
@@ -3527,15 +3274,10 @@ typedef struct {
   void *c5_fEmlrtCtx;
   real_T (*c5_waypointsx)[4];
   real_T (*c5_waypointsy)[4];
-  boolean_T (*c5_f_logical_map)[213200];
+  boolean_T (*c5_g_logical_map)[213200];
   real_T *c5_distance_from_wp;
   real_T *c5_target_th;
-  real_T (*c5_scan_angles)[30];
-  real_T (*c5_ranges)[30];
-  real_T (*c5_object_detection)[15];
   real_T *c5_sigma_dist;
-  real_T *c5_min_wall_collision_dist;
-  real_T *c5_min_obj_collision_dist;
   real_T *c5_b_x;
   real_T *c5_d_y;
   real_T *c5_capture_distance;
