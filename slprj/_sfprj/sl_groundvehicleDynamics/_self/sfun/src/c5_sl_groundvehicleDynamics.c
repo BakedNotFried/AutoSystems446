@@ -199,969 +199,964 @@ static emlrtMCInfo c5_bb_emlrtMCI = { 18,/* lineNo */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\eml\\+coder\\+internal\\+valattr\\validatencols.m"/* pName */
 };
 
-static emlrtRSInfo c5_emlrtRSI = { 22, /* lineNo */
+static emlrtRSInfo c5_emlrtRSI = { 17, /* lineNo */
   "Path Tracking System/Path Controller",/* fcnName */
   "#sl_groundvehicleDynamics:5963"     /* pathName */
 };
 
-static emlrtRSInfo c5_b_emlrtRSI = { 50,/* lineNo */
+static emlrtRSInfo c5_b_emlrtRSI = { 54,/* lineNo */
   "Path Tracking System/Path Controller",/* fcnName */
   "#sl_groundvehicleDynamics:5963"     /* pathName */
 };
 
-static emlrtRSInfo c5_c_emlrtRSI = { 51,/* lineNo */
+static emlrtRSInfo c5_c_emlrtRSI = { 55,/* lineNo */
   "Path Tracking System/Path Controller",/* fcnName */
   "#sl_groundvehicleDynamics:5963"     /* pathName */
 };
 
-static emlrtRSInfo c5_d_emlrtRSI = { 52,/* lineNo */
+static emlrtRSInfo c5_d_emlrtRSI = { 56,/* lineNo */
   "Path Tracking System/Path Controller",/* fcnName */
   "#sl_groundvehicleDynamics:5963"     /* pathName */
 };
 
-static emlrtRSInfo c5_e_emlrtRSI = { 73,/* lineNo */
+static emlrtRSInfo c5_e_emlrtRSI = { 86,/* lineNo */
   "Path Tracking System/Path Controller",/* fcnName */
   "#sl_groundvehicleDynamics:5963"     /* pathName */
 };
 
-static emlrtRSInfo c5_f_emlrtRSI = { 110,/* lineNo */
+static emlrtRSInfo c5_f_emlrtRSI = { 87,/* lineNo */
   "Path Tracking System/Path Controller",/* fcnName */
   "#sl_groundvehicleDynamics:5963"     /* pathName */
 };
 
-static emlrtRSInfo c5_g_emlrtRSI = { 111,/* lineNo */
+static emlrtRSInfo c5_g_emlrtRSI = { 94,/* lineNo */
   "Path Tracking System/Path Controller",/* fcnName */
   "#sl_groundvehicleDynamics:5963"     /* pathName */
 };
 
-static emlrtRSInfo c5_h_emlrtRSI = { 118,/* lineNo */
+static emlrtRSInfo c5_h_emlrtRSI = { 120,/* lineNo */
   "Path Tracking System/Path Controller",/* fcnName */
   "#sl_groundvehicleDynamics:5963"     /* pathName */
 };
 
-static emlrtRSInfo c5_i_emlrtRSI = { 128,/* lineNo */
+static emlrtRSInfo c5_i_emlrtRSI = { 107,/* lineNo */
   "Path Tracking System/Path Controller",/* fcnName */
   "#sl_groundvehicleDynamics:5963"     /* pathName */
 };
 
-static emlrtRSInfo c5_j_emlrtRSI = { 129,/* lineNo */
+static emlrtRSInfo c5_j_emlrtRSI = { 108,/* lineNo */
   "Path Tracking System/Path Controller",/* fcnName */
   "#sl_groundvehicleDynamics:5963"     /* pathName */
 };
 
-static emlrtRSInfo c5_k_emlrtRSI = { 1,/* lineNo */
+static emlrtRSInfo c5_k_emlrtRSI = { 129,/* lineNo */
+  "Path Tracking System/Path Controller",/* fcnName */
+  "#sl_groundvehicleDynamics:5963"     /* pathName */
+};
+
+static emlrtRSInfo c5_l_emlrtRSI = { 130,/* lineNo */
+  "Path Tracking System/Path Controller",/* fcnName */
+  "#sl_groundvehicleDynamics:5963"     /* pathName */
+};
+
+static emlrtRSInfo c5_m_emlrtRSI = { 1,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_l_emlrtRSI = { 1,/* lineNo */
+static emlrtRSInfo c5_n_emlrtRSI = { 1,/* lineNo */
   "InternalAccess",                    /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+map\\+internal\\I"
   "nternalAccess.m"                    /* pathName */
 };
 
-static emlrtRSInfo c5_m_emlrtRSI = { 4,/* lineNo */
+static emlrtRSInfo c5_o_emlrtRSI = { 4,/* lineNo */
   "path_gen",                          /* fcnName */
   "C:\\Users\\Cam\\Documents\\MATLAB\\control_repo\\AutoSystems446\\path_gen.m"/* pathName */
 };
 
-static emlrtRSInfo c5_n_emlrtRSI = { 5,/* lineNo */
+static emlrtRSInfo c5_p_emlrtRSI = { 5,/* lineNo */
   "path_gen",                          /* fcnName */
   "C:\\Users\\Cam\\Documents\\MATLAB\\control_repo\\AutoSystems446\\path_gen.m"/* pathName */
 };
 
-static emlrtRSInfo c5_o_emlrtRSI = { 8,/* lineNo */
+static emlrtRSInfo c5_q_emlrtRSI = { 8,/* lineNo */
   "path_gen",                          /* fcnName */
   "C:\\Users\\Cam\\Documents\\MATLAB\\control_repo\\AutoSystems446\\path_gen.m"/* pathName */
 };
 
-static emlrtRSInfo c5_p_emlrtRSI = { 9,/* lineNo */
+static emlrtRSInfo c5_r_emlrtRSI = { 9,/* lineNo */
   "path_gen",                          /* fcnName */
   "C:\\Users\\Cam\\Documents\\MATLAB\\control_repo\\AutoSystems446\\path_gen.m"/* pathName */
 };
 
-static emlrtRSInfo c5_q_emlrtRSI = { 11,/* lineNo */
+static emlrtRSInfo c5_s_emlrtRSI = { 11,/* lineNo */
   "path_gen",                          /* fcnName */
   "C:\\Users\\Cam\\Documents\\MATLAB\\control_repo\\AutoSystems446\\path_gen.m"/* pathName */
 };
 
-static emlrtRSInfo c5_r_emlrtRSI = { 12,/* lineNo */
+static emlrtRSInfo c5_t_emlrtRSI = { 12,/* lineNo */
   "path_gen",                          /* fcnName */
   "C:\\Users\\Cam\\Documents\\MATLAB\\control_repo\\AutoSystems446\\path_gen.m"/* pathName */
 };
 
-static emlrtRSInfo c5_s_emlrtRSI = { 14,/* lineNo */
+static emlrtRSInfo c5_u_emlrtRSI = { 14,/* lineNo */
   "path_gen",                          /* fcnName */
   "C:\\Users\\Cam\\Documents\\MATLAB\\control_repo\\AutoSystems446\\path_gen.m"/* pathName */
 };
 
-static emlrtRSInfo c5_t_emlrtRSI = { 1,/* lineNo */
+static emlrtRSInfo c5_v_emlrtRSI = { 1,/* lineNo */
   "binaryOccupancyMap",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\binaryOccupancyMap.m"/* pathName */
 };
 
-static emlrtRSInfo c5_u_emlrtRSI = { 121,/* lineNo */
+static emlrtRSInfo c5_w_emlrtRSI = { 121,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_v_emlrtRSI = { 327,/* lineNo */
+static emlrtRSInfo c5_x_emlrtRSI = { 327,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_w_emlrtRSI = { 330,/* lineNo */
+static emlrtRSInfo c5_y_emlrtRSI = { 330,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_x_emlrtRSI = { 331,/* lineNo */
+static emlrtRSInfo c5_ab_emlrtRSI = { 331,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_y_emlrtRSI = { 349,/* lineNo */
+static emlrtRSInfo c5_bb_emlrtRSI = { 349,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_ab_emlrtRSI = { 382,/* lineNo */
+static emlrtRSInfo c5_cb_emlrtRSI = { 382,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_bb_emlrtRSI = { 387,/* lineNo */
+static emlrtRSInfo c5_db_emlrtRSI = { 387,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_cb_emlrtRSI = { 71,/* lineNo */
+static emlrtRSInfo c5_eb_emlrtRSI = { 71,/* lineNo */
   "SharedMapProperties",               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\SharedM"
   "apProperties.m"                     /* pathName */
 };
 
-static emlrtRSInfo c5_db_emlrtRSI = { 403,/* lineNo */
+static emlrtRSInfo c5_fb_emlrtRSI = { 403,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_eb_emlrtRSI = { 503,/* lineNo */
+static emlrtRSInfo c5_gb_emlrtRSI = { 503,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_fb_emlrtRSI = { 30,/* lineNo */
+static emlrtRSInfo c5_hb_emlrtRSI = { 30,/* lineNo */
   "CircularBufferIndex",               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\Circula"
   "rBufferIndex.m"                     /* pathName */
 };
 
-static emlrtRSInfo c5_gb_emlrtRSI = { 35,/* lineNo */
+static emlrtRSInfo c5_ib_emlrtRSI = { 35,/* lineNo */
   "CircularBuffer",                    /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\Circula"
   "rBuffer.m"                          /* pathName */
 };
 
-static emlrtRSInfo c5_hb_emlrtRSI = { 926,/* lineNo */
+static emlrtRSInfo c5_jb_emlrtRSI = { 926,/* lineNo */
   "binaryOccupancyMap",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\binaryOccupancyMap.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ib_emlrtRSI = { 727,/* lineNo */
+static emlrtRSInfo c5_kb_emlrtRSI = { 727,/* lineNo */
   "binaryOccupancyMap",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\binaryOccupancyMap.m"/* pathName */
 };
 
-static emlrtRSInfo c5_jb_emlrtRSI = { 873,/* lineNo */
+static emlrtRSInfo c5_lb_emlrtRSI = { 873,/* lineNo */
   "binaryOccupancyMap",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\binaryOccupancyMap.m"/* pathName */
 };
 
-static emlrtRSInfo c5_kb_emlrtRSI = { 1545,/* lineNo */
+static emlrtRSInfo c5_mb_emlrtRSI = { 1545,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_lb_emlrtRSI = { 1060,/* lineNo */
+static emlrtRSInfo c5_nb_emlrtRSI = { 1060,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_mb_emlrtRSI = { 365,/* lineNo */
+static emlrtRSInfo c5_ob_emlrtRSI = { 365,/* lineNo */
   "binaryOccupancyMap",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\binaryOccupancyMap.m"/* pathName */
 };
 
-static emlrtRSInfo c5_nb_emlrtRSI = { 364,/* lineNo */
+static emlrtRSInfo c5_pb_emlrtRSI = { 364,/* lineNo */
   "binaryOccupancyMap",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\binaryOccupancyMap.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ob_emlrtRSI = { 366,/* lineNo */
+static emlrtRSInfo c5_qb_emlrtRSI = { 366,/* lineNo */
   "binaryOccupancyMap",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\binaryOccupancyMap.m"/* pathName */
 };
 
-static emlrtRSInfo c5_pb_emlrtRSI = { 1438,/* lineNo */
+static emlrtRSInfo c5_rb_emlrtRSI = { 1438,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_qb_emlrtRSI = { 1441,/* lineNo */
+static emlrtRSInfo c5_sb_emlrtRSI = { 1441,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_rb_emlrtRSI = { 1444,/* lineNo */
+static emlrtRSInfo c5_tb_emlrtRSI = { 1444,/* lineNo */
   "MapLayer",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapLaye"
   "r.m"                                /* pathName */
 };
 
-static emlrtRSInfo c5_sb_emlrtRSI = { 15,/* lineNo */
+static emlrtRSInfo c5_ub_emlrtRSI = { 15,/* lineNo */
   "num2str",                           /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\eml\\+coder\\+internal\\num2str.m"/* pathName */
 };
 
-static emlrtRSInfo c5_tb_emlrtRSI = { 53,/* lineNo */
+static emlrtRSInfo c5_vb_emlrtRSI = { 53,/* lineNo */
   "flt2str",                           /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\coder\\coder\\lib\\+coder\\+internal\\flt2str.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ub_emlrtRSI = { 44,/* lineNo */
+static emlrtRSInfo c5_wb_emlrtRSI = { 44,/* lineNo */
   "mpower",                            /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\matfun\\mpower.m"/* pathName */
 };
 
-static emlrtRSInfo c5_vb_emlrtRSI = { 71,/* lineNo */
+static emlrtRSInfo c5_xb_emlrtRSI = { 71,/* lineNo */
   "power",                             /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\ops\\power.m"/* pathName */
 };
 
-static emlrtRSInfo c5_wb_emlrtRSI = { 525,/* lineNo */
+static emlrtRSInfo c5_yb_emlrtRSI = { 525,/* lineNo */
   "MapUtils",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\+nav\\+algs\\+internal\\MapUtils.m"/* pathName */
 };
 
-static emlrtRSInfo c5_xb_emlrtRSI = { 22,/* lineNo */
+static emlrtRSInfo c5_ac_emlrtRSI = { 22,/* lineNo */
   "inflate",                           /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\+nav\\+algs\\+internal\\inflate.m"/* pathName */
 };
 
-static emlrtRSInfo c5_yb_emlrtRSI = { 46,/* lineNo */
+static emlrtRSInfo c5_bc_emlrtRSI = { 46,/* lineNo */
   "inflate",                           /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\+nav\\+algs\\+internal\\+impl\\inflate.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ac_emlrtRSI = { 16,/* lineNo */
+static emlrtRSInfo c5_cc_emlrtRSI = { 16,/* lineNo */
   "sub2ind",                           /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\elmat\\sub2ind.m"/* pathName */
 };
 
-static emlrtRSInfo c5_bc_emlrtRSI = { 353,/* lineNo */
+static emlrtRSInfo c5_dc_emlrtRSI = { 353,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_cc_emlrtRSI = { 527,/* lineNo */
+static emlrtRSInfo c5_ec_emlrtRSI = { 527,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_dc_emlrtRSI = { 528,/* lineNo */
+static emlrtRSInfo c5_fc_emlrtRSI = { 528,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_ec_emlrtRSI = { 239,/* lineNo */
+static emlrtRSInfo c5_gc_emlrtRSI = { 239,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_fc_emlrtRSI = { 253,/* lineNo */
+static emlrtRSInfo c5_hc_emlrtRSI = { 253,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_gc_emlrtRSI = { 272,/* lineNo */
+static emlrtRSInfo c5_ic_emlrtRSI = { 272,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_hc_emlrtRSI = { 275,/* lineNo */
+static emlrtRSInfo c5_jc_emlrtRSI = { 275,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ic_emlrtRSI = { 285,/* lineNo */
+static emlrtRSInfo c5_kc_emlrtRSI = { 285,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_jc_emlrtRSI = { 288,/* lineNo */
+static emlrtRSInfo c5_lc_emlrtRSI = { 288,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_kc_emlrtRSI = { 296,/* lineNo */
+static emlrtRSInfo c5_mc_emlrtRSI = { 296,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_lc_emlrtRSI = { 305,/* lineNo */
+static emlrtRSInfo c5_nc_emlrtRSI = { 305,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_mc_emlrtRSI = { 310,/* lineNo */
+static emlrtRSInfo c5_oc_emlrtRSI = { 310,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_nc_emlrtRSI = { 1,/* lineNo */
+static emlrtRSInfo c5_pc_emlrtRSI = { 1,/* lineNo */
   "InternalAccess",                    /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\+nav\\+algs\\+internal\\InternalAccess.m"/* pathName */
 };
 
-static emlrtRSInfo c5_oc_emlrtRSI = { 325,/* lineNo */
+static emlrtRSInfo c5_qc_emlrtRSI = { 325,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_pc_emlrtRSI = { 683,/* lineNo */
+static emlrtRSInfo c5_rc_emlrtRSI = { 683,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_qc_emlrtRSI = { 699,/* lineNo */
+static emlrtRSInfo c5_sc_emlrtRSI = { 699,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_rc_emlrtRSI = { 19,/* lineNo */
+static emlrtRSInfo c5_tc_emlrtRSI = { 19,/* lineNo */
   "ind2sub",                           /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\elmat\\ind2sub.m"/* pathName */
 };
 
-static emlrtRSInfo c5_sc_emlrtRSI = { 377,/* lineNo */
+static emlrtRSInfo c5_uc_emlrtRSI = { 377,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_tc_emlrtRSI = { 378,/* lineNo */
+static emlrtRSInfo c5_vc_emlrtRSI = { 378,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_uc_emlrtRSI = { 398,/* lineNo */
+static emlrtRSInfo c5_wc_emlrtRSI = { 398,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_vc_emlrtRSI = { 399,/* lineNo */
+static emlrtRSInfo c5_xc_emlrtRSI = { 399,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_wc_emlrtRSI = { 400,/* lineNo */
+static emlrtRSInfo c5_yc_emlrtRSI = { 400,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_xc_emlrtRSI = { 366,/* lineNo */
+static emlrtRSInfo c5_ad_emlrtRSI = { 366,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_yc_emlrtRSI = { 367,/* lineNo */
+static emlrtRSInfo c5_bd_emlrtRSI = { 367,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ad_emlrtRSI = { 387,/* lineNo */
+static emlrtRSInfo c5_cd_emlrtRSI = { 387,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_bd_emlrtRSI = { 388,/* lineNo */
+static emlrtRSInfo c5_dd_emlrtRSI = { 388,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_cd_emlrtRSI = { 389,/* lineNo */
+static emlrtRSInfo c5_ed_emlrtRSI = { 389,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_dd_emlrtRSI = { 485,/* lineNo */
+static emlrtRSInfo c5_fd_emlrtRSI = { 485,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ed_emlrtRSI = { 487,/* lineNo */
+static emlrtRSInfo c5_gd_emlrtRSI = { 487,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_fd_emlrtRSI = { 498,/* lineNo */
+static emlrtRSInfo c5_hd_emlrtRSI = { 498,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_gd_emlrtRSI = { 499,/* lineNo */
+static emlrtRSInfo c5_id_emlrtRSI = { 499,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_hd_emlrtRSI = { 500,/* lineNo */
+static emlrtRSInfo c5_jd_emlrtRSI = { 500,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_id_emlrtRSI = { 506,/* lineNo */
+static emlrtRSInfo c5_kd_emlrtRSI = { 506,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_jd_emlrtRSI = { 511,/* lineNo */
+static emlrtRSInfo c5_ld_emlrtRSI = { 511,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_kd_emlrtRSI = { 519,/* lineNo */
+static emlrtRSInfo c5_md_emlrtRSI = { 519,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ld_emlrtRSI = { 522,/* lineNo */
+static emlrtRSInfo c5_nd_emlrtRSI = { 522,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_md_emlrtRSI = { 526,/* lineNo */
+static emlrtRSInfo c5_od_emlrtRSI = { 526,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_nd_emlrtRSI = { 516,/* lineNo */
+static emlrtRSInfo c5_pd_emlrtRSI = { 516,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_od_emlrtRSI = { 93,/* lineNo */
+static emlrtRSInfo c5_qd_emlrtRSI = { 93,/* lineNo */
   "validateattributes",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\lang\\validateattributes.m"/* pathName */
 };
 
-static emlrtRSInfo c5_pd_emlrtRSI = { 729,/* lineNo */
+static emlrtRSInfo c5_rd_emlrtRSI = { 729,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_qd_emlrtRSI = { 732,/* lineNo */
+static emlrtRSInfo c5_sd_emlrtRSI = { 732,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_rd_emlrtRSI = { 733,/* lineNo */
+static emlrtRSInfo c5_td_emlrtRSI = { 733,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_sd_emlrtRSI = { 734,/* lineNo */
+static emlrtRSInfo c5_ud_emlrtRSI = { 734,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_td_emlrtRSI = { 749,/* lineNo */
+static emlrtRSInfo c5_vd_emlrtRSI = { 749,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ud_emlrtRSI = { 750,/* lineNo */
+static emlrtRSInfo c5_wd_emlrtRSI = { 750,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_vd_emlrtRSI = { 760,/* lineNo */
+static emlrtRSInfo c5_xd_emlrtRSI = { 760,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_wd_emlrtRSI = { 769,/* lineNo */
+static emlrtRSInfo c5_yd_emlrtRSI = { 769,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_xd_emlrtRSI = { 881,/* lineNo */
+static emlrtRSInfo c5_ae_emlrtRSI = { 881,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_yd_emlrtRSI = { 420,/* lineNo */
+static emlrtRSInfo c5_be_emlrtRSI = { 420,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_ae_emlrtRSI = { 425,/* lineNo */
+static emlrtRSInfo c5_ce_emlrtRSI = { 425,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_be_emlrtRSI = { 912,/* lineNo */
+static emlrtRSInfo c5_de_emlrtRSI = { 912,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ce_emlrtRSI = { 456,/* lineNo */
+static emlrtRSInfo c5_ee_emlrtRSI = { 456,/* lineNo */
   "binaryOccupancyMap",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\binaryOccupancyMap.m"/* pathName */
 };
 
-static emlrtRSInfo c5_de_emlrtRSI = { 925,/* lineNo */
+static emlrtRSInfo c5_fe_emlrtRSI = { 925,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ee_emlrtRSI = { 930,/* lineNo */
+static emlrtRSInfo c5_ge_emlrtRSI = { 930,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_fe_emlrtRSI = { 942,/* lineNo */
+static emlrtRSInfo c5_he_emlrtRSI = { 942,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ge_emlrtRSI = { 946,/* lineNo */
+static emlrtRSInfo c5_ie_emlrtRSI = { 946,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_he_emlrtRSI = { 945,/* lineNo */
+static emlrtRSInfo c5_je_emlrtRSI = { 945,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ie_emlrtRSI = { 950,/* lineNo */
+static emlrtRSInfo c5_ke_emlrtRSI = { 950,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_je_emlrtRSI = { 953,/* lineNo */
+static emlrtRSInfo c5_le_emlrtRSI = { 953,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ke_emlrtRSI = { 956,/* lineNo */
+static emlrtRSInfo c5_me_emlrtRSI = { 956,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_le_emlrtRSI = { 957,/* lineNo */
+static emlrtRSInfo c5_ne_emlrtRSI = { 957,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_me_emlrtRSI = { 88,/* lineNo */
+static emlrtRSInfo c5_oe_emlrtRSI = { 88,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ne_emlrtRSI = { 117,/* lineNo */
+static emlrtRSInfo c5_pe_emlrtRSI = { 117,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_oe_emlrtRSI = { 128,/* lineNo */
+static emlrtRSInfo c5_qe_emlrtRSI = { 128,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_pe_emlrtRSI = { 133,/* lineNo */
+static emlrtRSInfo c5_re_emlrtRSI = { 133,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_qe_emlrtRSI = { 135,/* lineNo */
+static emlrtRSInfo c5_se_emlrtRSI = { 135,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_re_emlrtRSI = { 139,/* lineNo */
+static emlrtRSInfo c5_te_emlrtRSI = { 139,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_se_emlrtRSI = { 31,/* lineNo */
+static emlrtRSInfo c5_ue_emlrtRSI = { 31,/* lineNo */
   "NameValueParser",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\robotics\\robotutilsint\\+robotics\\+core\\+internal\\+codegen\\NameValuePar"
   "ser.m"                              /* pathName */
 };
 
-static emlrtRSInfo c5_te_emlrtRSI = { 39,/* lineNo */
+static emlrtRSInfo c5_ve_emlrtRSI = { 39,/* lineNo */
   "NameValueParserInterface",          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\robotics\\robotutilsint\\+robotics\\+core\\+internal\\NameValueParserInterfa"
   "ce.m"                               /* pathName */
 };
 
-static emlrtRSInfo c5_ue_emlrtRSI = { 344,/* lineNo */
+static emlrtRSInfo c5_we_emlrtRSI = { 344,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ve_emlrtRSI = { 961,/* lineNo */
+static emlrtRSInfo c5_xe_emlrtRSI = { 961,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_we_emlrtRSI = { 171,/* lineNo */
+static emlrtRSInfo c5_ye_emlrtRSI = { 171,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_xe_emlrtRSI = { 175,/* lineNo */
+static emlrtRSInfo c5_af_emlrtRSI = { 175,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ye_emlrtRSI = { 180,/* lineNo */
+static emlrtRSInfo c5_bf_emlrtRSI = { 180,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_af_emlrtRSI = { 190,/* lineNo */
+static emlrtRSInfo c5_cf_emlrtRSI = { 190,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_bf_emlrtRSI = { 195,/* lineNo */
+static emlrtRSInfo c5_df_emlrtRSI = { 195,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_cf_emlrtRSI = { 201,/* lineNo */
+static emlrtRSInfo c5_ef_emlrtRSI = { 201,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_df_emlrtRSI = { 217,/* lineNo */
+static emlrtRSInfo c5_ff_emlrtRSI = { 217,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ef_emlrtRSI = { 222,/* lineNo */
+static emlrtRSInfo c5_gf_emlrtRSI = { 222,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ff_emlrtRSI = { 234,/* lineNo */
+static emlrtRSInfo c5_hf_emlrtRSI = { 234,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_gf_emlrtRSI = { 244,/* lineNo */
+static emlrtRSInfo c5_if_emlrtRSI = { 244,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_hf_emlrtRSI = { 252,/* lineNo */
+static emlrtRSInfo c5_jf_emlrtRSI = { 252,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_if_emlrtRSI = { 271,/* lineNo */
+static emlrtRSInfo c5_kf_emlrtRSI = { 271,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_jf_emlrtRSI = { 297,/* lineNo */
+static emlrtRSInfo c5_lf_emlrtRSI = { 297,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_kf_emlrtRSI = { 304,/* lineNo */
+static emlrtRSInfo c5_mf_emlrtRSI = { 304,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_lf_emlrtRSI = { 305,/* lineNo */
+static emlrtRSInfo c5_nf_emlrtRSI = { 305,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_mf_emlrtRSI = { 306,/* lineNo */
+static emlrtRSInfo c5_of_emlrtRSI = { 306,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_nf_emlrtRSI = { 45,/* lineNo */
+static emlrtRSInfo c5_pf_emlrtRSI = { 45,/* lineNo */
   "PriorityQueue",                     /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\PriorityQueue.m"/* pathName */
 };
 
-static emlrtRSInfo c5_of_emlrtRSI = { 489,/* lineNo */
+static emlrtRSInfo c5_qf_emlrtRSI = { 489,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_pf_emlrtRSI = { 492,/* lineNo */
+static emlrtRSInfo c5_rf_emlrtRSI = { 492,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_qf_emlrtRSI = { 493,/* lineNo */
+static emlrtRSInfo c5_sf_emlrtRSI = { 493,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_rf_emlrtRSI = { 466,/* lineNo */
+static emlrtRSInfo c5_tf_emlrtRSI = { 466,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_sf_emlrtRSI = { 556,/* lineNo */
+static emlrtRSInfo c5_uf_emlrtRSI = { 556,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_tf_emlrtRSI = { 1073,/* lineNo */
+static emlrtRSInfo c5_vf_emlrtRSI = { 1073,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_uf_emlrtRSI = { 71,/* lineNo */
+static emlrtRSInfo c5_wf_emlrtRSI = { 71,/* lineNo */
   "PriorityQueue",                     /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\PriorityQueue.m"/* pathName */
 };
 
-static emlrtRSInfo c5_vf_emlrtRSI = { 506,/* lineNo */
+static emlrtRSInfo c5_xf_emlrtRSI = { 506,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_wf_emlrtRSI = { 508,/* lineNo */
+static emlrtRSInfo c5_yf_emlrtRSI = { 508,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_xf_emlrtRSI = { 509,/* lineNo */
+static emlrtRSInfo c5_ag_emlrtRSI = { 509,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_yf_emlrtRSI = { 39,/* lineNo */
+static emlrtRSInfo c5_bg_emlrtRSI = { 39,/* lineNo */
   "find",                              /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ag_emlrtRSI = { 144,/* lineNo */
+static emlrtRSInfo c5_cg_emlrtRSI = { 144,/* lineNo */
   "find",                              /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pathName */
 };
 
-static emlrtRSInfo c5_bg_emlrtRSI = { 402,/* lineNo */
+static emlrtRSInfo c5_dg_emlrtRSI = { 402,/* lineNo */
   "find",                              /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pathName */
 };
 
-static emlrtRSInfo c5_cg_emlrtRSI = { 42,/* lineNo */
+static emlrtRSInfo c5_eg_emlrtRSI = { 42,/* lineNo */
   "indexShapeCheck",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\eml\\+coder\\+internal\\indexShapeCheck.m"/* pathName */
 };
 
-static emlrtRSInfo c5_dg_emlrtRSI = { 991,/* lineNo */
+static emlrtRSInfo c5_fg_emlrtRSI = { 991,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_eg_emlrtRSI = { 990,/* lineNo */
+static emlrtRSInfo c5_gg_emlrtRSI = { 990,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_fg_emlrtRSI = { 977,/* lineNo */
+static emlrtRSInfo c5_hg_emlrtRSI = { 977,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_gg_emlrtRSI = { 974,/* lineNo */
+static emlrtRSInfo c5_ig_emlrtRSI = { 974,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_hg_emlrtRSI = { 968,/* lineNo */
+static emlrtRSInfo c5_jg_emlrtRSI = { 968,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ig_emlrtRSI = { 967,/* lineNo */
+static emlrtRSInfo c5_kg_emlrtRSI = { 967,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_jg_emlrtRSI = { 965,/* lineNo */
+static emlrtRSInfo c5_lg_emlrtRSI = { 965,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_kg_emlrtRSI = { 415,/* lineNo */
+static emlrtRSInfo c5_mg_emlrtRSI = { 415,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_lg_emlrtRSI = { 426,/* lineNo */
+static emlrtRSInfo c5_ng_emlrtRSI = { 426,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_mg_emlrtRSI = { 14,/* lineNo */
+static emlrtRSInfo c5_og_emlrtRSI = { 14,/* lineNo */
   "warning",                           /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\coder\\coder\\lib\\+coder\\+internal\\warning.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ng_emlrtRSI = { 1009,/* lineNo */
+static emlrtRSInfo c5_pg_emlrtRSI = { 1009,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_og_emlrtRSI = { 1018,/* lineNo */
+static emlrtRSInfo c5_qg_emlrtRSI = { 1018,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_pg_emlrtRSI = { 1021,/* lineNo */
+static emlrtRSInfo c5_rg_emlrtRSI = { 1021,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_qg_emlrtRSI = { 1028,/* lineNo */
+static emlrtRSInfo c5_sg_emlrtRSI = { 1028,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_rg_emlrtRSI = { 1029,/* lineNo */
+static emlrtRSInfo c5_tg_emlrtRSI = { 1029,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_sg_emlrtRSI = { 1031,/* lineNo */
+static emlrtRSInfo c5_ug_emlrtRSI = { 1031,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_tg_emlrtRSI = { 301,/* lineNo */
+static emlrtRSInfo c5_vg_emlrtRSI = { 301,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_ug_emlrtRSI = { 305,/* lineNo */
+static emlrtRSInfo c5_wg_emlrtRSI = { 305,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_vg_emlrtRSI = { 509,/* lineNo */
+static emlrtRSInfo c5_xg_emlrtRSI = { 509,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_wg_emlrtRSI = { 510,/* lineNo */
+static emlrtRSInfo c5_yg_emlrtRSI = { 510,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_xg_emlrtRSI = { 520,/* lineNo */
+static emlrtRSInfo c5_ah_emlrtRSI = { 520,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_yg_emlrtRSI = { 39,/* lineNo */
+static emlrtRSInfo c5_bh_emlrtRSI = { 39,/* lineNo */
   "cat",                               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\eml\\+coder\\+internal\\cat.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ah_emlrtRSI = { 113,/* lineNo */
+static emlrtRSInfo c5_ch_emlrtRSI = { 113,/* lineNo */
   "cat",                               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\eml\\+coder\\+internal\\cat.m"/* pathName */
 };
 
-static emlrtRSInfo c5_bh_emlrtRSI = { 16,/* lineNo */
-  "any",                               /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\ops\\any.m"/* pathName */
-};
-
-static emlrtRSInfo c5_ch_emlrtRSI = { 143,/* lineNo */
-  "allOrAny",                          /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\eml\\+coder\\+internal\\allOrAny.m"/* pathName */
-};
-
-static emlrtRSInfo c5_dh_emlrtRSI = { 20,/* lineNo */
-  "eml_int_forloop_overflow_check",    /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\eml\\eml_int_forloop_overflow_check.m"/* pathName */
-};
-
-static emlrtRSInfo c5_eh_emlrtRSI = { 22,/* lineNo */
+static emlrtRSInfo c5_dh_emlrtRSI = { 22,/* lineNo */
   "matlabCodegenHandle",               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\eml\\+coder\\+internal\\matlabCodegenHandle.m"/* pathName */
 };
 
-static emlrtRTEInfo c5_emlrtRTEI = { 23,/* lineNo */
+static emlrtRTEInfo c5_emlrtRTEI = { 18,/* lineNo */
   9,                                   /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963"     /* pName */
 };
 
-static emlrtRTEInfo c5_b_emlrtRTEI = { 24,/* lineNo */
+static emlrtRTEInfo c5_b_emlrtRTEI = { 19,/* lineNo */
   9,                                   /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963"     /* pName */
 };
 
-static emlrtRTEInfo c5_c_emlrtRTEI = { 73,/* lineNo */
+static emlrtRTEInfo c5_c_emlrtRTEI = { 95,/* lineNo */
   9,                                   /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963"     /* pName */
 };
 
-static emlrtRTEInfo c5_d_emlrtRTEI = { 74,/* lineNo */
+static emlrtRTEInfo c5_d_emlrtRTEI = { 96,/* lineNo */
   9,                                   /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963"     /* pName */
 };
 
-static emlrtRTEInfo c5_e_emlrtRTEI = { 119,/* lineNo */
+static emlrtRTEInfo c5_e_emlrtRTEI = { 121,/* lineNo */
   9,                                   /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963"     /* pName */
 };
 
-static emlrtRTEInfo c5_f_emlrtRTEI = { 120,/* lineNo */
+static emlrtRTEInfo c5_f_emlrtRTEI = { 122,/* lineNo */
   9,                                   /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963"     /* pName */
@@ -1581,92 +1576,86 @@ static emlrtRTEInfo c5_xc_emlrtRTEI = { 305,/* lineNo */
   "rface.m"                            /* pName */
 };
 
-static emlrtRTEInfo c5_yc_emlrtRTEI = { 144,/* lineNo */
-  9,                                   /* colNo */
-  "find",                              /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pName */
-};
-
-static emlrtRTEInfo c5_ad_emlrtRTEI = { 18,/* lineNo */
+static emlrtRTEInfo c5_yc_emlrtRTEI = { 13,/* lineNo */
   16,                                  /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963"     /* pName */
 };
 
-static emlrtRTEInfo c5_bd_emlrtRTEI = { 19,/* lineNo */
+static emlrtRTEInfo c5_ad_emlrtRTEI = { 14,/* lineNo */
   16,                                  /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963"     /* pName */
 };
 
-static emlrtRTEInfo c5_cd_emlrtRTEI = { 22,/* lineNo */
+static emlrtRTEInfo c5_bd_emlrtRTEI = { 17,/* lineNo */
   9,                                   /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963"     /* pName */
 };
 
-static emlrtRTEInfo c5_dd_emlrtRTEI = { 14,/* lineNo */
+static emlrtRTEInfo c5_cd_emlrtRTEI = { 14,/* lineNo */
   12,                                  /* colNo */
   "path_gen",                          /* fName */
   "C:\\Users\\Cam\\Documents\\MATLAB\\control_repo\\AutoSystems446\\path_gen.m"/* pName */
 };
 
-static emlrtRTEInfo c5_ed_emlrtRTEI = { 12,/* lineNo */
+static emlrtRTEInfo c5_dd_emlrtRTEI = { 12,/* lineNo */
   17,                                  /* colNo */
   "path_gen",                          /* fName */
   "C:\\Users\\Cam\\Documents\\MATLAB\\control_repo\\AutoSystems446\\path_gen.m"/* pName */
 };
 
-static emlrtRTEInfo c5_fd_emlrtRTEI = { 57,/* lineNo */
+static emlrtRTEInfo c5_ed_emlrtRTEI = { 57,/* lineNo */
   25,                                  /* colNo */
   "strcmp",                            /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\eml\\+coder\\+internal\\strcmp.m"/* pName */
 };
 
-static emlrtRTEInfo c5_gd_emlrtRTEI = { 304,/* lineNo */
+static emlrtRTEInfo c5_fd_emlrtRTEI = { 304,/* lineNo */
   13,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtRTEInfo c5_hd_emlrtRTEI = { 31,/* lineNo */
+static emlrtRTEInfo c5_gd_emlrtRTEI = { 31,/* lineNo */
   6,                                   /* colNo */
   "find",                              /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pName */
 };
 
-static emlrtRTEInfo c5_id_emlrtRTEI = { 344,/* lineNo */
+static emlrtRTEInfo c5_hd_emlrtRTEI = { 344,/* lineNo */
   13,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtRTEInfo c5_jd_emlrtRTEI = { 963,/* lineNo */
+static emlrtRTEInfo c5_id_emlrtRTEI = { 963,/* lineNo */
   18,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtRTEInfo c5_kd_emlrtRTEI = { 986,/* lineNo */
+static emlrtRTEInfo c5_jd_emlrtRTEI = { 986,/* lineNo */
   17,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtRTEInfo c5_ld_emlrtRTEI = { 1021,/* lineNo */
+static emlrtRTEInfo c5_kd_emlrtRTEI = { 1021,/* lineNo */
   17,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtRTEInfo c5_md_emlrtRTEI = { 509,/* lineNo */
+static emlrtRTEInfo c5_ld_emlrtRTEI = { 509,/* lineNo */
   13,                                  /* colNo */
   "MapInterface",                      /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pName */
 };
 
-static emlrtRTEInfo c5_nd_emlrtRTEI = { 116,/* lineNo */
+static emlrtRTEInfo c5_md_emlrtRTEI = { 116,/* lineNo */
   1,                                   /* colNo */
   "cat",                               /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\eml\\eml\\+coder\\+internal\\cat.m"/* pName */
@@ -1674,7 +1663,7 @@ static emlrtRTEInfo c5_nd_emlrtRTEI = { 116,/* lineNo */
 
 static emlrtBCInfo c5_emlrtBCI = { 0,  /* iFirst */
   MAX_int32_T,                         /* iLast */
-  45,                                  /* lineNo */
+  49,                                  /* lineNo */
   21,                                  /* colNo */
   "path_x",                            /* aName */
   "Path Tracking System/Path Controller",/* fName */
@@ -1684,17 +1673,7 @@ static emlrtBCInfo c5_emlrtBCI = { 0,  /* iFirst */
 
 static emlrtBCInfo c5_b_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  76,                                  /* lineNo */
-  45,                                  /* colNo */
-  "detections",                        /* aName */
-  "Path Tracking System/Path Controller",/* fName */
-  "#sl_groundvehicleDynamics:5963",    /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_c_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  46,                                  /* lineNo */
+  50,                                  /* lineNo */
   19,                                  /* colNo */
   "path_x",                            /* aName */
   "Path Tracking System/Path Controller",/* fName */
@@ -1702,8 +1681,25 @@ static emlrtBCInfo c5_c_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_emlrtDCI = { 46, /* lineNo */
+static emlrtDCInfo c5_emlrtDCI = { 50, /* lineNo */
   19,                                  /* colNo */
+  "Path Tracking System/Path Controller",/* fName */
+  "#sl_groundvehicleDynamics:5963",    /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_c_emlrtBCI = { -1,/* iFirst */
+  -1,                                  /* iLast */
+  50,                                  /* lineNo */
+  43,                                  /* colNo */
+  "path_y",                            /* aName */
+  "Path Tracking System/Path Controller",/* fName */
+  "#sl_groundvehicleDynamics:5963",    /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c5_b_emlrtDCI = { 50,/* lineNo */
+  43,                                  /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963",    /* pName */
   1                                    /* checkKind */
@@ -1711,16 +1707,16 @@ static emlrtDCInfo c5_emlrtDCI = { 46, /* lineNo */
 
 static emlrtBCInfo c5_d_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  46,                                  /* lineNo */
-  43,                                  /* colNo */
-  "path_y",                            /* aName */
+  51,                                  /* lineNo */
+  18,                                  /* colNo */
+  "path_x",                            /* aName */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963",    /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_b_emlrtDCI = { 46,/* lineNo */
-  43,                                  /* colNo */
+static emlrtDCInfo c5_c_emlrtDCI = { 51,/* lineNo */
+  18,                                  /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963",    /* pName */
   1                                    /* checkKind */
@@ -1728,16 +1724,16 @@ static emlrtDCInfo c5_b_emlrtDCI = { 46,/* lineNo */
 
 static emlrtBCInfo c5_e_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  47,                                  /* lineNo */
-  18,                                  /* colNo */
-  "path_x",                            /* aName */
+  51,                                  /* lineNo */
+  41,                                  /* colNo */
+  "path_y",                            /* aName */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963",    /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_c_emlrtDCI = { 47,/* lineNo */
-  18,                                  /* colNo */
+static emlrtDCInfo c5_d_emlrtDCI = { 51,/* lineNo */
+  41,                                  /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963",    /* pName */
   1                                    /* checkKind */
@@ -1745,58 +1741,7 @@ static emlrtDCInfo c5_c_emlrtDCI = { 47,/* lineNo */
 
 static emlrtBCInfo c5_f_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  47,                                  /* lineNo */
-  41,                                  /* colNo */
-  "path_y",                            /* aName */
-  "Path Tracking System/Path Controller",/* fName */
-  "#sl_groundvehicleDynamics:5963",    /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_d_emlrtDCI = { 47,/* lineNo */
-  41,                                  /* colNo */
-  "Path Tracking System/Path Controller",/* fName */
-  "#sl_groundvehicleDynamics:5963",    /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_g_emlrtBCI = { 1,/* iFirst */
-  30,                                  /* iLast */
-  67,                                  /* lineNo */
-  45,                                  /* colNo */
-  "scan_angles",                       /* aName */
-  "Path Tracking System/Path Controller",/* fName */
-  "#sl_groundvehicleDynamics:5963",    /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_e_emlrtDCI = { 67,/* lineNo */
-  45,                                  /* colNo */
-  "Path Tracking System/Path Controller",/* fName */
-  "#sl_groundvehicleDynamics:5963",    /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_h_emlrtBCI = { 1,/* iFirst */
-  5,                                   /* iLast */
-  74,                                  /* lineNo */
-  39,                                  /* colNo */
-  "object_detection",                  /* aName */
-  "Path Tracking System/Path Controller",/* fName */
-  "#sl_groundvehicleDynamics:5963",    /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_f_emlrtDCI = { 74,/* lineNo */
-  39,                                  /* colNo */
-  "Path Tracking System/Path Controller",/* fName */
-  "#sl_groundvehicleDynamics:5963",    /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_i_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  108,                                 /* lineNo */
+  84,                                  /* lineNo */
   28,                                  /* colNo */
   "path_x",                            /* aName */
   "Path Tracking System/Path Controller",/* fName */
@@ -1804,16 +1749,16 @@ static emlrtBCInfo c5_i_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_g_emlrtDCI = { 108,/* lineNo */
+static emlrtDCInfo c5_e_emlrtDCI = { 84,/* lineNo */
   28,                                  /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963",    /* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_j_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_g_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  108,                                 /* lineNo */
+  84,                                  /* lineNo */
   51,                                  /* colNo */
   "path_y",                            /* aName */
   "Path Tracking System/Path Controller",/* fName */
@@ -1821,33 +1766,16 @@ static emlrtBCInfo c5_j_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_h_emlrtDCI = { 108,/* lineNo */
+static emlrtDCInfo c5_f_emlrtDCI = { 84,/* lineNo */
   51,                                  /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963",    /* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_k_emlrtBCI = { 1,/* iFirst */
-  5,                                   /* iLast */
-  78,                                  /* lineNo */
-  42,                                  /* colNo */
-  "object_detection",                  /* aName */
-  "Path Tracking System/Path Controller",/* fName */
-  "#sl_groundvehicleDynamics:5963",    /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_i_emlrtDCI = { 78,/* lineNo */
-  42,                                  /* colNo */
-  "Path Tracking System/Path Controller",/* fName */
-  "#sl_groundvehicleDynamics:5963",    /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_l_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_h_emlrtBCI = { 1,/* iFirst */
   4,                                   /* iLast */
-  118,                                 /* lineNo */
+  94,                                  /* lineNo */
   47,                                  /* colNo */
   "waypointsx",                        /* aName */
   "Path Tracking System/Path Controller",/* fName */
@@ -1855,16 +1783,16 @@ static emlrtBCInfo c5_l_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_j_emlrtDCI = { 118,/* lineNo */
+static emlrtDCInfo c5_g_emlrtDCI = { 94,/* lineNo */
   47,                                  /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963",    /* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_m_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_i_emlrtBCI = { 1,/* iFirst */
   4,                                   /* iLast */
-  118,                                 /* lineNo */
+  94,                                  /* lineNo */
   71,                                  /* colNo */
   "waypointsy",                        /* aName */
   "Path Tracking System/Path Controller",/* fName */
@@ -1872,7 +1800,41 @@ static emlrtBCInfo c5_m_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_k_emlrtDCI = { 118,/* lineNo */
+static emlrtDCInfo c5_h_emlrtDCI = { 94,/* lineNo */
+  71,                                  /* colNo */
+  "Path Tracking System/Path Controller",/* fName */
+  "#sl_groundvehicleDynamics:5963",    /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_j_emlrtBCI = { 1,/* iFirst */
+  4,                                   /* iLast */
+  120,                                 /* lineNo */
+  47,                                  /* colNo */
+  "waypointsx",                        /* aName */
+  "Path Tracking System/Path Controller",/* fName */
+  "#sl_groundvehicleDynamics:5963",    /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c5_i_emlrtDCI = { 120,/* lineNo */
+  47,                                  /* colNo */
+  "Path Tracking System/Path Controller",/* fName */
+  "#sl_groundvehicleDynamics:5963",    /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_k_emlrtBCI = { 1,/* iFirst */
+  4,                                   /* iLast */
+  120,                                 /* lineNo */
+  71,                                  /* colNo */
+  "waypointsy",                        /* aName */
+  "Path Tracking System/Path Controller",/* fName */
+  "#sl_groundvehicleDynamics:5963",    /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c5_j_emlrtDCI = { 120,/* lineNo */
   71,                                  /* colNo */
   "Path Tracking System/Path Controller",/* fName */
   "#sl_groundvehicleDynamics:5963",    /* pName */
@@ -1893,7 +1855,7 @@ static emlrtECInfo c5_b_emlrtECI = { -1,/* nDims */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\nav_rst\\nav_rst_lib\\+nav\\+algs\\+internal\\+impl\\inflate.m"/* pName */
 };
 
-static emlrtBCInfo c5_n_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_l_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   56,                                  /* lineNo */
   50,                                  /* colNo */
@@ -1903,7 +1865,7 @@ static emlrtBCInfo c5_n_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_o_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_m_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   18,                                  /* lineNo */
   19,                                  /* colNo */
@@ -1913,10 +1875,27 @@ static emlrtBCInfo c5_o_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_p_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_n_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   756,                                 /* lineNo */
   35,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c5_k_emlrtDCI = { 756,/* lineNo */
+  35,                                  /* colNo */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_o_emlrtBCI = { 1,/* iFirst */
+  520,                                 /* iLast */
+  756,                                 /* lineNo */
+  49,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
@@ -1924,30 +1903,13 @@ static emlrtBCInfo c5_p_emlrtBCI = { 1,/* iFirst */
 };
 
 static emlrtDCInfo c5_l_emlrtDCI = { 756,/* lineNo */
-  35,                                  /* colNo */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_q_emlrtBCI = { 1,/* iFirst */
-  520,                                 /* iLast */
-  756,                                 /* lineNo */
-  49,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_m_emlrtDCI = { 756,/* lineNo */
   49,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_r_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_p_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   757,                                 /* lineNo */
   36,                                  /* colNo */
@@ -1957,14 +1919,14 @@ static emlrtBCInfo c5_r_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_n_emlrtDCI = { 757,/* lineNo */
+static emlrtDCInfo c5_m_emlrtDCI = { 757,/* lineNo */
   36,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_s_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_q_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   757,                                 /* lineNo */
   51,                                  /* colNo */
@@ -1974,14 +1936,14 @@ static emlrtBCInfo c5_s_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_o_emlrtDCI = { 757,/* lineNo */
+static emlrtDCInfo c5_n_emlrtDCI = { 757,/* lineNo */
   51,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_t_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_r_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   913,                                 /* lineNo */
   27,                                  /* colNo */
@@ -1991,14 +1953,14 @@ static emlrtBCInfo c5_t_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_p_emlrtDCI = { 913,/* lineNo */
+static emlrtDCInfo c5_o_emlrtDCI = { 913,/* lineNo */
   27,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_u_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_s_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   197,                                 /* lineNo */
   33,                                  /* colNo */
@@ -2008,7 +1970,7 @@ static emlrtBCInfo c5_u_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_v_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_t_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   208,                                 /* lineNo */
   56,                                  /* colNo */
@@ -2018,7 +1980,7 @@ static emlrtBCInfo c5_v_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_w_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_u_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   209,                                 /* lineNo */
   56,                                  /* colNo */
@@ -2028,7 +1990,7 @@ static emlrtBCInfo c5_w_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_x_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_v_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   211,                                 /* lineNo */
   33,                                  /* colNo */
@@ -2038,14 +2000,14 @@ static emlrtBCInfo c5_x_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_q_emlrtDCI = { 223,/* lineNo */
+static emlrtDCInfo c5_p_emlrtDCI = { 223,/* lineNo */
   27,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_y_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_w_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   223,                                 /* lineNo */
   27,                                  /* colNo */
@@ -2055,14 +2017,14 @@ static emlrtBCInfo c5_y_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_r_emlrtDCI = { 223,/* lineNo */
+static emlrtDCInfo c5_q_emlrtDCI = { 223,/* lineNo */
   38,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ab_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_x_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   223,                                 /* lineNo */
   38,                                  /* colNo */
@@ -2072,9 +2034,29 @@ static emlrtBCInfo c5_ab_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_bb_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_y_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   259,                                 /* lineNo */
+  36,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  3                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_ab_emlrtBCI = { 1,/* iFirst */
+  520,                                 /* iLast */
+  259,                                 /* lineNo */
+  49,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  3                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_bb_emlrtBCI = { 1,/* iFirst */
+  410,                                 /* iLast */
+  260,                                 /* lineNo */
   36,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
@@ -2084,7 +2066,7 @@ static emlrtBCInfo c5_bb_emlrtBCI = { 1,/* iFirst */
 
 static emlrtBCInfo c5_cb_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
-  259,                                 /* lineNo */
+  260,                                 /* lineNo */
   49,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
@@ -2094,26 +2076,6 @@ static emlrtBCInfo c5_cb_emlrtBCI = { 1,/* iFirst */
 
 static emlrtBCInfo c5_db_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
-  260,                                 /* lineNo */
-  36,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_eb_emlrtBCI = { 1,/* iFirst */
-  520,                                 /* iLast */
-  260,                                 /* lineNo */
-  49,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_fb_emlrtBCI = { 1,/* iFirst */
-  410,                                 /* iLast */
   261,                                 /* lineNo */
   32,                                  /* colNo */
   "",                                  /* aName */
@@ -2122,7 +2084,7 @@ static emlrtBCInfo c5_fb_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_gb_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_eb_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   261,                                 /* lineNo */
   45,                                  /* colNo */
@@ -2132,7 +2094,7 @@ static emlrtBCInfo c5_gb_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_hb_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_fb_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   266,                                 /* lineNo */
   36,                                  /* colNo */
@@ -2142,7 +2104,7 @@ static emlrtBCInfo c5_hb_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ib_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_gb_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   271,                                 /* lineNo */
   50,                                  /* colNo */
@@ -2152,9 +2114,29 @@ static emlrtBCInfo c5_ib_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_jb_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_hb_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   282,                                 /* lineNo */
+  36,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  3                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_ib_emlrtBCI = { 1,/* iFirst */
+  520,                                 /* iLast */
+  282,                                 /* lineNo */
+  49,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  3                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_jb_emlrtBCI = { 1,/* iFirst */
+  410,                                 /* iLast */
+  283,                                 /* lineNo */
   36,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
@@ -2164,7 +2146,7 @@ static emlrtBCInfo c5_jb_emlrtBCI = { 1,/* iFirst */
 
 static emlrtBCInfo c5_kb_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
-  282,                                 /* lineNo */
+  283,                                 /* lineNo */
   49,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
@@ -2174,26 +2156,6 @@ static emlrtBCInfo c5_kb_emlrtBCI = { 1,/* iFirst */
 
 static emlrtBCInfo c5_lb_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
-  283,                                 /* lineNo */
-  36,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_mb_emlrtBCI = { 1,/* iFirst */
-  520,                                 /* iLast */
-  283,                                 /* lineNo */
-  49,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_nb_emlrtBCI = { 1,/* iFirst */
-  410,                                 /* iLast */
   284,                                 /* lineNo */
   32,                                  /* colNo */
   "",                                  /* aName */
@@ -2202,7 +2164,7 @@ static emlrtBCInfo c5_nb_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ob_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_mb_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   284,                                 /* lineNo */
   45,                                  /* colNo */
@@ -2212,7 +2174,7 @@ static emlrtBCInfo c5_ob_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_pb_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_nb_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   258,                                 /* lineNo */
   39,                                  /* colNo */
@@ -2222,7 +2184,7 @@ static emlrtBCInfo c5_pb_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_qb_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ob_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   258,                                 /* lineNo */
   52,                                  /* colNo */
@@ -2232,14 +2194,14 @@ static emlrtBCInfo c5_qb_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_s_emlrtDCI = { 303,/* lineNo */
+static emlrtDCInfo c5_r_emlrtDCI = { 303,/* lineNo */
   48,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_rb_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_pb_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   303,                                 /* lineNo */
   48,                                  /* colNo */
@@ -2256,14 +2218,14 @@ static emlrtECInfo c5_c_emlrtECI = { -1,/* nDims */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtDCInfo c5_t_emlrtDCI = { 304,/* lineNo */
+static emlrtDCInfo c5_s_emlrtDCI = { 304,/* lineNo */
   41,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_sb_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_qb_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   304,                                 /* lineNo */
   41,                                  /* colNo */
@@ -2280,14 +2242,14 @@ static emlrtECInfo c5_d_emlrtECI = { -1,/* nDims */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtDCInfo c5_u_emlrtDCI = { 360,/* lineNo */
+static emlrtDCInfo c5_t_emlrtDCI = { 360,/* lineNo */
   54,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_tb_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_rb_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   360,                                 /* lineNo */
   54,                                  /* colNo */
@@ -2297,14 +2259,14 @@ static emlrtBCInfo c5_tb_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_v_emlrtDCI = { 350,/* lineNo */
+static emlrtDCInfo c5_u_emlrtDCI = { 350,/* lineNo */
   38,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ub_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_sb_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   350,                                 /* lineNo */
   38,                                  /* colNo */
@@ -2314,7 +2276,7 @@ static emlrtBCInfo c5_ub_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_vb_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_tb_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   179,                                 /* lineNo */
   46,                                  /* colNo */
@@ -2324,8 +2286,42 @@ static emlrtBCInfo c5_vb_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_w_emlrtDCI = { 179,/* lineNo */
+static emlrtDCInfo c5_v_emlrtDCI = { 179,/* lineNo */
   46,                                  /* colNo */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_ub_emlrtBCI = { 1,/* iFirst */
+  520,                                 /* iLast */
+  179,                                 /* lineNo */
+  57,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c5_w_emlrtDCI = { 179,/* lineNo */
+  57,                                  /* colNo */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_vb_emlrtBCI = { 1,/* iFirst */
+  410,                                 /* iLast */
+  179,                                 /* lineNo */
+  20,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  3                                    /* checkKind */
+};
+
+static emlrtDCInfo c5_x_emlrtDCI = { 179,/* lineNo */
+  20,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
@@ -2334,24 +2330,7 @@ static emlrtDCInfo c5_w_emlrtDCI = { 179,/* lineNo */
 static emlrtBCInfo c5_wb_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   179,                                 /* lineNo */
-  57,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_x_emlrtDCI = { 179,/* lineNo */
-  57,                                  /* colNo */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_xb_emlrtBCI = { 1,/* iFirst */
-  410,                                 /* iLast */
-  179,                                 /* lineNo */
-  20,                                  /* colNo */
+  31,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -2359,30 +2338,13 @@ static emlrtBCInfo c5_xb_emlrtBCI = { 1,/* iFirst */
 };
 
 static emlrtDCInfo c5_y_emlrtDCI = { 179,/* lineNo */
-  20,                                  /* colNo */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_yb_emlrtBCI = { 1,/* iFirst */
-  520,                                 /* iLast */
-  179,                                 /* lineNo */
-  31,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_ab_emlrtDCI = { 179,/* lineNo */
   31,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ac_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_xb_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   180,                                 /* lineNo */
   28,                                  /* colNo */
@@ -2392,8 +2354,35 @@ static emlrtBCInfo c5_ac_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_bb_emlrtDCI = { 180,/* lineNo */
+static emlrtDCInfo c5_ab_emlrtDCI = { 180,/* lineNo */
   28,                                  /* colNo */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_yb_emlrtBCI = { 1,/* iFirst */
+  520,                                 /* iLast */
+  180,                                 /* lineNo */
+  28,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_ac_emlrtBCI = { 1,/* iFirst */
+  410,                                 /* iLast */
+  180,                                 /* lineNo */
+  64,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c5_bb_emlrtDCI = { 180,/* lineNo */
+  64,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
@@ -2402,7 +2391,7 @@ static emlrtDCInfo c5_bb_emlrtDCI = { 180,/* lineNo */
 static emlrtBCInfo c5_bc_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   180,                                 /* lineNo */
-  28,                                  /* colNo */
+  64,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -2412,7 +2401,7 @@ static emlrtBCInfo c5_bc_emlrtBCI = { 1,/* iFirst */
 static emlrtBCInfo c5_cc_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   180,                                 /* lineNo */
-  64,                                  /* colNo */
+  107,                                 /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -2420,7 +2409,7 @@ static emlrtBCInfo c5_cc_emlrtBCI = { 1,/* iFirst */
 };
 
 static emlrtDCInfo c5_cb_emlrtDCI = { 180,/* lineNo */
-  64,                                  /* colNo */
+  107,                                 /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
@@ -2429,7 +2418,7 @@ static emlrtDCInfo c5_cb_emlrtDCI = { 180,/* lineNo */
 static emlrtBCInfo c5_dc_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   180,                                 /* lineNo */
-  64,                                  /* colNo */
+  107,                                 /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -2439,7 +2428,7 @@ static emlrtBCInfo c5_dc_emlrtBCI = { 1,/* iFirst */
 static emlrtBCInfo c5_ec_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   180,                                 /* lineNo */
-  107,                                 /* colNo */
+  147,                                 /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -2447,7 +2436,7 @@ static emlrtBCInfo c5_ec_emlrtBCI = { 1,/* iFirst */
 };
 
 static emlrtDCInfo c5_db_emlrtDCI = { 180,/* lineNo */
-  107,                                 /* colNo */
+  147,                                 /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
@@ -2456,7 +2445,7 @@ static emlrtDCInfo c5_db_emlrtDCI = { 180,/* lineNo */
 static emlrtBCInfo c5_fc_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   180,                                 /* lineNo */
-  107,                                 /* colNo */
+  147,                                 /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -2465,16 +2454,16 @@ static emlrtBCInfo c5_fc_emlrtBCI = { 1,/* iFirst */
 
 static emlrtBCInfo c5_gc_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
-  180,                                 /* lineNo */
-  147,                                 /* colNo */
+  181,                                 /* lineNo */
+  27,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  0                                    /* checkKind */
+  3                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_eb_emlrtDCI = { 180,/* lineNo */
-  147,                                 /* colNo */
+static emlrtDCInfo c5_eb_emlrtDCI = { 181,/* lineNo */
+  27,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
@@ -2482,18 +2471,8 @@ static emlrtDCInfo c5_eb_emlrtDCI = { 180,/* lineNo */
 
 static emlrtBCInfo c5_hc_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
-  180,                                 /* lineNo */
-  147,                                 /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_ic_emlrtBCI = { 1,/* iFirst */
-  410,                                 /* iLast */
   181,                                 /* lineNo */
-  27,                                  /* colNo */
+  38,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -2501,30 +2480,13 @@ static emlrtBCInfo c5_ic_emlrtBCI = { 1,/* iFirst */
 };
 
 static emlrtDCInfo c5_fb_emlrtDCI = { 181,/* lineNo */
-  27,                                  /* colNo */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_jc_emlrtBCI = { 1,/* iFirst */
-  520,                                 /* iLast */
-  181,                                 /* lineNo */
-  38,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_gb_emlrtDCI = { 181,/* lineNo */
   38,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_kc_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ic_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   182,                                 /* lineNo */
   20,                                  /* colNo */
@@ -2534,14 +2496,14 @@ static emlrtBCInfo c5_kc_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_hb_emlrtDCI = { 182,/* lineNo */
+static emlrtDCInfo c5_gb_emlrtDCI = { 182,/* lineNo */
   20,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_lc_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_jc_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   182,                                 /* lineNo */
   31,                                  /* colNo */
@@ -2551,10 +2513,17 @@ static emlrtBCInfo c5_lc_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_ib_emlrtDCI = { 182,/* lineNo */
+static emlrtDCInfo c5_hb_emlrtDCI = { 182,/* lineNo */
   31,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtDCInfo c5_ib_emlrtDCI = { 92,/* lineNo */
+  48,                                  /* colNo */
+  "PriorityQueue",                     /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\PriorityQueue.m",/* pName */
   1                                    /* checkKind */
 };
 
@@ -2562,17 +2531,10 @@ static emlrtDCInfo c5_jb_emlrtDCI = { 92,/* lineNo */
   48,                                  /* colNo */
   "PriorityQueue",                     /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\PriorityQueue.m",/* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_kb_emlrtDCI = { 92,/* lineNo */
-  48,                                  /* colNo */
-  "PriorityQueue",                     /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\PriorityQueue.m",/* pName */
   4                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_mc_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_kc_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   291,                                 /* lineNo */
   35,                                  /* colNo */
@@ -2582,7 +2544,41 @@ static emlrtBCInfo c5_mc_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
+static emlrtDCInfo c5_kb_emlrtDCI = { 291,/* lineNo */
+  35,                                  /* colNo */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_lc_emlrtBCI = { 1,/* iFirst */
+  520,                                 /* iLast */
+  291,                                 /* lineNo */
+  46,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  0                                    /* checkKind */
+};
+
 static emlrtDCInfo c5_lb_emlrtDCI = { 291,/* lineNo */
+  46,                                  /* colNo */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_mc_emlrtBCI = { 1,/* iFirst */
+  410,                                 /* iLast */
+  203,                                 /* lineNo */
+  35,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  3                                    /* checkKind */
+};
+
+static emlrtDCInfo c5_mb_emlrtDCI = { 203,/* lineNo */
   35,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -2591,25 +2587,8 @@ static emlrtDCInfo c5_lb_emlrtDCI = { 291,/* lineNo */
 
 static emlrtBCInfo c5_nc_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
-  291,                                 /* lineNo */
-  46,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_mb_emlrtDCI = { 291,/* lineNo */
-  46,                                  /* colNo */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_oc_emlrtBCI = { 1,/* iFirst */
-  410,                                 /* iLast */
   203,                                 /* lineNo */
-  35,                                  /* colNo */
+  46,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -2617,30 +2596,13 @@ static emlrtBCInfo c5_oc_emlrtBCI = { 1,/* iFirst */
 };
 
 static emlrtDCInfo c5_nb_emlrtDCI = { 203,/* lineNo */
-  35,                                  /* colNo */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_pc_emlrtBCI = { 1,/* iFirst */
-  520,                                 /* iLast */
-  203,                                 /* lineNo */
-  46,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_ob_emlrtDCI = { 203,/* lineNo */
   46,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_qc_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_oc_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   208,                                 /* lineNo */
   43,                                  /* colNo */
@@ -2650,14 +2612,14 @@ static emlrtBCInfo c5_qc_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_pb_emlrtDCI = { 208,/* lineNo */
+static emlrtDCInfo c5_ob_emlrtDCI = { 208,/* lineNo */
   43,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_rc_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_pc_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   204,                                 /* lineNo */
   35,                                  /* colNo */
@@ -2667,14 +2629,14 @@ static emlrtBCInfo c5_rc_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_qb_emlrtDCI = { 204,/* lineNo */
+static emlrtDCInfo c5_pb_emlrtDCI = { 204,/* lineNo */
   35,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_sc_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_qc_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   204,                                 /* lineNo */
   46,                                  /* colNo */
@@ -2684,14 +2646,14 @@ static emlrtBCInfo c5_sc_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_rb_emlrtDCI = { 204,/* lineNo */
+static emlrtDCInfo c5_qb_emlrtDCI = { 204,/* lineNo */
   46,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_tc_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_rc_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   209,                                 /* lineNo */
   43,                                  /* colNo */
@@ -2701,14 +2663,14 @@ static emlrtBCInfo c5_tc_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_sb_emlrtDCI = { 209,/* lineNo */
+static emlrtDCInfo c5_rb_emlrtDCI = { 209,/* lineNo */
   43,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_uc_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_sc_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   211,                                 /* lineNo */
   50,                                  /* colNo */
@@ -2718,14 +2680,14 @@ static emlrtBCInfo c5_uc_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_tb_emlrtDCI = { 211,/* lineNo */
+static emlrtDCInfo c5_sb_emlrtDCI = { 211,/* lineNo */
   50,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_vc_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_tc_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   211,                                 /* lineNo */
   60,                                  /* colNo */
@@ -2735,14 +2697,14 @@ static emlrtBCInfo c5_vc_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_ub_emlrtDCI = { 211,/* lineNo */
+static emlrtDCInfo c5_tb_emlrtDCI = { 211,/* lineNo */
   60,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_wc_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_uc_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   231,                                 /* lineNo */
   33,                                  /* colNo */
@@ -2752,7 +2714,7 @@ static emlrtBCInfo c5_wc_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_xc_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_vc_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   232,                                 /* lineNo */
   33,                                  /* colNo */
@@ -2762,7 +2724,7 @@ static emlrtBCInfo c5_xc_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_yc_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_wc_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   525,                                 /* lineNo */
   92,                                  /* colNo */
@@ -2772,7 +2734,7 @@ static emlrtBCInfo c5_yc_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ad_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_xc_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   525,                                 /* lineNo */
   105,                                 /* colNo */
@@ -2782,7 +2744,7 @@ static emlrtBCInfo c5_ad_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_bd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_yc_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   304,                                 /* lineNo */
   80,                                  /* colNo */
@@ -2792,14 +2754,14 @@ static emlrtBCInfo c5_bd_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_vb_emlrtDCI = { 304,/* lineNo */
+static emlrtDCInfo c5_ub_emlrtDCI = { 304,/* lineNo */
   80,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_cd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ad_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   239,                                 /* lineNo */
   34,                                  /* colNo */
@@ -2809,7 +2771,7 @@ static emlrtBCInfo c5_cd_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_dd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_bd_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   239,                                 /* lineNo */
   47,                                  /* colNo */
@@ -2819,7 +2781,7 @@ static emlrtBCInfo c5_dd_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ed_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_cd_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   255,                                 /* lineNo */
   31,                                  /* colNo */
@@ -2829,7 +2791,7 @@ static emlrtBCInfo c5_ed_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_fd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_dd_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   255,                                 /* lineNo */
   44,                                  /* colNo */
@@ -2839,7 +2801,7 @@ static emlrtBCInfo c5_fd_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_gd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ed_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   274,                                 /* lineNo */
   55,                                  /* colNo */
@@ -2849,7 +2811,7 @@ static emlrtBCInfo c5_gd_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_hd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_fd_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   274,                                 /* lineNo */
   68,                                  /* colNo */
@@ -2859,7 +2821,7 @@ static emlrtBCInfo c5_hd_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_id_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_gd_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   285,                                 /* lineNo */
   80,                                  /* colNo */
@@ -2867,31 +2829,31 @@ static emlrtBCInfo c5_id_emlrtBCI = { 1,/* iFirst */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   0                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_hd_emlrtBCI = { 1,/* iFirst */
+  520,                                 /* iLast */
+  285,                                 /* lineNo */
+  93,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_id_emlrtBCI = { 1,/* iFirst */
+  410,                                 /* iLast */
+  285,                                 /* lineNo */
+  32,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  3                                    /* checkKind */
 };
 
 static emlrtBCInfo c5_jd_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   285,                                 /* lineNo */
-  93,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_kd_emlrtBCI = { 1,/* iFirst */
-  410,                                 /* iLast */
-  285,                                 /* lineNo */
-  32,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_ld_emlrtBCI = { 1,/* iFirst */
-  520,                                 /* iLast */
-  285,                                 /* lineNo */
   45,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
@@ -2899,7 +2861,7 @@ static emlrtBCInfo c5_ld_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_md_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_kd_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   262,                                 /* lineNo */
   80,                                  /* colNo */
@@ -2909,7 +2871,7 @@ static emlrtBCInfo c5_md_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_nd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ld_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   262,                                 /* lineNo */
   93,                                  /* colNo */
@@ -2919,7 +2881,7 @@ static emlrtBCInfo c5_nd_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_od_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_md_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   262,                                 /* lineNo */
   32,                                  /* colNo */
@@ -2929,7 +2891,7 @@ static emlrtBCInfo c5_od_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_pd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_nd_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   262,                                 /* lineNo */
   45,                                  /* colNo */
@@ -2939,7 +2901,7 @@ static emlrtBCInfo c5_pd_emlrtBCI = { 1,/* iFirst */
   3                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_qd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_od_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   263,                                 /* lineNo */
   42,                                  /* colNo */
@@ -2949,7 +2911,7 @@ static emlrtBCInfo c5_qd_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_rd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_pd_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   263,                                 /* lineNo */
   55,                                  /* colNo */
@@ -2959,9 +2921,29 @@ static emlrtBCInfo c5_rd_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_sd_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_qd_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   268,                                 /* lineNo */
+  61,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_rd_emlrtBCI = { 1,/* iFirst */
+  520,                                 /* iLast */
+  268,                                 /* lineNo */
+  61,                                  /* colNo */
+  "",                                  /* aName */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtBCInfo c5_sd_emlrtBCI = { 1,/* iFirst */
+  410,                                 /* iLast */
+  269,                                 /* lineNo */
   61,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
@@ -2971,7 +2953,7 @@ static emlrtBCInfo c5_sd_emlrtBCI = { 1,/* iFirst */
 
 static emlrtBCInfo c5_td_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
-  268,                                 /* lineNo */
+  269,                                 /* lineNo */
   61,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
@@ -2981,7 +2963,7 @@ static emlrtBCInfo c5_td_emlrtBCI = { 1,/* iFirst */
 
 static emlrtBCInfo c5_ud_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
-  269,                                 /* lineNo */
+  270,                                 /* lineNo */
   61,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
@@ -2991,7 +2973,7 @@ static emlrtBCInfo c5_ud_emlrtBCI = { 1,/* iFirst */
 
 static emlrtBCInfo c5_vd_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
-  269,                                 /* lineNo */
+  270,                                 /* lineNo */
   61,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
@@ -3001,28 +2983,25 @@ static emlrtBCInfo c5_vd_emlrtBCI = { 1,/* iFirst */
 
 static emlrtBCInfo c5_wd_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
-  270,                                 /* lineNo */
-  61,                                  /* colNo */
+  542,                                 /* lineNo */
+  33,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   0                                    /* checkKind */
+};
+
+static emlrtDCInfo c5_vb_emlrtDCI = { 542,/* lineNo */
+  33,                                  /* colNo */
+  "plannerAStarGrid",                  /* fName */
+  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
+  1                                    /* checkKind */
 };
 
 static emlrtBCInfo c5_xd_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
-  270,                                 /* lineNo */
-  61,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_yd_emlrtBCI = { 1,/* iFirst */
-  410,                                 /* iLast */
   542,                                 /* lineNo */
-  33,                                  /* colNo */
+  49,                                  /* colNo */
   "",                                  /* aName */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -3030,37 +3009,20 @@ static emlrtBCInfo c5_yd_emlrtBCI = { 1,/* iFirst */
 };
 
 static emlrtDCInfo c5_wb_emlrtDCI = { 542,/* lineNo */
-  33,                                  /* colNo */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c5_ae_emlrtBCI = { 1,/* iFirst */
-  520,                                 /* iLast */
-  542,                                 /* lineNo */
-  49,                                  /* colNo */
-  "",                                  /* aName */
-  "plannerAStarGrid",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c5_xb_emlrtDCI = { 542,/* lineNo */
   49,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_yb_emlrtDCI = { 458,/* lineNo */
+static emlrtDCInfo c5_xb_emlrtDCI = { 458,/* lineNo */
   20,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_ac_emlrtDCI = { 474,/* lineNo */
+static emlrtDCInfo c5_yb_emlrtDCI = { 474,/* lineNo */
   20,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -3081,7 +3043,7 @@ static emlrtECInfo c5_f_emlrtECI = { -1,/* nDims */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtBCInfo c5_be_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_yd_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   315,                                 /* lineNo */
   42,                                  /* colNo */
@@ -3091,14 +3053,14 @@ static emlrtBCInfo c5_be_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_bc_emlrtDCI = { 315,/* lineNo */
+static emlrtDCInfo c5_ac_emlrtDCI = { 315,/* lineNo */
   42,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ce_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ae_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   315,                                 /* lineNo */
   53,                                  /* colNo */
@@ -3108,14 +3070,14 @@ static emlrtBCInfo c5_ce_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_cc_emlrtDCI = { 315,/* lineNo */
+static emlrtDCInfo c5_bc_emlrtDCI = { 315,/* lineNo */
   53,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_de_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_be_emlrtBCI = { 1,/* iFirst */
   410,                                 /* iLast */
   332,                                 /* lineNo */
   46,                                  /* colNo */
@@ -3125,14 +3087,14 @@ static emlrtBCInfo c5_de_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_dc_emlrtDCI = { 332,/* lineNo */
+static emlrtDCInfo c5_cc_emlrtDCI = { 332,/* lineNo */
   46,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ee_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ce_emlrtBCI = { 1,/* iFirst */
   520,                                 /* iLast */
   332,                                 /* lineNo */
   57,                                  /* colNo */
@@ -3142,7 +3104,7 @@ static emlrtBCInfo c5_ee_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_ec_emlrtDCI = { 332,/* lineNo */
+static emlrtDCInfo c5_dc_emlrtDCI = { 332,/* lineNo */
   57,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
@@ -3156,7 +3118,7 @@ static emlrtECInfo c5_g_emlrtECI = { -1,/* nDims */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtBCInfo c5_fe_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_de_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   996,                                 /* lineNo */
   32,                                  /* colNo */
@@ -3166,7 +3128,7 @@ static emlrtBCInfo c5_fe_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_fc_emlrtDCI = { 996,/* lineNo */
+static emlrtDCInfo c5_ec_emlrtDCI = { 996,/* lineNo */
   32,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
@@ -3180,7 +3142,7 @@ static emlrtECInfo c5_h_emlrtECI = { -1,/* nDims */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtBCInfo c5_ge_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ee_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   986,                                 /* lineNo */
   28,                                  /* colNo */
@@ -3190,14 +3152,14 @@ static emlrtBCInfo c5_ge_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_gc_emlrtDCI = { 986,/* lineNo */
+static emlrtDCInfo c5_fc_emlrtDCI = { 986,/* lineNo */
   28,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_he_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_fe_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   986,                                 /* lineNo */
   58,                                  /* colNo */
@@ -3207,14 +3169,14 @@ static emlrtBCInfo c5_he_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_hc_emlrtDCI = { 986,/* lineNo */
+static emlrtDCInfo c5_gc_emlrtDCI = { 986,/* lineNo */
   58,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ie_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_ge_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   986,                                 /* lineNo */
   56,                                  /* colNo */
@@ -3224,14 +3186,14 @@ static emlrtBCInfo c5_ie_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_ic_emlrtDCI = { 353,/* lineNo */
+static emlrtDCInfo c5_hc_emlrtDCI = { 353,/* lineNo */
   45,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_je_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_he_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   353,                                 /* lineNo */
   45,                                  /* colNo */
@@ -3241,14 +3203,14 @@ static emlrtBCInfo c5_je_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_jc_emlrtDCI = { 1021,/* lineNo */
+static emlrtDCInfo c5_ic_emlrtDCI = { 1021,/* lineNo */
   30,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ke_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ie_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   1021,                                /* lineNo */
   30,                                  /* colNo */
@@ -3265,14 +3227,14 @@ static emlrtECInfo c5_i_emlrtECI = { -1,/* nDims */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtDCInfo c5_kc_emlrtDCI = { 1026,/* lineNo */
+static emlrtDCInfo c5_jc_emlrtDCI = { 1026,/* lineNo */
   32,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_le_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_je_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   1026,                                /* lineNo */
   32,                                  /* colNo */
@@ -3289,14 +3251,14 @@ static emlrtECInfo c5_j_emlrtECI = { -1,/* nDims */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pName */
 };
 
-static emlrtDCInfo c5_lc_emlrtDCI = { 409,/* lineNo */
+static emlrtDCInfo c5_kc_emlrtDCI = { 409,/* lineNo */
   30,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_me_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ke_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   409,                                 /* lineNo */
   30,                                  /* colNo */
@@ -3306,14 +3268,14 @@ static emlrtBCInfo c5_me_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_mc_emlrtDCI = { 423,/* lineNo */
+static emlrtDCInfo c5_lc_emlrtDCI = { 423,/* lineNo */
   32,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_ne_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_le_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   423,                                 /* lineNo */
   32,                                  /* colNo */
@@ -3323,14 +3285,14 @@ static emlrtBCInfo c5_ne_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_nc_emlrtDCI = { 415,/* lineNo */
+static emlrtDCInfo c5_mc_emlrtDCI = { 415,/* lineNo */
   36,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_oe_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_me_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   415,                                 /* lineNo */
   36,                                  /* colNo */
@@ -3340,7 +3302,7 @@ static emlrtBCInfo c5_oe_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_pe_emlrtBCI = { 1,/* iFirst */
+static emlrtBCInfo c5_ne_emlrtBCI = { 1,/* iFirst */
   213200,                              /* iLast */
   1018,                                /* lineNo */
   35,                                  /* colNo */
@@ -3350,14 +3312,14 @@ static emlrtBCInfo c5_pe_emlrtBCI = { 1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c5_oc_emlrtDCI = { 1018,/* lineNo */
+static emlrtDCInfo c5_nc_emlrtDCI = { 1018,/* lineNo */
   35,                                  /* colNo */
   "plannerAStarGrid",                  /* fName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m",/* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_qe_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_oe_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   520,                                 /* lineNo */
   47,                                  /* colNo */
@@ -3368,7 +3330,7 @@ static emlrtBCInfo c5_qe_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtBCInfo c5_re_emlrtBCI = { -1,/* iFirst */
+static emlrtBCInfo c5_pe_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
   521,                                 /* lineNo */
   75,                                  /* colNo */
@@ -3379,44 +3341,44 @@ static emlrtBCInfo c5_re_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtRSInfo c5_fh_emlrtRSI = { 521,/* lineNo */
+static emlrtRSInfo c5_eh_emlrtRSI = { 521,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_gh_emlrtRSI = { 986,/* lineNo */
+static emlrtRSInfo c5_fh_emlrtRSI = { 986,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_hh_emlrtRSI = { 345,/* lineNo */
+static emlrtRSInfo c5_gh_emlrtRSI = { 345,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_ih_emlrtRSI = { 566,/* lineNo */
+static emlrtRSInfo c5_hh_emlrtRSI = { 566,/* lineNo */
   "MapInterface",                      /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\shared\\autonomous\\maplib\\internal\\+matlabshared\\+autonomous\\+internal\\MapInte"
   "rface.m"                            /* pathName */
 };
 
-static emlrtRSInfo c5_jh_emlrtRSI = { 1016,/* lineNo */
+static emlrtRSInfo c5_ih_emlrtRSI = { 1016,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_kh_emlrtRSI = { 1026,/* lineNo */
+static emlrtRSInfo c5_jh_emlrtRSI = { 1026,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_lh_emlrtRSI = { 344,/* lineNo */
+static emlrtRSInfo c5_kh_emlrtRSI = { 344,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\+nav\\+algs\\+internal\\+codegen\\plannerAStarGrid.m"/* pathName */
 };
 
-static emlrtRSInfo c5_mh_emlrtRSI = { 996,/* lineNo */
+static emlrtRSInfo c5_lh_emlrtRSI = { 996,/* lineNo */
   "plannerAStarGrid",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2024a\\toolbox\\nav\\navalgs2\\plannerAStarGrid.m"/* pathName */
 };
@@ -3500,14 +3462,11 @@ static void set_sim_state_c5_sl_groundvehicleDynamics
 static void c5_initialize_debuginfo_c5_sl_groundvehicleDynamics
   (SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance);
 static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const emlrtStack *c5_sp, boolean_T c5_g_logical_map[213200],
+  *chartInstance, const emlrtStack *c5_sp, boolean_T c5_h_logical_map[213200],
   real_T c5_goal[2], c5_s_Y7g3XIg0UrmNkIXtokcBk *c5_out_path);
 static c5_binaryOccupancyMap *c5_binaryOccupancyMap_binaryOccupancyMap
   (SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance,
    c5_binaryOccupancyMap *c5_obj, boolean_T c5_b_varargin_1[213200]);
-static void c5_check_forloop_overflow_error
-  (SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance, const emlrtStack *
-   c5_sp);
 static void c5_binaryOccupancyMap_inflate
   (SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance, const emlrtStack *
    c5_sp, c5_binaryOccupancyMap *c5_obj);
@@ -3625,23 +3584,11 @@ static void c5_b_MapInterface_grid2localImpl
   (SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance, const emlrtStack *
    c5_sp, c5_binaryOccupancyMap *c5_obj, c5_coder_array_real_T_2D *c5_gridInd,
    c5_coder_array_real_T_2D *c5_localXY);
-static void c5_minimum(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, real_T c5_c_x[30], real_T *c5_ex, int32_T *c5_idx);
-static boolean_T c5_any(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, real_T c5_c_x[15]);
-static void c5_b_any(SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance,
-                     const emlrtStack *c5_sp, real_T c5_c_x[15], boolean_T
-                     c5_e_y[15]);
-static void c5_c_any(SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance,
-                     const emlrtStack *c5_sp, boolean_T c5_c_x[15], boolean_T
-                     c5_e_y[5]);
-static void c5_eml_find(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, boolean_T c5_c_x[5], int32_T c5_i_data[], int32_T c5_i_size[1]);
-static void c5_b_minimum(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, real_T c5_c_x[3], real_T *c5_ex, int32_T *c5_idx);
 static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const emlrtStack *c5_sp, boolean_T c5_g_logical_map[213200],
+  *chartInstance, const emlrtStack *c5_sp, boolean_T c5_h_logical_map[213200],
   real_T c5_start[2], real_T c5_goal[2], c5_s_Y7g3XIg0UrmNkIXtokcBk *c5_out_path);
+static real_T c5_mod(SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance,
+                     real_T c5_c_x);
 static void c5_handle_matlabCodegenDestructor
   (SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance, const emlrtStack *
    c5_sp, c5_nav_algs_internal_PriorityQueue *c5_obj);
@@ -3702,79 +3649,42 @@ static void c5_j_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   boolean_T c5_e_y[213200]);
 static void c5_sf_marshallIn_matrix410x520_boolean_T(void *chartInstanceVoid,
   const mxArray *c5_mxArrayInData, const char_T *c5_varName, void *c5_outData);
-static const mxArray *c5_sf_marshallOut_matrix30_real_T(void *chartInstanceVoid,
-  void *c5_inData);
-static void c5_k_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
-  real_T c5_e_y[30]);
-static void c5_sf_marshallIn_matrix30_real_T(void *chartInstanceVoid, const
-  mxArray *c5_mxArrayInData, const char_T *c5_varName, void *c5_outData);
-static const mxArray *c5_sf_marshallOut_matrix30x1_real_T(void
-  *chartInstanceVoid, void *c5_inData);
-static void c5_l_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
-  real_T c5_e_y[30]);
-static void c5_sf_marshallIn_matrix30x1_real_T(void *chartInstanceVoid, const
-  mxArray *c5_mxArrayInData, const char_T *c5_varName, void *c5_outData);
-static const mxArray *c5_sf_marshallOut_matrix5x3_real_T(void *chartInstanceVoid,
-  void *c5_inData);
-static void c5_m_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
-  real_T c5_e_y[15]);
-static void c5_sf_marshallIn_matrix5x3_real_T(void *chartInstanceVoid, const
-  mxArray *c5_mxArrayInData, const char_T *c5_varName, void *c5_outData);
 static const mxArray *c5_sf_marshallOut_real_T_1(void *chartInstanceVoid, void
   *c5_inData);
 static void c5_sf_marshallIn_real_T_1(void *chartInstanceVoid, const mxArray
   *c5_mxArrayInData, const char_T *c5_varName, void *c5_outData);
 static const mxArray *c5_sf_marshallOut_matrix1x2_real_T(void *chartInstanceVoid,
   void *c5_inData);
-static void c5_n_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
+static void c5_k_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
   real_T c5_e_y[2]);
 static void c5_sf_marshallIn_matrix1x2_real_T(void *chartInstanceVoid, const
   mxArray *c5_mxArrayInData, const char_T *c5_varName, void *c5_outData);
 static const mxArray *c5_sf_marshallOut_s_Y7g3XIg0UrmNkIXtokcBk(void
   *chartInstanceVoid, c5_s_Y7g3XIg0UrmNkIXtokcBk *c5_inData);
-static void c5_o_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
+static void c5_l_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_b_u, const
   emlrtMsgIdentifier *c5_parentId, c5_s_Y7g3XIg0UrmNkIXtokcBk *c5_e_y);
-static void c5_p_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
+static void c5_m_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_b_u, const
   emlrtMsgIdentifier *c5_parentId, c5_coder_array_real_T *c5_e_y);
 static void c5_sf_marshallIn_s_Y7g3XIg0UrmNkIXtokcBk(void *chartInstanceVoid,
   const mxArray *c5_mxArrayInData, const char_T *c5_varName,
   c5_s_Y7g3XIg0UrmNkIXtokcBk *c5_outData);
 static const mxArray *c5_sf_marshallOut_dynamicmatrix_1(void *chartInstanceVoid,
-  real_T c5_inData_data[], int32_T c5_inData_size[1]);
-static void c5_q_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
-  real_T c5_y_data[], int32_T c5_y_size[1]);
-static void c5_sf_marshallIn_dynamicmatrix_1(void *chartInstanceVoid, const
-  mxArray *c5_mxArrayInData, const char_T *c5_varName, real_T c5_outData_data[],
-  int32_T c5_outData_size[1]);
-static const mxArray *c5_sf_marshallOut_dynamicmatrix_2(void *chartInstanceVoid,
-  real_T c5_inData_data[], int32_T c5_inData_size[2]);
-static void c5_r_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
-  real_T c5_y_data[], int32_T c5_y_size[2]);
-static void c5_sf_marshallIn_dynamicmatrix_2(void *chartInstanceVoid, const
-  mxArray *c5_mxArrayInData, const char_T *c5_varName, real_T c5_outData_data[],
-  int32_T c5_outData_size[2]);
-static const mxArray *c5_sf_marshallOut_dynamicmatrix_3(void *chartInstanceVoid,
   c5_coder_array_real_T_2D *c5_inData);
-static void c5_s_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
+static void c5_n_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_b_u, const
   emlrtMsgIdentifier *c5_parentId, c5_coder_array_real_T_2D *c5_e_y);
-static void c5_sf_marshallIn_dynamicmatrix_3(void *chartInstanceVoid, const
+static void c5_sf_marshallIn_dynamicmatrix_1(void *chartInstanceVoid, const
   mxArray *c5_mxArrayInData, const char_T *c5_varName, c5_coder_array_real_T_2D *
   c5_outData);
-static const mxArray *c5_sf_marshallOut_dynamicmatrix_4(void *chartInstanceVoid,
+static const mxArray *c5_sf_marshallOut_dynamicmatrix_2(void *chartInstanceVoid,
   c5_coder_array_real_T_2D *c5_inData);
-static void c5_t_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
+static void c5_o_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_b_u, const
   emlrtMsgIdentifier *c5_parentId, c5_coder_array_real_T_2D *c5_e_y);
-static void c5_sf_marshallIn_dynamicmatrix_4(void *chartInstanceVoid, const
+static void c5_sf_marshallIn_dynamicmatrix_2(void *chartInstanceVoid, const
   mxArray *c5_mxArrayInData, const char_T *c5_varName, c5_coder_array_real_T_2D *
   c5_outData);
 static void c5_chart_data_browse_helper
@@ -3783,6 +3693,11 @@ static void c5_chart_data_browse_helper
 static const mxArray *c5_hold(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_input0);
 static const mxArray *c5_plot(SFc5_sl_groundvehicleDynamicsInstanceStruct
+  *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_input0, const
+  mxArray *c5_input1, const mxArray *c5_input2);
+static const mxArray *c5_b_hold(SFc5_sl_groundvehicleDynamicsInstanceStruct
+  *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_input0);
+static const mxArray *c5_b_plot(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_input0, const
   mxArray *c5_input1, const mxArray *c5_input2);
 static const mxArray *c5_sprintf(SFc5_sl_groundvehicleDynamicsInstanceStruct
@@ -3881,6 +3796,7 @@ static void initialize_c5_sl_groundvehicleDynamics
   sim_mode_is_external(chartInstance->S);
   chartInstance->c5_path_x_not_empty = false;
   chartInstance->c5_path_y_not_empty = false;
+  chartInstance->c5_timer_not_empty = false;
   chartInstance->c5_future_wp_idx_not_empty = false;
   chartInstance->c5_current_wp_idx_not_empty = false;
   chartInstance->c5_wp_counter_not_empty = false;
@@ -3918,13 +3834,13 @@ static void mdl_setup_runtime_resources_c5_sl_groundvehicleDynamics
 
   static const int32_T c5_postfixPredicateTree[3] = { 0, 1, -2 };
 
-  static const int32_T c5_b_condTxtEndIdx[2] = { 3183, 3216 };
+  static const int32_T c5_b_condTxtEndIdx[2] = { 2162, 2195 };
 
-  static const int32_T c5_b_condTxtStartIdx[2] = { 3150, 3187 };
+  static const int32_T c5_b_condTxtStartIdx[2] = { 2129, 2166 };
 
-  static const int32_T c5_condTxtEndIdx[2] = { 449, 468 };
+  static const int32_T c5_condTxtEndIdx[2] = { 321, 340 };
 
-  static const int32_T c5_condTxtStartIdx[2] = { 434, 453 };
+  static const int32_T c5_condTxtStartIdx[2] = { 306, 325 };
 
   static const uint32_T c5_decisionTxtEndIdx = 0U;
   static const uint32_T c5_decisionTxtStartIdx = 0U;
@@ -3946,57 +3862,53 @@ static void mdl_setup_runtime_resources_c5_sl_groundvehicleDynamics
   sfSetAnimationVectors(chartInstance->S, &chartInstance->c5_JITStateAnimation[0],
                         &chartInstance->c5_JITTransitionAnimation[0]);
   covrtCreateStateflowInstanceData(chartInstance->c5_covrtInstance, 1U, 0U, 1U,
-    101U);
+    68U);
   covrtChartInitFcn(chartInstance->c5_covrtInstance, 0U, false, false, false);
   covrtStateInitFcn(chartInstance->c5_covrtInstance, 0U, 0U, false, false, false,
                     0U, &c5_decisionTxtStartIdx, &c5_decisionTxtEndIdx);
   covrtTransInitFcn(chartInstance->c5_covrtInstance, 0U, 0, NULL, NULL, 0U, NULL);
-  covrtEmlInitFcn(chartInstance->c5_covrtInstance, "", 4U, 0U, 1U, 0U, 11U, 0U,
+  covrtEmlInitFcn(chartInstance->c5_covrtInstance, "", 4U, 0U, 1U, 0U, 10U, 0U,
                   0U, 0U, 0U, 0U, 4U, 2U);
   covrtEmlFcnInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 0U,
-                     "c5_sl_groundvehicleDynamics", 0, -1, 4594);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 0U, 431, 468, -1,
-                    604, false);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 1U, 718, 743, -1,
-                    817, false);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 2U, 854, 880, -1,
-                    961, false);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 3U, 994, 1016, -1,
-                    1093, false);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 4U, 2150, 2188, -1,
-                    2248, false);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 5U, 2438, 2469, -1,
-                    2802, false);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 6U, 2646, 2683, -1,
-                    2794, false);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 7U, 3147, 3217, -1,
-                    3310, false);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 8U, 3464, 3502,
-                    3550, 3612, false);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 9U, 4034, 4074, -1,
-                    4399, false);
-  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 10U, 4493, 4528,
-                    4555, 4590, false);
-  covrtEmlMCDCInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 0U, 434, 468, 2U,
+                     "c5_sl_groundvehicleDynamics", 0, -1, 4306);
+  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 0U, 303, 340, -1,
+                    476, false);
+  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 1U, 580, 597, -1,
+                    624, false);
+  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 2U, 806, 831, -1,
+                    905, false);
+  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 3U, 942, 968, -1,
+                    1049, false);
+  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 4U, 1082, 1104, -1,
+                    1181, false);
+  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 5U, 2126, 2196, -1,
+                    2289, false);
+  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 6U, 2443, 2481,
+                    2529, 2591, false);
+  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 7U, 3013, 3053, -1,
+                    3457, false);
+  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 8U, 3551, 3586,
+                    3613, 3648, false);
+  covrtEmlIfInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 9U, 3771, 3805, -1,
+                    4222, false);
+  covrtEmlMCDCInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 0U, 306, 340, 2U,
                       0U, &c5_condTxtStartIdx[0], &c5_condTxtEndIdx[0], 3U,
                       &c5_postfixPredicateTree[0], false);
-  covrtEmlMCDCInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 1U, 3150, 3216,
+  covrtEmlMCDCInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 1U, 2129, 2195,
                       2U, 2U, &c5_b_condTxtStartIdx[0], &c5_b_condTxtEndIdx[0],
                       3U, &c5_b_postfixPredicateTree[0], false);
-  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 0U, 2153,
-    2188, -1, 2U);
-  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 1U, 2649,
-    2683, -1, 2U);
-  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 2U, 3150,
-    3183, -1, 2U);
-  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 3U, 3187,
-    3216, -1, 2U);
-  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 4U, 3468,
-    3501, -1, 2U);
-  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 5U, 4037,
-    4073, -1, 2U);
-  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 6U, 4496,
-    4527, -1, 2U);
+  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 0U, 2129,
+    2162, -1, 2U);
+  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 1U, 2166,
+    2195, -1, 2U);
+  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 2U, 2447,
+    2480, -1, 2U);
+  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 3U, 3016,
+    3052, -1, 2U);
+  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 4U, 3554,
+    3585, -1, 2U);
+  covrtEmlRelationalInitFcn(chartInstance->c5_covrtInstance, 4U, 0U, 5U, 3774,
+    3805, -1, 0U);
   covrtEmlInitFcn(chartInstance->c5_covrtInstance,
                   "C:/Users/Cam/Documents/MATLAB/control_repo/AutoSystems446/path_gen.m",
                   14U, 0U, 1U, 0U, 0U, 0U, 0U, 0U, 0U, 0U, 0U, 0U);
@@ -4030,30 +3942,25 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
 {
   static char_T c5_b_cv1[3] = { '-', '-', 'b' };
 
+  static char_T c5_b_cv2[3] = { '-', '-', 'c' };
+
   static char_T c5_b_cv[2] = { 'o', 'n' };
 
   c5_s_Y7g3XIg0UrmNkIXtokcBk c5_path;
   emlrtStack c5_b_st;
-  emlrtStack c5_c_st;
   emlrtStack c5_st = { NULL,           /* site */
     NULL,                              /* tls */
     NULL                               /* prev */
   };
 
-  real_T c5_b_ranges[30];
-  real_T c5_b_scan_angles[30];
-  real_T c5_b_varargin_1[30];
-  real_T c5_b_object_detection[15];
-  real_T c5_c_object_detection[15];
-  real_T c5_detections_data[15];
-  real_T c5_valid_rows_data[5];
   real_T c5_b_waypointsx[4];
   real_T c5_b_waypointsy[4];
-  real_T c5_c_varargin_1[3];
   real_T c5_b_b[2];
   real_T c5_c_waypointsx[2];
   real_T c5_current_wp[2];
   real_T c5_d_waypointsx[2];
+  real_T c5_e_waypointsx[2];
+  real_T c5_f_x[2];
   real_T c5_final_path_waypoint[2];
   real_T c5_final_waypoint[2];
   real_T c5_future_wp[2];
@@ -4066,12 +3973,6 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   real_T c5_b_a;
   real_T c5_b_capture_distance;
   real_T c5_b_distance_from_wp;
-  real_T c5_b_ex;
-  real_T c5_b_index;
-  real_T c5_b_min_obj_collision_dist;
-  real_T c5_b_min_range;
-  real_T c5_b_min_wall_collision_dist;
-  real_T c5_b_minval;
   real_T c5_b_sigma_dist;
   real_T c5_b_stop;
   real_T c5_b_target_th;
@@ -4080,9 +3981,6 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   real_T c5_c_a;
   real_T c5_c_b;
   real_T c5_c_c;
-  real_T c5_c_index;
-  real_T c5_c_min_range;
-  real_T c5_c_minval;
   real_T c5_c_x;
   real_T c5_cb_a;
   real_T c5_cc_a;
@@ -4094,15 +3992,14 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   real_T c5_db_a;
   real_T c5_dist_to_future;
   real_T c5_dist_to_last;
+  real_T c5_dist_to_path_last;
   real_T c5_dist_wp_to_wp;
   real_T c5_dsit_to_last;
-  real_T c5_dsit_to_path_last;
   real_T c5_e_a;
   real_T c5_e_c;
   real_T c5_e_x;
   real_T c5_e_y;
   real_T c5_eb_a;
-  real_T c5_ex;
   real_T c5_f_a;
   real_T c5_f_c;
   real_T c5_f_y;
@@ -4117,7 +4014,6 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   real_T c5_i_a;
   real_T c5_i_c;
   real_T c5_ib_a;
-  real_T c5_index;
   real_T c5_j_a;
   real_T c5_j_c;
   real_T c5_jb_a;
@@ -4129,15 +4025,13 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   real_T c5_lb_a;
   real_T c5_m_a;
   real_T c5_mb_a;
-  real_T c5_min_range;
   real_T c5_n_a;
-  real_T c5_nargin = 12.0;
+  real_T c5_nargin = 7.0;
   real_T c5_nargout = 3.0;
   real_T c5_nb_a;
   real_T c5_num_waypoints;
   real_T c5_o_a;
   real_T c5_ob_a;
-  real_T c5_obj_angle;
   real_T c5_p_a;
   real_T c5_pb_a;
   real_T c5_q_a;
@@ -4149,6 +4043,7 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   real_T c5_sigma;
   real_T c5_t_a;
   real_T c5_tb_a;
+  real_T c5_timer_overflow;
   real_T c5_u_a;
   real_T c5_ub_a;
   real_T c5_v_a;
@@ -4159,12 +4054,6 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   real_T c5_xb_a;
   real_T c5_y_a;
   real_T c5_yb_a;
-  int32_T c5_ii_data[5];
-  int32_T c5_detections_size[2];
-  int32_T c5_ii_size[1];
-  int32_T c5_valid_rows_size[1];
-  int32_T c5_b_idx;
-  int32_T c5_b_iindx;
   int32_T c5_b_loop_ub;
   int32_T c5_c_loop_ub;
   int32_T c5_d_loop_ub;
@@ -4198,73 +4087,36 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   int32_T c5_i31;
   int32_T c5_i32;
   int32_T c5_i33;
-  int32_T c5_i34;
-  int32_T c5_i35;
-  int32_T c5_i36;
-  int32_T c5_i37;
-  int32_T c5_i38;
-  int32_T c5_i39;
   int32_T c5_i4;
-  int32_T c5_i40;
-  int32_T c5_i41;
-  int32_T c5_i42;
-  int32_T c5_i43;
-  int32_T c5_i44;
-  int32_T c5_i45;
   int32_T c5_i5;
   int32_T c5_i6;
   int32_T c5_i7;
   int32_T c5_i8;
   int32_T c5_i9;
-  int32_T c5_idx;
-  int32_T c5_iindx;
   int32_T c5_loop_ub;
-  boolean_T c5_b_bv[15];
-  boolean_T c5_f_x[5];
   c5_st.tls = chartInstance->c5_fEmlrtCtx;
   c5_b_st.prev = &c5_st;
   c5_b_st.tls = c5_st.tls;
-  c5_c_st.prev = &c5_b_st;
-  c5_c_st.tls = c5_b_st.tls;
   c5_array_s_Y7g3XIg0UrmNkIXtokcBk_C(chartInstance, &c5_path);
-  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 11U,
-                    *chartInstance->c5_capture_distance);
-  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 10U, *chartInstance->c5_d_y);
-  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 9U, *chartInstance->c5_b_x);
-  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 8U,
-                    *chartInstance->c5_min_obj_collision_dist);
-  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 7U,
-                    *chartInstance->c5_min_wall_collision_dist);
   covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 6U,
+                    *chartInstance->c5_capture_distance);
+  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 5U, *chartInstance->c5_d_y);
+  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 4U, *chartInstance->c5_b_x);
+  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 3U,
                     *chartInstance->c5_sigma_dist);
-  for (c5_i = 0; c5_i < 15; c5_i++) {
-    covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 5U,
-                      (*chartInstance->c5_object_detection)[c5_i]);
-  }
-
-  for (c5_i1 = 0; c5_i1 < 30; c5_i1++) {
-    covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 4U,
-                      (*chartInstance->c5_ranges)[c5_i1]);
-  }
-
-  for (c5_i2 = 0; c5_i2 < 30; c5_i2++) {
-    covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 3U,
-                      (*chartInstance->c5_scan_angles)[c5_i2]);
-  }
-
-  for (c5_i3 = 0; c5_i3 < 213200; c5_i3++) {
+  for (c5_i = 0; c5_i < 213200; c5_i++) {
     covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 2U, (real_T)
-                      (*chartInstance->c5_f_logical_map)[c5_i3]);
+                      (*chartInstance->c5_g_logical_map)[c5_i]);
   }
 
-  for (c5_i4 = 0; c5_i4 < 4; c5_i4++) {
+  for (c5_i1 = 0; c5_i1 < 4; c5_i1++) {
     covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 1U,
-                      (*chartInstance->c5_waypointsy)[c5_i4]);
+                      (*chartInstance->c5_waypointsy)[c5_i1]);
   }
 
-  for (c5_i5 = 0; c5_i5 < 4; c5_i5++) {
+  for (c5_i2 = 0; c5_i2 < 4; c5_i2++) {
     covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 0U,
-                      (*chartInstance->c5_waypointsx)[c5_i5]);
+                      (*chartInstance->c5_waypointsx)[c5_i2]);
   }
 
   _sfTime_ = sf_get_time(chartInstance->S);
@@ -4276,72 +4128,51 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
     sfListenerReportStartingSection(chartInstance->c5_RuntimeVar, 0, 1);
   }
 
-  for (c5_i6 = 0; c5_i6 < 4; c5_i6++) {
-    c5_b_waypointsx[c5_i6] = (*chartInstance->c5_waypointsx)[c5_i6];
+  for (c5_i3 = 0; c5_i3 < 4; c5_i3++) {
+    c5_b_waypointsx[c5_i3] = (*chartInstance->c5_waypointsx)[c5_i3];
   }
 
-  for (c5_i7 = 0; c5_i7 < 4; c5_i7++) {
-    c5_b_waypointsy[c5_i7] = (*chartInstance->c5_waypointsy)[c5_i7];
+  for (c5_i4 = 0; c5_i4 < 4; c5_i4++) {
+    c5_b_waypointsy[c5_i4] = (*chartInstance->c5_waypointsy)[c5_i4];
   }
 
-  for (c5_i8 = 0; c5_i8 < 213200; c5_i8++) {
-    chartInstance->c5_logical_map[c5_i8] = (*chartInstance->c5_f_logical_map)
-      [c5_i8];
-  }
-
-  for (c5_i9 = 0; c5_i9 < 30; c5_i9++) {
-    c5_b_scan_angles[c5_i9] = (*chartInstance->c5_scan_angles)[c5_i9];
-  }
-
-  for (c5_i10 = 0; c5_i10 < 30; c5_i10++) {
-    c5_b_ranges[c5_i10] = (*chartInstance->c5_ranges)[c5_i10];
-  }
-
-  for (c5_i11 = 0; c5_i11 < 15; c5_i11++) {
-    c5_b_object_detection[c5_i11] = (*chartInstance->c5_object_detection)[c5_i11];
+  for (c5_i5 = 0; c5_i5 < 213200; c5_i5++) {
+    chartInstance->c5_logical_map[c5_i5] = (*chartInstance->c5_g_logical_map)
+      [c5_i5];
   }
 
   c5_b_sigma_dist = *chartInstance->c5_sigma_dist;
-  c5_b_min_wall_collision_dist = *chartInstance->c5_min_wall_collision_dist;
-  c5_b_min_obj_collision_dist = *chartInstance->c5_min_obj_collision_dist;
   c5_c_x = *chartInstance->c5_b_x;
   c5_e_y = *chartInstance->c5_d_y;
   c5_b_capture_distance = *chartInstance->c5_capture_distance;
-  chartInstance->c5_numFcnVars = 34U;
+  chartInstance->c5_numFcnVars = 27U;
   chartInstance->c5_fcnDataPtrs[0] = (void *)&c5_b_waypointsx;
   chartInstance->c5_fcnDataPtrs[1] = (void *)&c5_b_waypointsy;
   chartInstance->c5_fcnDataPtrs[2] = (void *)&chartInstance->c5_logical_map;
-  chartInstance->c5_fcnDataPtrs[3] = (void *)&c5_b_scan_angles;
-  chartInstance->c5_fcnDataPtrs[4] = (void *)&c5_b_ranges;
-  chartInstance->c5_fcnDataPtrs[5] = (void *)&c5_b_object_detection;
-  chartInstance->c5_fcnDataPtrs[6] = (void *)&c5_b_sigma_dist;
-  chartInstance->c5_fcnDataPtrs[7] = (void *)&c5_b_min_wall_collision_dist;
-  chartInstance->c5_fcnDataPtrs[8] = (void *)&c5_b_min_obj_collision_dist;
-  chartInstance->c5_fcnDataPtrs[9] = (void *)&c5_c_x;
-  chartInstance->c5_fcnDataPtrs[10] = (void *)&c5_e_y;
-  chartInstance->c5_fcnDataPtrs[11] = (void *)&c5_b_capture_distance;
-  chartInstance->c5_fcnDataPtrs[12] = (void *)&c5_b_distance_from_wp;
-  chartInstance->c5_fcnDataPtrs[13] = (void *)&c5_b_target_th;
-  chartInstance->c5_fcnDataPtrs[14] = (void *)&c5_b_stop;
-  chartInstance->c5_fcnDataPtrs[15] = (void *)&c5_num_waypoints;
-  chartInstance->c5_fcnDataPtrs[16] = (void *)&c5_current_wp;
-  chartInstance->c5_fcnDataPtrs[17] = (void *)&c5_future_wp;
-  chartInstance->c5_fcnDataPtrs[18] = (void *)&c5_dist_to_future;
-  chartInstance->c5_fcnDataPtrs[19] = (void *)&c5_dist_wp_to_wp;
-  chartInstance->c5_fcnDataPtrs[20] = (void *)&c5_dsit_to_last;
-  chartInstance->c5_fcnDataPtrs[21] = (void *)&c5_unitvec;
-  chartInstance->c5_fcnDataPtrs[22] = (void *)&c5_sigma;
-  chartInstance->c5_fcnDataPtrs[23] = (void *)&c5_target_relative;
-  chartInstance->c5_fcnDataPtrs[24] = (void *)&c5_target_pos;
-  chartInstance->c5_fcnDataPtrs[25] = (void *)&c5_min_range;
-  chartInstance->c5_fcnDataPtrs[26] = (void *)&c5_index;
-  chartInstance->c5_fcnDataPtrs[27] = (void *)&c5_obj_angle;
-  chartInstance->c5_fcnDataPtrs[28] = (void *)&c5_final_path_waypoint;
-  chartInstance->c5_fcnDataPtrs[29] = (void *)&c5_final_waypoint;
-  chartInstance->c5_fcnDataPtrs[30] = (void *)&c5_dsit_to_path_last;
-  chartInstance->c5_fcnDataPtrs[31] = (void *)&c5_dist_to_last;
-  chartInstance->c5_fcnDataPtrs[32] = (void *)&c5_nargin;
-  chartInstance->c5_fcnDataPtrs[33] = (void *)&c5_nargout;
+  chartInstance->c5_fcnDataPtrs[3] = (void *)&c5_b_sigma_dist;
+  chartInstance->c5_fcnDataPtrs[4] = (void *)&c5_c_x;
+  chartInstance->c5_fcnDataPtrs[5] = (void *)&c5_e_y;
+  chartInstance->c5_fcnDataPtrs[6] = (void *)&c5_b_capture_distance;
+  chartInstance->c5_fcnDataPtrs[7] = (void *)&c5_b_distance_from_wp;
+  chartInstance->c5_fcnDataPtrs[8] = (void *)&c5_b_target_th;
+  chartInstance->c5_fcnDataPtrs[9] = (void *)&c5_b_stop;
+  chartInstance->c5_fcnDataPtrs[10] = (void *)&c5_timer_overflow;
+  chartInstance->c5_fcnDataPtrs[11] = (void *)&c5_num_waypoints;
+  chartInstance->c5_fcnDataPtrs[12] = (void *)&c5_current_wp;
+  chartInstance->c5_fcnDataPtrs[13] = (void *)&c5_future_wp;
+  chartInstance->c5_fcnDataPtrs[14] = (void *)&c5_dist_to_future;
+  chartInstance->c5_fcnDataPtrs[15] = (void *)&c5_dist_wp_to_wp;
+  chartInstance->c5_fcnDataPtrs[16] = (void *)&c5_dsit_to_last;
+  chartInstance->c5_fcnDataPtrs[17] = (void *)&c5_unitvec;
+  chartInstance->c5_fcnDataPtrs[18] = (void *)&c5_sigma;
+  chartInstance->c5_fcnDataPtrs[19] = (void *)&c5_target_relative;
+  chartInstance->c5_fcnDataPtrs[20] = (void *)&c5_target_pos;
+  chartInstance->c5_fcnDataPtrs[21] = (void *)&c5_final_path_waypoint;
+  chartInstance->c5_fcnDataPtrs[22] = (void *)&c5_final_waypoint;
+  chartInstance->c5_fcnDataPtrs[23] = (void *)&c5_dist_to_path_last;
+  chartInstance->c5_fcnDataPtrs[24] = (void *)&c5_dist_to_last;
+  chartInstance->c5_fcnDataPtrs[25] = (void *)&c5_nargin;
+  chartInstance->c5_fcnDataPtrs[26] = (void *)&c5_nargout;
   chartInstance->c5_statuses[0] = 0U;
   chartInstance->c5_statuses[1] = 0U;
   chartInstance->c5_statuses[2] = 0U;
@@ -4352,7 +4183,7 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   chartInstance->c5_statuses[7] = 0U;
   chartInstance->c5_statuses[8] = 0U;
   chartInstance->c5_statuses[9] = 0U;
-  chartInstance->c5_statuses[10] = 0U;
+  chartInstance->c5_statuses[10] = 1U;
   chartInstance->c5_statuses[11] = 0U;
   chartInstance->c5_statuses[12] = 0U;
   chartInstance->c5_statuses[13] = 0U;
@@ -4369,83 +4200,62 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   chartInstance->c5_statuses[24] = 0U;
   chartInstance->c5_statuses[25] = 0U;
   chartInstance->c5_statuses[26] = 0U;
-  chartInstance->c5_statuses[27] = 0U;
-  chartInstance->c5_statuses[28] = 0U;
-  chartInstance->c5_statuses[29] = 0U;
-  chartInstance->c5_statuses[30] = 0U;
-  chartInstance->c5_statuses[31] = 0U;
-  chartInstance->c5_statuses[32] = 0U;
-  chartInstance->c5_statuses[33] = 0U;
   chartInstance->c5_inMexFcns[0] = (void *)&c5_sf_marshallIn_matrix4_real_T;
   chartInstance->c5_inMexFcns[1] = (void *)&c5_sf_marshallIn_matrix4_real_T;
   chartInstance->c5_inMexFcns[2] = (void *)
     &c5_sf_marshallIn_matrix410x520_boolean_T;
-  chartInstance->c5_inMexFcns[3] = (void *)&c5_sf_marshallIn_matrix30_real_T;
-  chartInstance->c5_inMexFcns[4] = (void *)&c5_sf_marshallIn_matrix30x1_real_T;
-  chartInstance->c5_inMexFcns[5] = (void *)&c5_sf_marshallIn_matrix5x3_real_T;
+  chartInstance->c5_inMexFcns[3] = (void *)&c5_sf_marshallIn_real_T_1;
+  chartInstance->c5_inMexFcns[4] = (void *)&c5_sf_marshallIn_real_T_1;
+  chartInstance->c5_inMexFcns[5] = (void *)&c5_sf_marshallIn_real_T_1;
   chartInstance->c5_inMexFcns[6] = (void *)&c5_sf_marshallIn_real_T_1;
   chartInstance->c5_inMexFcns[7] = (void *)&c5_sf_marshallIn_real_T_1;
   chartInstance->c5_inMexFcns[8] = (void *)&c5_sf_marshallIn_real_T_1;
   chartInstance->c5_inMexFcns[9] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[10] = (void *)&c5_sf_marshallIn_real_T_1;
+  chartInstance->c5_inMexFcns[10] = NULL;
   chartInstance->c5_inMexFcns[11] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[12] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[13] = (void *)&c5_sf_marshallIn_real_T_1;
+  chartInstance->c5_inMexFcns[12] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
+  chartInstance->c5_inMexFcns[13] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
   chartInstance->c5_inMexFcns[14] = (void *)&c5_sf_marshallIn_real_T_1;
   chartInstance->c5_inMexFcns[15] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[16] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
+  chartInstance->c5_inMexFcns[16] = (void *)&c5_sf_marshallIn_real_T_1;
   chartInstance->c5_inMexFcns[17] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
   chartInstance->c5_inMexFcns[18] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[19] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[20] = (void *)&c5_sf_marshallIn_real_T_1;
+  chartInstance->c5_inMexFcns[19] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
+  chartInstance->c5_inMexFcns[20] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
   chartInstance->c5_inMexFcns[21] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
-  chartInstance->c5_inMexFcns[22] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[23] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
-  chartInstance->c5_inMexFcns[24] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
+  chartInstance->c5_inMexFcns[22] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
+  chartInstance->c5_inMexFcns[23] = (void *)&c5_sf_marshallIn_real_T_1;
+  chartInstance->c5_inMexFcns[24] = (void *)&c5_sf_marshallIn_real_T_1;
   chartInstance->c5_inMexFcns[25] = (void *)&c5_sf_marshallIn_real_T_1;
   chartInstance->c5_inMexFcns[26] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[27] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[28] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
-  chartInstance->c5_inMexFcns[29] = (void *)&c5_sf_marshallIn_matrix1x2_real_T;
-  chartInstance->c5_inMexFcns[30] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[31] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[32] = (void *)&c5_sf_marshallIn_real_T_1;
-  chartInstance->c5_inMexFcns[33] = (void *)&c5_sf_marshallIn_real_T_1;
   chartInstance->c5_outMexFcns[0] = (void *)&c5_sf_marshallOut_matrix4_real_T;
   chartInstance->c5_outMexFcns[1] = (void *)&c5_sf_marshallOut_matrix4_real_T;
   chartInstance->c5_outMexFcns[2] = (void *)
     &c5_sf_marshallOut_matrix410x520_boolean_T;
-  chartInstance->c5_outMexFcns[3] = (void *)&c5_sf_marshallOut_matrix30_real_T;
-  chartInstance->c5_outMexFcns[4] = (void *)&c5_sf_marshallOut_matrix30x1_real_T;
-  chartInstance->c5_outMexFcns[5] = (void *)&c5_sf_marshallOut_matrix5x3_real_T;
+  chartInstance->c5_outMexFcns[3] = (void *)&c5_sf_marshallOut_real_T_1;
+  chartInstance->c5_outMexFcns[4] = (void *)&c5_sf_marshallOut_real_T_1;
+  chartInstance->c5_outMexFcns[5] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_outMexFcns[6] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_outMexFcns[7] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_outMexFcns[8] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_outMexFcns[9] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_outMexFcns[10] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_outMexFcns[11] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[12] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[13] = (void *)&c5_sf_marshallOut_real_T_1;
+  chartInstance->c5_outMexFcns[12] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
+  chartInstance->c5_outMexFcns[13] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
   chartInstance->c5_outMexFcns[14] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_outMexFcns[15] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[16] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
+  chartInstance->c5_outMexFcns[16] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_outMexFcns[17] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
   chartInstance->c5_outMexFcns[18] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[19] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[20] = (void *)&c5_sf_marshallOut_real_T_1;
+  chartInstance->c5_outMexFcns[19] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
+  chartInstance->c5_outMexFcns[20] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
   chartInstance->c5_outMexFcns[21] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
-  chartInstance->c5_outMexFcns[22] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[23] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
-  chartInstance->c5_outMexFcns[24] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
+  chartInstance->c5_outMexFcns[22] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
+  chartInstance->c5_outMexFcns[23] = (void *)&c5_sf_marshallOut_real_T_1;
+  chartInstance->c5_outMexFcns[24] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_outMexFcns[25] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_outMexFcns[26] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[27] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[28] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
-  chartInstance->c5_outMexFcns[29] = (void *)&c5_sf_marshallOut_matrix1x2_real_T;
-  chartInstance->c5_outMexFcns[30] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[31] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[32] = (void *)&c5_sf_marshallOut_real_T_1;
-  chartInstance->c5_outMexFcns[33] = (void *)&c5_sf_marshallOut_real_T_1;
   chartInstance->c5_ssIds[0] = 0U;
   chartInstance->c5_ssIds[1] = 0U;
   chartInstance->c5_ssIds[2] = 0U;
@@ -4473,47 +4283,33 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   chartInstance->c5_ssIds[24] = 0U;
   chartInstance->c5_ssIds[25] = 0U;
   chartInstance->c5_ssIds[26] = 0U;
-  chartInstance->c5_ssIds[27] = 0U;
-  chartInstance->c5_ssIds[28] = 0U;
-  chartInstance->c5_ssIds[29] = 0U;
-  chartInstance->c5_ssIds[30] = 0U;
-  chartInstance->c5_ssIds[31] = 0U;
-  chartInstance->c5_ssIds[32] = 0U;
-  chartInstance->c5_ssIds[33] = 0U;
   chartInstance->c5_dataNames[0] = "waypointsx";
   chartInstance->c5_dataNames[1] = "waypointsy";
   chartInstance->c5_dataNames[2] = "logical_map";
-  chartInstance->c5_dataNames[3] = "scan_angles";
-  chartInstance->c5_dataNames[4] = "ranges";
-  chartInstance->c5_dataNames[5] = "object_detection";
-  chartInstance->c5_dataNames[6] = "sigma_dist";
-  chartInstance->c5_dataNames[7] = "min_wall_collision_dist";
-  chartInstance->c5_dataNames[8] = "min_obj_collision_dist";
-  chartInstance->c5_dataNames[9] = "x";
-  chartInstance->c5_dataNames[10] = "y";
-  chartInstance->c5_dataNames[11] = "capture_distance";
-  chartInstance->c5_dataNames[12] = "distance_from_wp";
-  chartInstance->c5_dataNames[13] = "target_th";
-  chartInstance->c5_dataNames[14] = "stop";
-  chartInstance->c5_dataNames[15] = "num_waypoints";
-  chartInstance->c5_dataNames[16] = "current_wp";
-  chartInstance->c5_dataNames[17] = "future_wp";
-  chartInstance->c5_dataNames[18] = "dist_to_future";
-  chartInstance->c5_dataNames[19] = "dist_wp_to_wp";
-  chartInstance->c5_dataNames[20] = "dsit_to_last";
-  chartInstance->c5_dataNames[21] = "unitvec";
-  chartInstance->c5_dataNames[22] = "sigma";
-  chartInstance->c5_dataNames[23] = "target_relative";
-  chartInstance->c5_dataNames[24] = "target_pos";
-  chartInstance->c5_dataNames[25] = "min_range";
-  chartInstance->c5_dataNames[26] = "index";
-  chartInstance->c5_dataNames[27] = "obj_angle";
-  chartInstance->c5_dataNames[28] = "final_path_waypoint";
-  chartInstance->c5_dataNames[29] = "final_waypoint";
-  chartInstance->c5_dataNames[30] = "dsit_to_path_last";
-  chartInstance->c5_dataNames[31] = "dist_to_last";
-  chartInstance->c5_dataNames[32] = "nargin";
-  chartInstance->c5_dataNames[33] = "nargout";
+  chartInstance->c5_dataNames[3] = "sigma_dist";
+  chartInstance->c5_dataNames[4] = "x";
+  chartInstance->c5_dataNames[5] = "y";
+  chartInstance->c5_dataNames[6] = "capture_distance";
+  chartInstance->c5_dataNames[7] = "distance_from_wp";
+  chartInstance->c5_dataNames[8] = "target_th";
+  chartInstance->c5_dataNames[9] = "stop";
+  chartInstance->c5_dataNames[10] = "timer_overflow";
+  chartInstance->c5_dataNames[11] = "num_waypoints";
+  chartInstance->c5_dataNames[12] = "current_wp";
+  chartInstance->c5_dataNames[13] = "future_wp";
+  chartInstance->c5_dataNames[14] = "dist_to_future";
+  chartInstance->c5_dataNames[15] = "dist_wp_to_wp";
+  chartInstance->c5_dataNames[16] = "dsit_to_last";
+  chartInstance->c5_dataNames[17] = "unitvec";
+  chartInstance->c5_dataNames[18] = "sigma";
+  chartInstance->c5_dataNames[19] = "target_relative";
+  chartInstance->c5_dataNames[20] = "target_pos";
+  chartInstance->c5_dataNames[21] = "final_path_waypoint";
+  chartInstance->c5_dataNames[22] = "final_waypoint";
+  chartInstance->c5_dataNames[23] = "dist_to_path_last";
+  chartInstance->c5_dataNames[24] = "dist_to_last";
+  chartInstance->c5_dataNames[25] = "nargin";
+  chartInstance->c5_dataNames[26] = "nargout";
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
@@ -4524,25 +4320,25 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 15);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 10);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 18);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 13);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 19);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 14);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 21);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 16);
   }
 
   if (covrtEmlCondEval(chartInstance->c5_covrtInstance, 4U, 0, 0,
@@ -4554,15 +4350,15 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 22);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 17);
     }
 
     c5_c_waypointsx[0] = c5_b_waypointsx[0];
     c5_c_waypointsx[1] = c5_b_waypointsy[0];
     c5_b_st.site = &c5_emlrtRSI;
-    for (c5_i12 = 0; c5_i12 < 213200; c5_i12++) {
-      chartInstance->c5_b_logical_map[c5_i12] = chartInstance->
-        c5_logical_map[c5_i12];
+    for (c5_i6 = 0; c5_i6 < 213200; c5_i6++) {
+      chartInstance->c5_b_logical_map[c5_i6] = chartInstance->
+        c5_logical_map[c5_i6];
     }
 
     c5_path_gen(chartInstance, &c5_b_st, chartInstance->c5_b_logical_map,
@@ -4573,15 +4369,14 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 23);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 18);
     }
 
     c5_array_real_T_SetSize(chartInstance, &c5_st, &chartInstance->c5_path_x,
       &c5_emlrtRTEI, c5_path.x.size[0]);
     c5_loop_ub = c5_path.x.size[0] - 1;
-    for (c5_i13 = 0; c5_i13 <= c5_loop_ub; c5_i13++) {
-      chartInstance->c5_path_x.vector.data[c5_i13] =
-        c5_path.x.vector.data[c5_i13];
+    for (c5_i7 = 0; c5_i7 <= c5_loop_ub; c5_i7++) {
+      chartInstance->c5_path_x.vector.data[c5_i7] = c5_path.x.vector.data[c5_i7];
     }
 
     chartInstance->c5_path_x_not_empty = true;
@@ -4589,15 +4384,14 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 24);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 19);
     }
 
     c5_array_real_T_SetSize(chartInstance, &c5_st, &chartInstance->c5_path_y,
       &c5_b_emlrtRTEI, c5_path.y.size[0]);
     c5_b_loop_ub = c5_path.y.size[0] - 1;
-    for (c5_i15 = 0; c5_i15 <= c5_b_loop_ub; c5_i15++) {
-      chartInstance->c5_path_y.vector.data[c5_i15] =
-        c5_path.y.vector.data[c5_i15];
+    for (c5_i8 = 0; c5_i8 <= c5_b_loop_ub; c5_i8++) {
+      chartInstance->c5_path_y.vector.data[c5_i8] = c5_path.y.vector.data[c5_i8];
     }
 
     chartInstance->c5_path_y_not_empty = true;
@@ -4610,7 +4404,37 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 25);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 20);
+  }
+
+  if ((chartInstance->c5_IsDebuggerActive == 1) ||
+      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+      (chartInstance->c5_IsHeatMapPresent == 1)) {
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 23);
+  }
+
+  if ((chartInstance->c5_IsDebuggerActive == 1) ||
+      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+      (chartInstance->c5_IsHeatMapPresent == 1)) {
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 24);
+  }
+
+  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 1,
+                     !chartInstance->c5_timer_not_empty)) {
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 25);
+    }
+
+    chartInstance->c5_timer = 1.0;
+    chartInstance->c5_timer_not_empty = true;
+  }
+
+  if ((chartInstance->c5_IsDebuggerActive == 1) ||
+      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+      (chartInstance->c5_IsHeatMapPresent == 1)) {
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 26);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
@@ -4619,18 +4443,25 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 29);
   }
 
+  c5_timer_overflow = 100.0;
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 30);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 33);
   }
 
-  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 1,
+  if ((chartInstance->c5_IsDebuggerActive == 1) ||
+      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+      (chartInstance->c5_IsHeatMapPresent == 1)) {
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 34);
+  }
+
+  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 2,
                      !chartInstance->c5_future_wp_idx_not_empty)) {
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 31);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 35);
     }
 
     chartInstance->c5_future_wp_idx = 2.0;
@@ -4640,27 +4471,27 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 32);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 36);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 34);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 38);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 35);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 39);
   }
 
-  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 2,
+  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 3,
                      !chartInstance->c5_current_wp_idx_not_empty)) {
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 36);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 40);
     }
 
     chartInstance->c5_current_wp_idx = 1.0;
@@ -4670,27 +4501,27 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 37);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 41);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 39);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 43);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 40);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 44);
   }
 
-  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 3,
+  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 4,
                      !chartInstance->c5_wp_counter_not_empty)) {
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 41);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 45);
     }
 
     chartInstance->c5_wp_counter = 1.0;
@@ -4700,94 +4531,93 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 42);
-  }
-
-  if ((chartInstance->c5_IsDebuggerActive == 1) ||
-      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-      (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 45);
-  }
-
-  c5_i14 = chartInstance->c5_path_x.size[0];
-  if (c5_i14 < 0) {
-    emlrtDynamicBoundsCheckR2012b(c5_i14, 0, MAX_int32_T, &c5_emlrtBCI, &c5_st);
-  }
-
-  c5_num_waypoints = (real_T)c5_i14;
-  if ((chartInstance->c5_IsDebuggerActive == 1) ||
-      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-      (chartInstance->c5_IsHeatMapPresent == 1)) {
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 46);
   }
 
-  c5_i16 = chartInstance->c5_path_x.size[0];
-  if (chartInstance->c5_current_wp_idx != (real_T)(int32_T)muDoubleScalarFloor
-      (chartInstance->c5_current_wp_idx)) {
-    emlrtIntegerCheckR2012b(chartInstance->c5_current_wp_idx, &c5_emlrtDCI,
-      &c5_st);
-  }
-
-  c5_i17 = (int32_T)chartInstance->c5_current_wp_idx;
-  if ((c5_i17 < 1) || (c5_i17 > c5_i16)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i17, 1, c5_i16, &c5_c_emlrtBCI, &c5_st);
-  }
-
-  c5_current_wp[0] = chartInstance->c5_path_x.vector.data[c5_i17 - 1];
-  c5_i18 = chartInstance->c5_path_y.size[0];
-  if (chartInstance->c5_current_wp_idx != (real_T)(int32_T)muDoubleScalarFloor
-      (chartInstance->c5_current_wp_idx)) {
-    emlrtIntegerCheckR2012b(chartInstance->c5_current_wp_idx, &c5_b_emlrtDCI,
-      &c5_st);
-  }
-
-  c5_i19 = (int32_T)chartInstance->c5_current_wp_idx;
-  if ((c5_i19 < 1) || (c5_i19 > c5_i18)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i19, 1, c5_i18, &c5_d_emlrtBCI, &c5_st);
-  }
-
-  c5_current_wp[1] = chartInstance->c5_path_y.vector.data[c5_i19 - 1];
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 47);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 49);
   }
 
-  c5_i20 = chartInstance->c5_path_x.size[0];
-  if (chartInstance->c5_future_wp_idx != (real_T)(int32_T)muDoubleScalarFloor
-      (chartInstance->c5_future_wp_idx)) {
-    emlrtIntegerCheckR2012b(chartInstance->c5_future_wp_idx, &c5_c_emlrtDCI,
-      &c5_st);
+  c5_i9 = chartInstance->c5_path_x.size[0];
+  if (c5_i9 < 0) {
+    emlrtDynamicBoundsCheckR2012b(c5_i9, 0, MAX_int32_T, &c5_emlrtBCI, &c5_st);
   }
 
-  c5_i21 = (int32_T)chartInstance->c5_future_wp_idx;
-  if ((c5_i21 < 1) || (c5_i21 > c5_i20)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i21, 1, c5_i20, &c5_e_emlrtBCI, &c5_st);
-  }
-
-  c5_future_wp[0] = chartInstance->c5_path_x.vector.data[c5_i21 - 1];
-  c5_i22 = chartInstance->c5_path_y.size[0];
-  if (chartInstance->c5_future_wp_idx != (real_T)(int32_T)muDoubleScalarFloor
-      (chartInstance->c5_future_wp_idx)) {
-    emlrtIntegerCheckR2012b(chartInstance->c5_future_wp_idx, &c5_d_emlrtDCI,
-      &c5_st);
-  }
-
-  c5_i23 = (int32_T)chartInstance->c5_future_wp_idx;
-  if ((c5_i23 < 1) || (c5_i23 > c5_i22)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i23, 1, c5_i22, &c5_f_emlrtBCI, &c5_st);
-  }
-
-  c5_future_wp[1] = chartInstance->c5_path_y.vector.data[c5_i23 - 1];
+  c5_num_waypoints = (real_T)c5_i9;
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 50);
   }
 
+  c5_i10 = chartInstance->c5_path_x.size[0];
+  if (chartInstance->c5_current_wp_idx != (real_T)(int32_T)muDoubleScalarFloor
+      (chartInstance->c5_current_wp_idx)) {
+    emlrtIntegerCheckR2012b(chartInstance->c5_current_wp_idx, &c5_emlrtDCI,
+      &c5_st);
+  }
+
+  c5_i11 = (int32_T)chartInstance->c5_current_wp_idx;
+  if ((c5_i11 < 1) || (c5_i11 > c5_i10)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i11, 1, c5_i10, &c5_b_emlrtBCI, &c5_st);
+  }
+
+  c5_current_wp[0] = chartInstance->c5_path_x.vector.data[c5_i11 - 1];
+  c5_i12 = chartInstance->c5_path_y.size[0];
+  if (chartInstance->c5_current_wp_idx != (real_T)(int32_T)muDoubleScalarFloor
+      (chartInstance->c5_current_wp_idx)) {
+    emlrtIntegerCheckR2012b(chartInstance->c5_current_wp_idx, &c5_b_emlrtDCI,
+      &c5_st);
+  }
+
+  c5_i13 = (int32_T)chartInstance->c5_current_wp_idx;
+  if ((c5_i13 < 1) || (c5_i13 > c5_i12)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i13, 1, c5_i12, &c5_c_emlrtBCI, &c5_st);
+  }
+
+  c5_current_wp[1] = chartInstance->c5_path_y.vector.data[c5_i13 - 1];
+  if ((chartInstance->c5_IsDebuggerActive == 1) ||
+      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+      (chartInstance->c5_IsHeatMapPresent == 1)) {
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 51);
+  }
+
+  c5_i14 = chartInstance->c5_path_x.size[0];
+  if (chartInstance->c5_future_wp_idx != (real_T)(int32_T)muDoubleScalarFloor
+      (chartInstance->c5_future_wp_idx)) {
+    emlrtIntegerCheckR2012b(chartInstance->c5_future_wp_idx, &c5_c_emlrtDCI,
+      &c5_st);
+  }
+
+  c5_i15 = (int32_T)chartInstance->c5_future_wp_idx;
+  if ((c5_i15 < 1) || (c5_i15 > c5_i14)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i15, 1, c5_i14, &c5_d_emlrtBCI, &c5_st);
+  }
+
+  c5_future_wp[0] = chartInstance->c5_path_x.vector.data[c5_i15 - 1];
+  c5_i16 = chartInstance->c5_path_y.size[0];
+  if (chartInstance->c5_future_wp_idx != (real_T)(int32_T)muDoubleScalarFloor
+      (chartInstance->c5_future_wp_idx)) {
+    emlrtIntegerCheckR2012b(chartInstance->c5_future_wp_idx, &c5_d_emlrtDCI,
+      &c5_st);
+  }
+
+  c5_i17 = (int32_T)chartInstance->c5_future_wp_idx;
+  if ((c5_i17 < 1) || (c5_i17 > c5_i16)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i17, 1, c5_i16, &c5_e_emlrtBCI, &c5_st);
+  }
+
+  c5_future_wp[1] = chartInstance->c5_path_y.vector.data[c5_i17 - 1];
+  if ((chartInstance->c5_IsDebuggerActive == 1) ||
+      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+      (chartInstance->c5_IsHeatMapPresent == 1)) {
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 54);
+  }
+
   c5_b_st.site = &c5_b_emlrtRSI;
   c5_b_a = c5_future_wp[1] - c5_e_y;
-  c5_c_st.site = &c5_ub_emlrtRSI;
   c5_c_a = c5_b_a;
   c5_d_a = c5_c_a;
   c5_e_a = c5_d_a;
@@ -4795,7 +4625,6 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   c5_c_c = c5_f_a * c5_f_a;
   c5_b_st.site = &c5_b_emlrtRSI;
   c5_g_a = c5_future_wp[0] - c5_c_x;
-  c5_c_st.site = &c5_ub_emlrtRSI;
   c5_h_a = c5_g_a;
   c5_i_a = c5_h_a;
   c5_j_a = c5_i_a;
@@ -4808,12 +4637,11 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 51);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 55);
   }
 
   c5_b_st.site = &c5_c_emlrtRSI;
   c5_l_a = c5_future_wp[1] - c5_current_wp[1];
-  c5_c_st.site = &c5_ub_emlrtRSI;
   c5_m_a = c5_l_a;
   c5_n_a = c5_m_a;
   c5_o_a = c5_n_a;
@@ -4821,7 +4649,6 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   c5_e_c = c5_p_a * c5_p_a;
   c5_b_st.site = &c5_c_emlrtRSI;
   c5_q_a = c5_future_wp[0] - c5_current_wp[0];
-  c5_c_st.site = &c5_ub_emlrtRSI;
   c5_r_a = c5_q_a;
   c5_s_a = c5_r_a;
   c5_t_a = c5_s_a;
@@ -4834,12 +4661,11 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 52);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 56);
   }
 
   c5_b_st.site = &c5_d_emlrtRSI;
   c5_v_a = c5_current_wp[1] - c5_e_y;
-  c5_c_st.site = &c5_ub_emlrtRSI;
   c5_w_a = c5_v_a;
   c5_x_a = c5_w_a;
   c5_y_a = c5_x_a;
@@ -4847,7 +4673,6 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   c5_g_c = c5_ab_a * c5_ab_a;
   c5_b_st.site = &c5_d_emlrtRSI;
   c5_bb_a = c5_current_wp[0] - c5_c_x;
-  c5_c_st.site = &c5_ub_emlrtRSI;
   c5_cb_a = c5_bb_a;
   c5_db_a = c5_cb_a;
   c5_eb_a = c5_db_a;
@@ -4860,7 +4685,7 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 55);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 59);
   }
 
   c5_unitvec[0] = (c5_future_wp[0] - c5_current_wp[0]) / c5_dist_wp_to_wp;
@@ -4868,29 +4693,29 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 58);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 62);
   }
 
   c5_sigma = c5_b_sigma_dist;
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 59);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 63);
   }
 
   c5_gb_a = c5_dsit_to_last + c5_sigma;
-  for (c5_i24 = 0; c5_i24 < 2; c5_i24++) {
-    c5_b_b[c5_i24] = c5_unitvec[c5_i24];
+  for (c5_i18 = 0; c5_i18 < 2; c5_i18++) {
+    c5_b_b[c5_i18] = c5_unitvec[c5_i18];
   }
 
-  for (c5_i25 = 0; c5_i25 < 2; c5_i25++) {
-    c5_target_relative[c5_i25] = c5_gb_a * c5_b_b[c5_i25];
+  for (c5_i19 = 0; c5_i19 < 2; c5_i19++) {
+    c5_target_relative[c5_i19] = c5_gb_a * c5_b_b[c5_i19];
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 60);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 64);
   }
 
   c5_target_pos[0] = c5_target_relative[0] + c5_current_wp[0];
@@ -4898,7 +4723,7 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 61);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 65);
   }
 
   c5_f_y = c5_target_pos[1] - c5_e_y;
@@ -4911,185 +4736,72 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 65);
-  }
-
-  for (c5_i26 = 0; c5_i26 < 30; c5_i26++) {
-    c5_b_varargin_1[c5_i26] = c5_b_ranges[c5_i26];
-  }
-
-  c5_minimum(chartInstance, c5_b_varargin_1, &c5_ex, &c5_idx);
-  c5_b_minval = c5_ex;
-  c5_iindx = c5_idx;
-  c5_b_min_range = c5_b_minval;
-  c5_b_index = (real_T)c5_iindx;
-  c5_min_range = c5_b_min_range;
-  c5_index = c5_b_index;
-  if ((chartInstance->c5_IsDebuggerActive == 1) ||
-      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-      (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 66);
-  }
-
-  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 4,
-                     covrtRelationalopUpdateFcn(chartInstance->c5_covrtInstance,
-        4U, 0U, 0U, c5_min_range, c5_b_min_wall_collision_dist, -1, 2U,
-        c5_min_range < c5_b_min_wall_collision_dist))) {
-    if ((chartInstance->c5_IsDebuggerActive == 1) ||
-        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-        (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 67);
-    }
-
-    if (c5_index != (real_T)(int32_T)muDoubleScalarFloor(c5_index)) {
-      emlrtIntegerCheckR2012b(c5_index, &c5_e_emlrtDCI, &c5_st);
-    }
-
-    c5_i27 = (int32_T)c5_index;
-    if ((c5_i27 < 1) || (c5_i27 > 30)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i27, 1, 30, &c5_g_emlrtBCI, &c5_st);
-    }
-
-    c5_b_target_th -= c5_b_scan_angles[c5_i27 - 1];
-  }
-
-  if ((chartInstance->c5_IsDebuggerActive == 1) ||
-      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-      (chartInstance->c5_IsHeatMapPresent == 1)) {
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 68);
   }
 
+  if (covrtEmlCondEval(chartInstance->c5_covrtInstance, 4U, 0, 2,
+                       covrtRelationalopUpdateFcn
+                       (chartInstance->c5_covrtInstance, 4U, 0U, 0U,
+                        c5_dist_to_future, c5_b_capture_distance, -1, 2U,
+                        c5_dist_to_future < c5_b_capture_distance)) &&
+      covrtEmlCondEval(chartInstance->c5_covrtInstance, 4U, 0, 3,
+                       covrtRelationalopUpdateFcn
+                       (chartInstance->c5_covrtInstance, 4U, 0U, 1U,
+                        chartInstance->c5_future_wp_idx, c5_num_waypoints, -1,
+                        2U, chartInstance->c5_future_wp_idx < c5_num_waypoints)))
+  {
+    covrtEmlMcdcEval(chartInstance->c5_covrtInstance, 4U, 0, 1, true);
+    covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 5, true);
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 69);
+    }
+
+    chartInstance->c5_current_wp_idx = chartInstance->c5_future_wp_idx;
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 70);
+    }
+
+    chartInstance->c5_future_wp_idx++;
+  } else {
+    covrtEmlMcdcEval(chartInstance->c5_covrtInstance, 4U, 0, 1, false);
+    covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 5, false);
+  }
+
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 72);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 71);
   }
 
-  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 5, c5_any
-                     (chartInstance, c5_b_object_detection))) {
+  if ((chartInstance->c5_IsDebuggerActive == 1) ||
+      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+      (chartInstance->c5_IsHeatMapPresent == 1)) {
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 77);
+  }
+
+  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 6,
+                     covrtRelationalopUpdateFcn(chartInstance->c5_covrtInstance,
+        4U, 0U, 2U, c5_dist_to_future, c5_b_capture_distance, -1, 2U,
+        c5_dist_to_future < c5_b_capture_distance))) {
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 73);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 78);
     }
 
-    c5_b_st.site = &c5_e_emlrtRSI;
-    c5_c_st.site = &c5_e_emlrtRSI;
-    for (c5_i28 = 0; c5_i28 < 15; c5_i28++) {
-      c5_c_object_detection[c5_i28] = c5_b_object_detection[c5_i28];
-    }
-
-    c5_b_any(chartInstance, &c5_c_st, c5_c_object_detection, c5_b_bv);
-    c5_c_st.site = &c5_e_emlrtRSI;
-    c5_c_any(chartInstance, &c5_c_st, c5_b_bv, c5_f_x);
-    c5_eml_find(chartInstance, c5_f_x, c5_ii_data, c5_ii_size);
-    c5_valid_rows_size[0] = c5_ii_size[0];
-    c5_c_loop_ub = c5_ii_size[0] - 1;
-    for (c5_i29 = 0; c5_i29 <= c5_c_loop_ub; c5_i29++) {
-      c5_valid_rows_data[c5_i29] = (real_T)c5_ii_data[c5_i29];
-    }
-
-    sfListenerPushScopeForDynamicMatricesForLegacyVarsJitOff
-      (chartInstance->c5_RuntimeVar, 0U, "valid_rows", &c5_valid_rows_data,
-       c5_valid_rows_size, (void *)&c5_sf_marshallOut_dynamicmatrix_1, (void *)
-       &c5_sf_marshallIn_dynamicmatrix_1, 0U);
-    if ((chartInstance->c5_IsDebuggerActive == 1) ||
-        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-        (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 74);
-    }
-
-    c5_detections_size[0] = c5_valid_rows_size[0];
-    c5_detections_size[1] = 3;
-    for (c5_i32 = 0; c5_i32 < 3; c5_i32++) {
-      c5_d_loop_ub = c5_valid_rows_size[0] - 1;
-      for (c5_i33 = 0; c5_i33 <= c5_d_loop_ub; c5_i33++) {
-        if (c5_valid_rows_data[c5_i33] != (real_T)(int32_T)muDoubleScalarFloor
-            (c5_valid_rows_data[c5_i33])) {
-          emlrtIntegerCheckR2012b(c5_valid_rows_data[c5_i33], &c5_f_emlrtDCI,
-            &c5_st);
-        }
-
-        c5_i37 = (int32_T)c5_valid_rows_data[c5_i33];
-        if ((c5_i37 < 1) || (c5_i37 > 5)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i37, 1, 5, &c5_h_emlrtBCI, &c5_st);
-        }
-
-        c5_detections_data[c5_i33 + c5_detections_size[0] * c5_i32] =
-          c5_b_object_detection[(c5_i37 + 5 * c5_i32) - 1];
-      }
-    }
-
-    sfListenerPushScopeForDynamicMatricesForLegacyVarsJitOff
-      (chartInstance->c5_RuntimeVar, 0U, "detections", &c5_detections_data,
-       c5_detections_size, (void *)&c5_sf_marshallOut_dynamicmatrix_2, (void *)
-       &c5_sf_marshallIn_dynamicmatrix_2, 0U);
-    if ((chartInstance->c5_IsDebuggerActive == 1) ||
-        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-        (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 76);
-    }
-
-    c5_i35 = 1;
-    if ((c5_i35 < 1) || (c5_i35 > c5_detections_size[0])) {
-      emlrtDynamicBoundsCheckR2012b(c5_i35, 1, c5_detections_size[0],
-        &c5_b_emlrtBCI, &c5_st);
-    }
-
-    c5_i38 = c5_i35 - 1;
-    for (c5_i39 = 0; c5_i39 < 3; c5_i39++) {
-      c5_c_varargin_1[c5_i39] = c5_detections_data[c5_i38 + c5_detections_size[0]
-        * c5_i39];
-    }
-
-    c5_b_minimum(chartInstance, c5_c_varargin_1, &c5_b_ex, &c5_b_idx);
-    c5_c_minval = c5_b_ex;
-    c5_b_iindx = c5_b_idx;
-    c5_c_min_range = c5_c_minval;
-    c5_c_index = (real_T)c5_b_iindx;
-    c5_min_range = c5_c_min_range;
-    c5_index = c5_c_index;
-    if ((chartInstance->c5_IsDebuggerActive == 1) ||
-        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-        (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 77);
-    }
-
-    if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 6,
-                       covrtRelationalopUpdateFcn
-                       (chartInstance->c5_covrtInstance, 4U, 0U, 1U,
-                        c5_min_range, c5_b_min_obj_collision_dist, -1, 2U,
-                        c5_min_range < c5_b_min_obj_collision_dist))) {
-      if ((chartInstance->c5_IsDebuggerActive == 1) ||
-          (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-          (chartInstance->c5_IsHeatMapPresent == 1)) {
-        sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 78);
-      }
-
-      if (c5_index != (real_T)(int32_T)muDoubleScalarFloor(c5_index)) {
-        emlrtIntegerCheckR2012b(c5_index, &c5_i_emlrtDCI, &c5_st);
-      }
-
-      c5_i40 = (int32_T)c5_index;
-      if ((c5_i40 < 1) || (c5_i40 > 5)) {
-        emlrtDynamicBoundsCheckR2012b(c5_i40, 1, 5, &c5_k_emlrtBCI, &c5_st);
-      }
-
-      c5_obj_angle = c5_b_object_detection[c5_i40 + 4];
-      if ((chartInstance->c5_IsDebuggerActive == 1) ||
-          (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-          (chartInstance->c5_IsHeatMapPresent == 1)) {
-        sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 79);
-      }
-
-      c5_b_target_th -= c5_obj_angle;
-    }
-
+    c5_b_distance_from_wp = c5_dist_to_future;
+  } else {
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
       sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 80);
     }
+
+    c5_b_distance_from_wp = c5_b_capture_distance + 1.0;
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
@@ -5101,114 +4813,37 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 92);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 84);
   }
 
-  if (covrtEmlCondEval(chartInstance->c5_covrtInstance, 4U, 0, 2,
-                       covrtRelationalopUpdateFcn
-                       (chartInstance->c5_covrtInstance, 4U, 0U, 2U,
-                        c5_dist_to_future, c5_b_capture_distance, -1, 2U,
-                        c5_dist_to_future < c5_b_capture_distance)) &&
-      covrtEmlCondEval(chartInstance->c5_covrtInstance, 4U, 0, 3,
-                       covrtRelationalopUpdateFcn
-                       (chartInstance->c5_covrtInstance, 4U, 0U, 3U,
-                        chartInstance->c5_future_wp_idx, c5_num_waypoints, -1,
-                        2U, chartInstance->c5_future_wp_idx < c5_num_waypoints)))
-  {
-    covrtEmlMcdcEval(chartInstance->c5_covrtInstance, 4U, 0, 1, true);
-    covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 7, true);
-    if ((chartInstance->c5_IsDebuggerActive == 1) ||
-        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-        (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 93);
-    }
-
-    chartInstance->c5_current_wp_idx = chartInstance->c5_future_wp_idx;
-    if ((chartInstance->c5_IsDebuggerActive == 1) ||
-        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-        (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 94);
-    }
-
-    chartInstance->c5_future_wp_idx++;
-  } else {
-    covrtEmlMcdcEval(chartInstance->c5_covrtInstance, 4U, 0, 1, false);
-    covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 7, false);
-  }
-
-  if ((chartInstance->c5_IsDebuggerActive == 1) ||
-      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-      (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 95);
-  }
-
-  if ((chartInstance->c5_IsDebuggerActive == 1) ||
-      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-      (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 101);
-  }
-
-  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 8,
-                     covrtRelationalopUpdateFcn(chartInstance->c5_covrtInstance,
-        4U, 0U, 4U, c5_dist_to_future, c5_b_capture_distance, -1, 2U,
-        c5_dist_to_future < c5_b_capture_distance))) {
-    if ((chartInstance->c5_IsDebuggerActive == 1) ||
-        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-        (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 102);
-    }
-
-    c5_b_distance_from_wp = c5_dist_to_future;
-  } else {
-    if ((chartInstance->c5_IsDebuggerActive == 1) ||
-        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-        (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 104);
-    }
-
-    c5_b_distance_from_wp = c5_b_capture_distance + 1.0;
-  }
-
-  if ((chartInstance->c5_IsDebuggerActive == 1) ||
-      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-      (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 105);
-  }
-
-  if ((chartInstance->c5_IsDebuggerActive == 1) ||
-      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
-      (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 108);
-  }
-
-  c5_i30 = chartInstance->c5_path_x.size[0];
+  c5_i20 = chartInstance->c5_path_x.size[0];
   if (c5_num_waypoints != (real_T)(int32_T)muDoubleScalarFloor(c5_num_waypoints))
   {
-    emlrtIntegerCheckR2012b(c5_num_waypoints, &c5_g_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_num_waypoints, &c5_e_emlrtDCI, &c5_st);
   }
 
-  c5_i31 = (int32_T)c5_num_waypoints;
-  if ((c5_i31 < 1) || (c5_i31 > c5_i30)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i31, 1, c5_i30, &c5_i_emlrtBCI, &c5_st);
+  c5_i21 = (int32_T)c5_num_waypoints;
+  if ((c5_i21 < 1) || (c5_i21 > c5_i20)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i21, 1, c5_i20, &c5_f_emlrtBCI, &c5_st);
   }
 
-  c5_final_path_waypoint[0] = chartInstance->c5_path_x.vector.data[c5_i31 - 1];
-  c5_i34 = chartInstance->c5_path_y.size[0];
+  c5_final_path_waypoint[0] = chartInstance->c5_path_x.vector.data[c5_i21 - 1];
+  c5_i22 = chartInstance->c5_path_y.size[0];
   if (c5_num_waypoints != (real_T)(int32_T)muDoubleScalarFloor(c5_num_waypoints))
   {
-    emlrtIntegerCheckR2012b(c5_num_waypoints, &c5_h_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_num_waypoints, &c5_f_emlrtDCI, &c5_st);
   }
 
-  c5_i36 = (int32_T)c5_num_waypoints;
-  if ((c5_i36 < 1) || (c5_i36 > c5_i34)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i36, 1, c5_i34, &c5_j_emlrtBCI, &c5_st);
+  c5_i23 = (int32_T)c5_num_waypoints;
+  if ((c5_i23 < 1) || (c5_i23 > c5_i22)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i23, 1, c5_i22, &c5_g_emlrtBCI, &c5_st);
   }
 
-  c5_final_path_waypoint[1] = chartInstance->c5_path_y.vector.data[c5_i36 - 1];
+  c5_final_path_waypoint[1] = chartInstance->c5_path_y.vector.data[c5_i23 - 1];
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 109);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 85);
   }
 
   c5_final_waypoint[0] = c5_b_waypointsx[3];
@@ -5216,17 +4851,17 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 110);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 86);
   }
 
-  c5_b_st.site = &c5_f_emlrtRSI;
+  c5_b_st.site = &c5_e_emlrtRSI;
   c5_ib_a = c5_final_path_waypoint[1] - c5_e_y;
   c5_jb_a = c5_ib_a;
   c5_kb_a = c5_jb_a;
   c5_lb_a = c5_kb_a;
   c5_mb_a = c5_lb_a;
   c5_i_c = c5_mb_a * c5_mb_a;
-  c5_b_st.site = &c5_f_emlrtRSI;
+  c5_b_st.site = &c5_e_emlrtRSI;
   c5_nb_a = c5_final_path_waypoint[0] - c5_c_x;
   c5_ob_a = c5_nb_a;
   c5_pb_a = c5_ob_a;
@@ -5234,23 +4869,23 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   c5_rb_a = c5_qb_a;
   c5_j_c = c5_rb_a * c5_rb_a;
   c5_d = c5_i_c + c5_j_c;
-  c5_b_st.site = &c5_f_emlrtRSI;
+  c5_b_st.site = &c5_e_emlrtRSI;
   c5_b_sqrt(chartInstance, &c5_b_st, &c5_d);
-  c5_dsit_to_path_last = c5_d;
+  c5_dist_to_path_last = c5_d;
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 111);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 87);
   }
 
-  c5_b_st.site = &c5_g_emlrtRSI;
+  c5_b_st.site = &c5_f_emlrtRSI;
   c5_sb_a = c5_final_waypoint[1] - c5_e_y;
   c5_tb_a = c5_sb_a;
   c5_ub_a = c5_tb_a;
   c5_vb_a = c5_ub_a;
   c5_wb_a = c5_vb_a;
   c5_k_c = c5_wb_a * c5_wb_a;
-  c5_b_st.site = &c5_g_emlrtRSI;
+  c5_b_st.site = &c5_f_emlrtRSI;
   c5_xb_a = c5_final_waypoint[0] - c5_c_x;
   c5_yb_a = c5_xb_a;
   c5_ac_a = c5_yb_a;
@@ -5258,125 +4893,132 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   c5_cc_a = c5_bc_a;
   c5_l_c = c5_cc_a * c5_cc_a;
   c5_d = c5_k_c + c5_l_c;
-  c5_b_st.site = &c5_g_emlrtRSI;
+  c5_b_st.site = &c5_f_emlrtRSI;
   c5_b_sqrt(chartInstance, &c5_b_st, &c5_d);
   c5_dist_to_last = c5_d;
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 114);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 90);
   }
 
-  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 9,
+  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 7,
                      covrtRelationalopUpdateFcn(chartInstance->c5_covrtInstance,
-        4U, 0U, 5U, c5_dsit_to_path_last, c5_b_capture_distance, -1, 2U,
-        c5_dsit_to_path_last < c5_b_capture_distance))) {
+        4U, 0U, 3U, c5_dist_to_path_last, c5_b_capture_distance, -1, 2U,
+        c5_dist_to_path_last < c5_b_capture_distance))) {
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 115);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 91);
     }
 
     chartInstance->c5_wp_counter++;
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 118);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 94);
     }
 
-    c5_g_x[0] = c5_c_x;
-    c5_g_x[1] = c5_e_y;
+    c5_f_x[0] = c5_c_x;
+    c5_f_x[1] = c5_e_y;
     if (chartInstance->c5_wp_counter != (real_T)(int32_T)muDoubleScalarFloor
         (chartInstance->c5_wp_counter)) {
-      emlrtIntegerCheckR2012b(chartInstance->c5_wp_counter, &c5_j_emlrtDCI,
+      emlrtIntegerCheckR2012b(chartInstance->c5_wp_counter, &c5_g_emlrtDCI,
         &c5_st);
     }
 
-    c5_i41 = (int32_T)chartInstance->c5_wp_counter;
-    if ((c5_i41 < 1) || (c5_i41 > 4)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i41, 1, 4, &c5_l_emlrtBCI, &c5_st);
+    c5_i24 = (int32_T)chartInstance->c5_wp_counter;
+    if ((c5_i24 < 1) || (c5_i24 > 4)) {
+      emlrtDynamicBoundsCheckR2012b(c5_i24, 1, 4, &c5_h_emlrtBCI, &c5_st);
     }
 
-    c5_d_waypointsx[0] = c5_b_waypointsx[c5_i41 - 1];
+    c5_d_waypointsx[0] = c5_b_waypointsx[c5_i24 - 1];
     if (chartInstance->c5_wp_counter != (real_T)(int32_T)muDoubleScalarFloor
         (chartInstance->c5_wp_counter)) {
-      emlrtIntegerCheckR2012b(chartInstance->c5_wp_counter, &c5_k_emlrtDCI,
+      emlrtIntegerCheckR2012b(chartInstance->c5_wp_counter, &c5_h_emlrtDCI,
         &c5_st);
     }
 
-    c5_i42 = (int32_T)chartInstance->c5_wp_counter;
-    if ((c5_i42 < 1) || (c5_i42 > 4)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i42, 1, 4, &c5_m_emlrtBCI, &c5_st);
+    c5_i25 = (int32_T)chartInstance->c5_wp_counter;
+    if ((c5_i25 < 1) || (c5_i25 > 4)) {
+      emlrtDynamicBoundsCheckR2012b(c5_i25, 1, 4, &c5_i_emlrtBCI, &c5_st);
     }
 
-    c5_d_waypointsx[1] = c5_b_waypointsy[c5_i42 - 1];
-    c5_b_st.site = &c5_h_emlrtRSI;
-    for (c5_i43 = 0; c5_i43 < 213200; c5_i43++) {
-      chartInstance->c5_c_logical_map[c5_i43] = chartInstance->
-        c5_logical_map[c5_i43];
+    c5_d_waypointsx[1] = c5_b_waypointsy[c5_i25 - 1];
+    c5_b_st.site = &c5_g_emlrtRSI;
+    for (c5_i26 = 0; c5_i26 < 213200; c5_i26++) {
+      chartInstance->c5_c_logical_map[c5_i26] = chartInstance->
+        c5_logical_map[c5_i26];
     }
 
     c5_b_path_gen(chartInstance, &c5_b_st, chartInstance->c5_c_logical_map,
-                  c5_g_x, c5_d_waypointsx, &c5_path);
+                  c5_f_x, c5_d_waypointsx, &c5_path);
     sfListenerPushScopeForDynamicMatricesJitOff(chartInstance->c5_RuntimeVar, 0U,
       "path", &c5_path, (void *)&c5_sf_marshallOut_s_Y7g3XIg0UrmNkIXtokcBk,
       (void *)&c5_sf_marshallIn_s_Y7g3XIg0UrmNkIXtokcBk, 0U);
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 119);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 95);
     }
 
     c5_array_real_T_SetSize(chartInstance, &c5_st, &chartInstance->c5_path_x,
-      &c5_e_emlrtRTEI, c5_path.x.size[0]);
-    c5_e_loop_ub = c5_path.x.size[0] - 1;
-    for (c5_i44 = 0; c5_i44 <= c5_e_loop_ub; c5_i44++) {
-      chartInstance->c5_path_x.vector.data[c5_i44] =
-        c5_path.x.vector.data[c5_i44];
+      &c5_c_emlrtRTEI, c5_path.x.size[0]);
+    c5_c_loop_ub = c5_path.x.size[0] - 1;
+    for (c5_i28 = 0; c5_i28 <= c5_c_loop_ub; c5_i28++) {
+      chartInstance->c5_path_x.vector.data[c5_i28] =
+        c5_path.x.vector.data[c5_i28];
     }
 
     chartInstance->c5_path_x_not_empty = (chartInstance->c5_path_x.size[0] != 0);
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 120);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 96);
     }
 
     c5_array_real_T_SetSize(chartInstance, &c5_st, &chartInstance->c5_path_y,
-      &c5_f_emlrtRTEI, c5_path.y.size[0]);
-    c5_f_loop_ub = c5_path.y.size[0] - 1;
-    for (c5_i45 = 0; c5_i45 <= c5_f_loop_ub; c5_i45++) {
-      chartInstance->c5_path_y.vector.data[c5_i45] =
-        c5_path.y.vector.data[c5_i45];
+      &c5_d_emlrtRTEI, c5_path.y.size[0]);
+    c5_d_loop_ub = c5_path.y.size[0] - 1;
+    for (c5_i30 = 0; c5_i30 <= c5_d_loop_ub; c5_i30++) {
+      chartInstance->c5_path_y.vector.data[c5_i30] =
+        c5_path.y.vector.data[c5_i30];
     }
 
     chartInstance->c5_path_y_not_empty = (chartInstance->c5_path_y.size[0] != 0);
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 123);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 99);
     }
 
     chartInstance->c5_current_wp_idx = 1.0;
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 124);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 100);
     }
 
     chartInstance->c5_future_wp_idx = 2.0;
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 103);
+    }
+
+    chartInstance->c5_timer = 1.0;
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 125);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 104);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 128);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 107);
   }
 
   c5_b_st.site = &c5_i_emlrtRSI;
@@ -5384,7 +5026,7 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 129);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 108);
   }
 
   c5_b_st.site = &c5_j_emlrtRSI;
@@ -5395,17 +5037,17 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 131);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 110);
   }
 
-  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 10,
+  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 8,
                      covrtRelationalopUpdateFcn(chartInstance->c5_covrtInstance,
-        4U, 0U, 6U, c5_dist_to_last, c5_b_capture_distance, -1, 2U,
+        4U, 0U, 4U, c5_dist_to_last, c5_b_capture_distance, -1, 2U,
         c5_dist_to_last < c5_b_capture_distance))) {
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 132);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 111);
     }
 
     c5_b_stop = 1.0;
@@ -5413,7 +5055,7 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
     if ((chartInstance->c5_IsDebuggerActive == 1) ||
         (chartInstance->c5_IsSequenceViewerPresent == 1) ||
         (chartInstance->c5_IsHeatMapPresent == 1)) {
-      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 134);
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 113);
     }
 
     c5_b_stop = 0.0;
@@ -5422,19 +5064,158 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 135);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 114);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 136);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 118);
+  }
+
+  if (covrtEmlIfEval(chartInstance->c5_covrtInstance, 4U, 0, 9,
+                     covrtRelationalopUpdateFcn(chartInstance->c5_covrtInstance,
+        4U, 0U, 5U, c5_mod(chartInstance, chartInstance->c5_timer), 0.0, -1, 0U,
+        c5_mod(chartInstance, chartInstance->c5_timer) == 0.0))) {
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 120);
+    }
+
+    c5_g_x[0] = c5_c_x;
+    c5_g_x[1] = c5_e_y;
+    if (chartInstance->c5_wp_counter != (real_T)(int32_T)muDoubleScalarFloor
+        (chartInstance->c5_wp_counter)) {
+      emlrtIntegerCheckR2012b(chartInstance->c5_wp_counter, &c5_i_emlrtDCI,
+        &c5_st);
+    }
+
+    c5_i27 = (int32_T)chartInstance->c5_wp_counter;
+    if ((c5_i27 < 1) || (c5_i27 > 4)) {
+      emlrtDynamicBoundsCheckR2012b(c5_i27, 1, 4, &c5_j_emlrtBCI, &c5_st);
+    }
+
+    c5_e_waypointsx[0] = c5_b_waypointsx[c5_i27 - 1];
+    if (chartInstance->c5_wp_counter != (real_T)(int32_T)muDoubleScalarFloor
+        (chartInstance->c5_wp_counter)) {
+      emlrtIntegerCheckR2012b(chartInstance->c5_wp_counter, &c5_j_emlrtDCI,
+        &c5_st);
+    }
+
+    c5_i29 = (int32_T)chartInstance->c5_wp_counter;
+    if ((c5_i29 < 1) || (c5_i29 > 4)) {
+      emlrtDynamicBoundsCheckR2012b(c5_i29, 1, 4, &c5_k_emlrtBCI, &c5_st);
+    }
+
+    c5_e_waypointsx[1] = c5_b_waypointsy[c5_i29 - 1];
+    c5_b_st.site = &c5_h_emlrtRSI;
+    for (c5_i31 = 0; c5_i31 < 213200; c5_i31++) {
+      chartInstance->c5_d_logical_map[c5_i31] = chartInstance->
+        c5_logical_map[c5_i31];
+    }
+
+    c5_b_path_gen(chartInstance, &c5_b_st, chartInstance->c5_d_logical_map,
+                  c5_g_x, c5_e_waypointsx, &c5_path);
+    sfListenerPushScopeForDynamicMatricesJitOff(chartInstance->c5_RuntimeVar, 0U,
+      "path", &c5_path, (void *)&c5_sf_marshallOut_s_Y7g3XIg0UrmNkIXtokcBk,
+      (void *)&c5_sf_marshallIn_s_Y7g3XIg0UrmNkIXtokcBk, 0U);
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 121);
+    }
+
+    c5_array_real_T_SetSize(chartInstance, &c5_st, &chartInstance->c5_path_x,
+      &c5_e_emlrtRTEI, c5_path.x.size[0]);
+    c5_e_loop_ub = c5_path.x.size[0] - 1;
+    for (c5_i32 = 0; c5_i32 <= c5_e_loop_ub; c5_i32++) {
+      chartInstance->c5_path_x.vector.data[c5_i32] =
+        c5_path.x.vector.data[c5_i32];
+    }
+
+    chartInstance->c5_path_x_not_empty = (chartInstance->c5_path_x.size[0] != 0);
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 122);
+    }
+
+    c5_array_real_T_SetSize(chartInstance, &c5_st, &chartInstance->c5_path_y,
+      &c5_f_emlrtRTEI, c5_path.y.size[0]);
+    c5_f_loop_ub = c5_path.y.size[0] - 1;
+    for (c5_i33 = 0; c5_i33 <= c5_f_loop_ub; c5_i33++) {
+      chartInstance->c5_path_y.vector.data[c5_i33] =
+        c5_path.y.vector.data[c5_i33];
+    }
+
+    chartInstance->c5_path_y_not_empty = (chartInstance->c5_path_y.size[0] != 0);
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 125);
+    }
+
+    chartInstance->c5_current_wp_idx = 1.0;
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 126);
+    }
+
+    chartInstance->c5_future_wp_idx = 2.0;
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 129);
+    }
+
+    c5_b_st.site = &c5_k_emlrtRSI;
+    c5_b_hold(chartInstance, &c5_b_st, c5_emlrt_marshallOut(chartInstance,
+               c5_b_cv));
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 130);
+    }
+
+    c5_b_st.site = &c5_l_emlrtRSI;
+    c5_b_plot(chartInstance, &c5_b_st, c5_b_emlrt_marshallOut(chartInstance,
+               &chartInstance->c5_path_x), c5_b_emlrt_marshallOut(chartInstance,
+               &chartInstance->c5_path_y), c5_c_emlrt_marshallOut(chartInstance,
+               c5_b_cv2));
+    if ((chartInstance->c5_IsDebuggerActive == 1) ||
+        (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+        (chartInstance->c5_IsHeatMapPresent == 1)) {
+      sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 133);
+    }
+
+    chartInstance->c5_timer = 1.0;
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
-    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, -136);
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 134);
+  }
+
+  if ((chartInstance->c5_IsDebuggerActive == 1) ||
+      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+      (chartInstance->c5_IsHeatMapPresent == 1)) {
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 137);
+  }
+
+  chartInstance->c5_timer++;
+  if ((chartInstance->c5_IsDebuggerActive == 1) ||
+      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+      (chartInstance->c5_IsHeatMapPresent == 1)) {
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 138);
+  }
+
+  if ((chartInstance->c5_IsDebuggerActive == 1) ||
+      (chartInstance->c5_IsSequenceViewerPresent == 1) ||
+      (chartInstance->c5_IsHeatMapPresent == 1)) {
+    sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, -138);
   }
 
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
@@ -5452,12 +5233,11 @@ static void sf_gateway_c5_sl_groundvehicleDynamics
     sfListenerReportEndingSection(chartInstance->c5_RuntimeVar, 0, 1);
   }
 
-  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 12U,
+  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 7U,
                     *chartInstance->c5_distance_from_wp);
-  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 13U,
+  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 8U,
                     *chartInstance->c5_target_th);
-  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 14U,
-                    *chartInstance->c5_stop);
+  covrtSigUpdateFcn(chartInstance->c5_covrtInstance, 9U, *chartInstance->c5_stop);
   c5_array_s_Y7g3XIg0UrmNkIXtokcBk_D(chartInstance, &c5_path);
 }
 
@@ -5491,11 +5271,12 @@ static const mxArray *get_sim_state_c5_sl_groundvehicleDynamics
   const mxArray *c5_k_y = NULL;
   const mxArray *c5_l_y = NULL;
   const mxArray *c5_m_y = NULL;
+  const mxArray *c5_n_y = NULL;
   const mxArray *c5_st;
   c5_st = NULL;
   c5_st = NULL;
   c5_e_y = NULL;
-  sf_mex_assign(&c5_e_y, sf_mex_createcellmatrix(8, 1), false);
+  sf_mex_assign(&c5_e_y, sf_mex_createcellmatrix(9, 1), false);
   c5_f_y = NULL;
   sf_mex_assign(&c5_f_y, sf_mex_create("y", chartInstance->c5_distance_from_wp,
     0, 0U, 0, 0U, 0), false);
@@ -5555,11 +5336,21 @@ static const mxArray *get_sim_state_c5_sl_groundvehicleDynamics
     sf_mex_assign(&c5_m_y, sf_mex_create("y", NULL, 0, 0U, 1, 0U, 2, 0, 0),
                   false);
   } else {
-    sf_mex_assign(&c5_m_y, sf_mex_create("y", &chartInstance->c5_wp_counter, 0,
-      0U, 0, 0U, 0), false);
+    sf_mex_assign(&c5_m_y, sf_mex_create("y", &chartInstance->c5_timer, 0, 0U, 0,
+      0U, 0), false);
   }
 
   sf_mex_setcell(c5_e_y, 7, c5_m_y);
+  c5_n_y = NULL;
+  if (!chartInstance->c5_current_wp_idx_not_empty) {
+    sf_mex_assign(&c5_n_y, sf_mex_create("y", NULL, 0, 0U, 1, 0U, 2, 0, 0),
+                  false);
+  } else {
+    sf_mex_assign(&c5_n_y, sf_mex_create("y", &chartInstance->c5_wp_counter, 0,
+      0U, 0, 0U, 0), false);
+  }
+
+  sf_mex_setcell(c5_e_y, 8, c5_n_y);
   sf_mex_assign(&c5_st, c5_e_y, false);
   return c5_st;
 }
@@ -5617,8 +5408,10 @@ static void set_sim_state_c5_sl_groundvehicleDynamics
   }
 
   c5_array_real_T_Destructor(chartInstance, &c5_r1);
+  chartInstance->c5_timer = c5_e_emlrt_marshallIn(chartInstance, sf_mex_dup
+    (sf_mex_getcell(c5_b_u, 7)), "timer", &chartInstance->c5_timer_not_empty);
   chartInstance->c5_wp_counter = c5_e_emlrt_marshallIn(chartInstance, sf_mex_dup
-    (sf_mex_getcell(c5_b_u, 7)), "wp_counter",
+    (sf_mex_getcell(c5_b_u, 8)), "wp_counter",
     &chartInstance->c5_wp_counter_not_empty);
   sf_mex_destroy(&c5_b_u);
   sf_mex_destroy(&c5_st);
@@ -5627,12 +5420,12 @@ static void set_sim_state_c5_sl_groundvehicleDynamics
 static void c5_initialize_debuginfo_c5_sl_groundvehicleDynamics
   (SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance)
 {
-  uint32_T c5_uv[3];
-  uint32_T c5_uv1[3];
-  const char_T *c5_sv[3];
-  void *c5_rv[3];
-  void *c5_rv1[3];
-  void *c5_rv2[3];
+  uint32_T c5_uv[4];
+  uint32_T c5_uv1[4];
+  const char_T *c5_sv[4];
+  void *c5_rv[4];
+  void *c5_rv1[4];
+  void *c5_rv2[4];
   sfListenerPushScopeForDynamicMatricesJitOff(chartInstance->c5_RuntimeVar, 0U,
     "path_y", &chartInstance->c5_path_y, (void *)
     &c5_sf_marshallOut_dynamicmatrix_persistent, (void *)
@@ -5644,27 +5437,33 @@ static void c5_initialize_debuginfo_c5_sl_groundvehicleDynamics
   c5_uv[0] = 0U;
   c5_uv[1] = 0U;
   c5_uv[2] = 0U;
+  c5_uv[3] = 0U;
   c5_rv[0] = (void *)&c5_sf_marshallIn_real_T_persistent;
   c5_rv[1] = (void *)&c5_sf_marshallIn_real_T_persistent;
   c5_rv[2] = (void *)&c5_sf_marshallIn_real_T_persistent;
+  c5_rv[3] = (void *)&c5_sf_marshallIn_real_T_persistent;
   c5_rv1[0] = (void *)&c5_sf_marshallOut_real_T_persistent;
   c5_rv1[1] = (void *)&c5_sf_marshallOut_real_T_persistent;
   c5_rv1[2] = (void *)&c5_sf_marshallOut_real_T_persistent;
-  c5_rv2[0] = (void *)&chartInstance->c5_future_wp_idx;
-  c5_rv2[1] = (void *)&chartInstance->c5_current_wp_idx;
-  c5_rv2[2] = (void *)&chartInstance->c5_wp_counter;
+  c5_rv1[3] = (void *)&c5_sf_marshallOut_real_T_persistent;
+  c5_rv2[0] = (void *)&chartInstance->c5_timer;
+  c5_rv2[1] = (void *)&chartInstance->c5_future_wp_idx;
+  c5_rv2[2] = (void *)&chartInstance->c5_current_wp_idx;
+  c5_rv2[3] = (void *)&chartInstance->c5_wp_counter;
   c5_uv1[0] = 0U;
   c5_uv1[1] = 0U;
   c5_uv1[2] = 0U;
-  c5_sv[0] = "future_wp_idx";
-  c5_sv[1] = "current_wp_idx";
-  c5_sv[2] = "wp_counter";
-  sfListenerPushScopeForChartJitOff(chartInstance->c5_RuntimeVar, 0U, 3U,
+  c5_uv1[3] = 0U;
+  c5_sv[0] = "timer";
+  c5_sv[1] = "future_wp_idx";
+  c5_sv[2] = "current_wp_idx";
+  c5_sv[3] = "wp_counter";
+  sfListenerPushScopeForChartJitOff(chartInstance->c5_RuntimeVar, 0U, 4U,
     &c5_sv[0U], &c5_uv1[0U], &c5_rv2[0U], &c5_rv1[0U], &c5_rv[0U], &c5_uv[0U]);
 }
 
 static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const emlrtStack *c5_sp, boolean_T c5_g_logical_map[213200],
+  *chartInstance, const emlrtStack *c5_sp, boolean_T c5_h_logical_map[213200],
   real_T c5_goal[2], c5_s_Y7g3XIg0UrmNkIXtokcBk *c5_out_path)
 {
   c5_coder_array_real_T_2D c5_b_grid_path;
@@ -5712,7 +5511,7 @@ static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
   c5_array_real_T_2D_Constructor(chartInstance, &c5_grid_path);
   c5_array_real_T_2D_Constructor(chartInstance, &c5_path);
   chartInstance->c5_numFcnVars = 7U;
-  chartInstance->c5_fcnDataPtrs[0] = (void *)c5_g_logical_map;
+  chartInstance->c5_fcnDataPtrs[0] = (void *)c5_h_logical_map;
   chartInstance->c5_fcnDataPtrs[1] = (void *)c5_goal;
   chartInstance->c5_fcnDataPtrs[2] = (void *)&c5_path_start;
   chartInstance->c5_fcnDataPtrs[3] = (void *)&c5_path_goal;
@@ -5781,20 +5580,20 @@ static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 4);
   }
 
-  c5_st.site = &c5_m_emlrtRSI;
+  c5_st.site = &c5_o_emlrtRSI;
   for (c5_i1 = 0; c5_i1 < 213200; c5_i1++) {
-    chartInstance->c5_d_logical_map[c5_i1] = c5_g_logical_map[c5_i1];
+    chartInstance->c5_e_logical_map[c5_i1] = c5_h_logical_map[c5_i1];
   }
 
   c5_binaryOccupancyMap_binaryOccupancyMap(chartInstance,
-    &chartInstance->c5_occupancy_map, chartInstance->c5_d_logical_map);
+    &chartInstance->c5_occupancy_map, chartInstance->c5_e_logical_map);
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 5);
   }
 
-  c5_st.site = &c5_n_emlrtRSI;
+  c5_st.site = &c5_p_emlrtRSI;
   c5_binaryOccupancyMap_inflate(chartInstance, &c5_st,
     &chartInstance->c5_occupancy_map);
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
@@ -5803,7 +5602,7 @@ static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 8);
   }
 
-  c5_st.site = &c5_o_emlrtRSI;
+  c5_st.site = &c5_q_emlrtRSI;
   c5_MapInterface_world2grid(chartInstance, &chartInstance->c5_occupancy_map,
     c5_b_dv);
   for (c5_i2 = 0; c5_i2 < 2; c5_i2++) {
@@ -5818,7 +5617,7 @@ static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
 
   c5_b_goal[0] = c5_goal[0];
   c5_b_goal[1] = c5_goal[1];
-  c5_st.site = &c5_p_emlrtRSI;
+  c5_st.site = &c5_r_emlrtRSI;
   c5_b_MapInterface_world2grid(chartInstance, &chartInstance->c5_occupancy_map,
     c5_b_goal, c5_dv1);
   for (c5_i3 = 0; c5_i3 < 2; c5_i3++) {
@@ -5831,7 +5630,7 @@ static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 11);
   }
 
-  c5_st.site = &c5_q_emlrtRSI;
+  c5_st.site = &c5_s_emlrtRSI;
   c5_plannerAStarGrid_plannerAStarGrid(chartInstance, &c5_st,
     &chartInstance->c5_planner, &chartInstance->c5_occupancy_map);
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
@@ -5865,10 +5664,10 @@ static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
   }
 
   c5_array_real_T_2D_Constructor(chartInstance, &c5_r);
-  c5_st.site = &c5_r_emlrtRSI;
+  c5_st.site = &c5_t_emlrtRSI;
   c5_plannerAStarGrid_plan(chartInstance, &c5_st, &chartInstance->c5_planner,
     c5_c_x, c5_e_x, &c5_r);
-  c5_st.site = &c5_r_emlrtRSI;
+  c5_st.site = &c5_t_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_grid_path,
     &c5_g_emlrtRTEI, c5_r.size[0], c5_r.size[1]);
   c5_loop_ub = c5_r.size[0] * c5_r.size[1] - 1;
@@ -5878,8 +5677,8 @@ static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
 
   c5_array_real_T_2D_Destructor(chartInstance, &c5_r);
   sfListenerPushScopeForDynamicMatricesJitOff(chartInstance->c5_RuntimeVar, 0U,
-    "grid_path", &c5_grid_path, (void *)&c5_sf_marshallOut_dynamicmatrix_3,
-    (void *)&c5_sf_marshallIn_dynamicmatrix_3, 0U);
+    "grid_path", &c5_grid_path, (void *)&c5_sf_marshallOut_dynamicmatrix_1,
+    (void *)&c5_sf_marshallIn_dynamicmatrix_1, 0U);
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
@@ -5887,7 +5686,7 @@ static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
   }
 
   c5_array_real_T_2D_Constructor(chartInstance, &c5_b_grid_path);
-  c5_st.site = &c5_s_emlrtRSI;
+  c5_st.site = &c5_u_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_b_grid_path,
     &c5_h_emlrtRTEI, c5_grid_path.size[0], c5_grid_path.size[1]);
   c5_b_loop_ub = c5_grid_path.size[0] * c5_grid_path.size[1] - 1;
@@ -5896,11 +5695,11 @@ static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
   }
 
   c5_array_real_T_2D_Constructor(chartInstance, &c5_r1);
-  c5_st.site = &c5_s_emlrtRSI;
+  c5_st.site = &c5_u_emlrtRSI;
   c5_MapInterface_grid2world(chartInstance, &c5_st,
     &chartInstance->c5_occupancy_map, &c5_b_grid_path, &c5_r1);
   c5_array_real_T_2D_Destructor(chartInstance, &c5_b_grid_path);
-  c5_st.site = &c5_s_emlrtRSI;
+  c5_st.site = &c5_u_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_path, &c5_i_emlrtRTEI,
     c5_r1.size[0], 2);
   c5_c_loop_ub = c5_r1.size[0] * c5_r1.size[1] - 1;
@@ -5910,8 +5709,8 @@ static void c5_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
 
   c5_array_real_T_2D_Destructor(chartInstance, &c5_r1);
   sfListenerPushScopeForDynamicMatricesJitOff(chartInstance->c5_RuntimeVar, 0U,
-    "path", &c5_path, (void *)&c5_sf_marshallOut_dynamicmatrix_4, (void *)
-    &c5_sf_marshallIn_dynamicmatrix_4, 0U);
+    "path", &c5_path, (void *)&c5_sf_marshallOut_dynamicmatrix_2, (void *)
+    &c5_sf_marshallIn_dynamicmatrix_2, 0U);
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
@@ -6123,34 +5922,6 @@ static c5_binaryOccupancyMap *c5_binaryOccupancyMap_binaryOccupancyMap
   return c5_b_obj;
 }
 
-static void c5_check_forloop_overflow_error
-  (SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance, const emlrtStack *
-   c5_sp)
-{
-  static char_T c5_b_cv[34] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
-    'b', 'o', 'x', ':', 'i', 'n', 't', '_', 'f', 'o', 'r', 'l', 'o', 'o', 'p',
-    '_', 'o', 'v', 'e', 'r', 'f', 'l', 'o', 'w' };
-
-  static char_T c5_b_cv1[5] = { 'i', 'n', 't', '3', '2' };
-
-  const mxArray *c5_e_y = NULL;
-  const mxArray *c5_f_y = NULL;
-  const mxArray *c5_g_y = NULL;
-  (void)chartInstance;
-  c5_e_y = NULL;
-  sf_mex_assign(&c5_e_y, sf_mex_create("y", c5_b_cv, 10, 0U, 1, 0U, 2, 1, 34),
-                false);
-  c5_f_y = NULL;
-  sf_mex_assign(&c5_f_y, sf_mex_create("y", c5_b_cv, 10, 0U, 1, 0U, 2, 1, 34),
-                false);
-  c5_g_y = NULL;
-  sf_mex_assign(&c5_g_y, sf_mex_create("y", c5_b_cv1, 10, 0U, 1, 0U, 2, 1, 5),
-                false);
-  sf_mex_call(c5_sp, &c5_emlrtMCI, "error", 0U, 2U, 14, c5_e_y, 14, sf_mex_call
-              (c5_sp, NULL, "getString", 1U, 1U, 14, sf_mex_call(c5_sp, NULL,
-    "message", 1U, 2U, 14, c5_f_y, 14, c5_g_y)));
-}
-
 static void c5_binaryOccupancyMap_inflate
   (SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance, const emlrtStack *
    c5_sp, c5_binaryOccupancyMap *c5_obj)
@@ -6311,12 +6082,12 @@ static void c5_binaryOccupancyMap_inflate
   c5_d_st.tls = c5_c_st.tls;
   c5_e_st.prev = &c5_d_st;
   c5_e_st.tls = c5_d_st.tls;
-  c5_st.site = &c5_nb_emlrtRSI;
-  c5_b_st.site = &c5_mb_emlrtRSI;
+  c5_st.site = &c5_pb_emlrtRSI;
+  c5_b_st.site = &c5_ob_emlrtRSI;
   c5_MapLayer_getValueAllImpl(chartInstance, &c5_b_st, c5_obj,
     chartInstance->c5_inflatedGrid);
-  c5_b_st.site = &c5_wb_emlrtRSI;
-  c5_c_st.site = &c5_xb_emlrtRSI;
+  c5_b_st.site = &c5_yb_emlrtRSI;
+  c5_c_st.site = &c5_ac_emlrtRSI;
   for (c5_i = 0; c5_i < 213200; c5_i++) {
     chartInstance->c5_b_map[c5_i] = chartInstance->c5_inflatedGrid[c5_i];
   }
@@ -6361,7 +6132,7 @@ static void c5_binaryOccupancyMap_inflate
           c5_idx[c5_i10] = (c5_idx[c5_i10] && c5_b_bv[c5_i10]);
         }
 
-        c5_d_st.site = &c5_yb_emlrtRSI;
+        c5_d_st.site = &c5_bc_emlrtRSI;
         c5_end = 121;
         c5_trueCount = 0;
         for (c5_e_i = 0; c5_e_i < c5_end; c5_e_i++) {
@@ -6398,7 +6169,7 @@ static void c5_binaryOccupancyMap_inflate
           }
         }
 
-        c5_e_st.site = &c5_ac_emlrtRSI;
+        c5_e_st.site = &c5_cc_emlrtRSI;
         if (!c5_allinrange(chartInstance, c5_index_data, c5_index_size, 410)) {
           c5_e_y = NULL;
           sf_mex_assign(&c5_e_y, sf_mex_create("y", c5_b_cv, 10, 0U, 1, 0U, 2, 1,
@@ -6520,7 +6291,7 @@ static void c5_binaryOccupancyMap_inflate
         for (c5_i22 = 0; c5_i22 <= c5_f_loop_ub; c5_i22++) {
           c5_i23 = (int32_T)c5_index_data[c5_i22];
           if ((c5_i23 < 1) || (c5_i23 > 213200)) {
-            emlrtDynamicBoundsCheckR2012b(c5_i23, 1, 213200, &c5_n_emlrtBCI,
+            emlrtDynamicBoundsCheckR2012b(c5_i23, 1, 213200, &c5_l_emlrtBCI,
               &c5_c_st);
           }
 
@@ -6571,23 +6342,23 @@ static void c5_binaryOccupancyMap_inflate
     }
   }
 
-  c5_st.site = &c5_ob_emlrtRSI;
+  c5_st.site = &c5_qb_emlrtRSI;
   c5_b_obj = c5_obj;
   for (c5_i1 = 0; c5_i1 < 213200; c5_i1++) {
     c5_b_obj->Buffer.Buffer[c5_i1] = chartInstance->c5_inflatedGrid[c5_i1];
   }
 
-  c5_b_st.site = &c5_kb_emlrtRSI;
+  c5_b_st.site = &c5_mb_emlrtRSI;
   c5_c_obj = c5_b_obj;
   c5_r = c5_c_obj->Buffer.Index;
   for (c5_i3 = 0; c5_i3 < 2; c5_i3++) {
     c5_r->Head[c5_i3] = 1.0;
   }
 
-  c5_b_st.site = &c5_kb_emlrtRSI;
+  c5_b_st.site = &c5_mb_emlrtRSI;
   c5_d_obj = c5_b_obj;
   c5_index = c5_r;
-  c5_c_st.site = &c5_lb_emlrtRSI;
+  c5_c_st.site = &c5_nb_emlrtRSI;
   c5_e_obj = &c5_d_obj->Buffer;
   c5_b_index = c5_index;
   c5_e_obj->Index = c5_b_index;
@@ -6670,7 +6441,7 @@ static void c5_MapLayer_getValueAllImpl
   boolean_T c5_pok;
   c5_st.prev = c5_sp;
   c5_st.tls = c5_sp->tls;
-  c5_st.site = &c5_pb_emlrtRSI;
+  c5_st.site = &c5_rb_emlrtRSI;
   c5_b_obj = c5_obj;
   c5_index = c5_b_obj->Buffer.Index;
   for (c5_i = 0; c5_i < 2; c5_i++) {
@@ -6699,10 +6470,10 @@ static void c5_MapLayer_getValueAllImpl
       c5_val[c5_i2] = c5_obj->Buffer.Buffer[c5_i2];
     }
   } else {
-    c5_st.site = &c5_qb_emlrtRSI;
+    c5_st.site = &c5_sb_emlrtRSI;
     c5_c_obj = c5_obj;
     c5_b_index = c5_c_obj->Buffer.Index;
-    c5_st.site = &c5_qb_emlrtRSI;
+    c5_st.site = &c5_sb_emlrtRSI;
     for (c5_i3 = 0; c5_i3 < 213200; c5_i3++) {
       c5_val[c5_i3] = c5_obj->Buffer.Buffer[c5_i3];
     }
@@ -6833,14 +6604,14 @@ static void c5_MapLayer_getValueAllImpl
         c5_obj->Buffer.Buffer[c5_i7] = c5_val[c5_i7];
       }
 
-      c5_st.site = &c5_rb_emlrtRSI;
+      c5_st.site = &c5_tb_emlrtRSI;
       c5_d_obj = c5_obj;
       c5_r = c5_d_obj->Buffer.Index;
       for (c5_i8 = 0; c5_i8 < 2; c5_i8++) {
         c5_r->Head[c5_i8] = 1.0;
       }
 
-      c5_st.site = &c5_rb_emlrtRSI;
+      c5_st.site = &c5_tb_emlrtRSI;
       c5_e_obj = c5_obj;
       c5_c_index = c5_r;
       c5_f_obj = &c5_e_obj->Buffer;
@@ -7245,21 +7016,21 @@ static c5_plannerAStarGrid *c5_plannerAStarGrid_plannerAStarGrid
   c5_b_st.tls = c5_st.tls;
   c5_b_obj = c5_obj;
   c5_b_obj->isFirstRun = 1.0;
-  c5_st.site = &c5_ec_emlrtRSI;
+  c5_st.site = &c5_gc_emlrtRSI;
   c5_c_obj = c5_b_obj;
   c5_b_obj = c5_c_obj;
-  c5_b_st.site = &c5_nc_emlrtRSI;
+  c5_b_st.site = &c5_pc_emlrtRSI;
   c5_this = c5_b_obj;
   c5_b_obj = c5_this;
-  c5_st.site = &c5_fc_emlrtRSI;
+  c5_st.site = &c5_hc_emlrtRSI;
   c5_d_obj = c5_b_obj;
   c5_input = c5_b_varargin_1;
   c5_d_obj->Map = c5_input;
-  c5_b_st.site = &c5_oc_emlrtRSI;
+  c5_b_st.site = &c5_qc_emlrtRSI;
   c5_plannerAStarGrid_setInputState(chartInstance, c5_d_obj);
-  c5_st.site = &c5_gc_emlrtRSI;
+  c5_st.site = &c5_ic_emlrtRSI;
   c5_e_obj = c5_b_obj;
-  c5_b_st.site = &c5_sc_emlrtRSI;
+  c5_b_st.site = &c5_uc_emlrtRSI;
   c5_f_obj = c5_e_obj;
   if (c5_f_obj->isFirstRun == 0.0) {
     c5_b_b = true;
@@ -7282,12 +7053,12 @@ static c5_plannerAStarGrid *c5_plannerAStarGrid_plannerAStarGrid
       (&c5_b_st, NULL, "message", 1U, 2U, 14, c5_f_y, 14, c5_g_y)));
   }
 
-  c5_b_st.site = &c5_tc_emlrtRSI;
+  c5_b_st.site = &c5_vc_emlrtRSI;
   c5_g_obj = c5_e_obj;
   c5_g_obj->UseCustomG = 1.0;
-  c5_st.site = &c5_hc_emlrtRSI;
+  c5_st.site = &c5_jc_emlrtRSI;
   c5_h_obj = c5_b_obj;
-  c5_b_st.site = &c5_uc_emlrtRSI;
+  c5_b_st.site = &c5_wc_emlrtRSI;
   c5_i_obj = c5_h_obj;
   if (c5_i_obj->isFirstRun == 0.0) {
     c5_b1 = true;
@@ -7310,17 +7081,17 @@ static c5_plannerAStarGrid *c5_plannerAStarGrid_plannerAStarGrid
       (&c5_b_st, NULL, "message", 1U, 2U, 14, c5_i_y, 14, c5_j_y)));
   }
 
-  c5_b_st.site = &c5_vc_emlrtRSI;
+  c5_b_st.site = &c5_xc_emlrtRSI;
   c5_j_obj = c5_h_obj;
   c5_j_obj->UseCustomG = 0.0;
-  c5_b_st.site = &c5_wc_emlrtRSI;
+  c5_b_st.site = &c5_yc_emlrtRSI;
   c5_validateAStarBuiltinCostFunction(chartInstance, &c5_b_st, c5_a__2_data,
     c5_a__2_size, &c5_d);
   c5_h_obj->GCost = c5_d;
   c5_b_obj->UseCustomG = 0.0;
-  c5_st.site = &c5_ic_emlrtRSI;
+  c5_st.site = &c5_kc_emlrtRSI;
   c5_k_obj = c5_b_obj;
-  c5_b_st.site = &c5_xc_emlrtRSI;
+  c5_b_st.site = &c5_ad_emlrtRSI;
   c5_l_obj = c5_k_obj;
   if (c5_l_obj->isFirstRun == 0.0) {
     c5_b2 = true;
@@ -7343,12 +7114,12 @@ static c5_plannerAStarGrid *c5_plannerAStarGrid_plannerAStarGrid
       (&c5_b_st, NULL, "message", 1U, 2U, 14, c5_l_y, 14, c5_m_y)));
   }
 
-  c5_b_st.site = &c5_yc_emlrtRSI;
+  c5_b_st.site = &c5_bd_emlrtRSI;
   c5_m_obj = c5_k_obj;
   c5_m_obj->UseCustomH = 1.0;
-  c5_st.site = &c5_jc_emlrtRSI;
+  c5_st.site = &c5_lc_emlrtRSI;
   c5_n_obj = c5_b_obj;
-  c5_b_st.site = &c5_ad_emlrtRSI;
+  c5_b_st.site = &c5_cd_emlrtRSI;
   c5_o_obj = c5_n_obj;
   if (c5_o_obj->isFirstRun == 0.0) {
     c5_b3 = true;
@@ -7371,20 +7142,20 @@ static c5_plannerAStarGrid *c5_plannerAStarGrid_plannerAStarGrid
       (&c5_b_st, NULL, "message", 1U, 2U, 14, c5_o_y, 14, c5_p_y)));
   }
 
-  c5_b_st.site = &c5_bd_emlrtRSI;
+  c5_b_st.site = &c5_dd_emlrtRSI;
   c5_p_obj = c5_n_obj;
   c5_p_obj->UseCustomH = 0.0;
-  c5_b_st.site = &c5_cd_emlrtRSI;
+  c5_b_st.site = &c5_ed_emlrtRSI;
   c5_validateAStarBuiltinCostFunction(chartInstance, &c5_b_st, c5_a__2_data,
     c5_a__2_size, &c5_d1);
   c5_n_obj->HCost = c5_d1;
   c5_b_obj->UseCustomH = 0.0;
-  c5_st.site = &c5_kc_emlrtRSI;
+  c5_st.site = &c5_mc_emlrtRSI;
   c5_b_obj->OccupiedThreshold = 0.65;
-  c5_st.site = &c5_lc_emlrtRSI;
+  c5_st.site = &c5_nc_emlrtRSI;
   c5_q_obj = c5_b_obj;
   c5_q_obj->TieBreaker = 0.0;
-  c5_st.site = &c5_mc_emlrtRSI;
+  c5_st.site = &c5_oc_emlrtRSI;
   c5_r_obj = c5_b_obj;
   c5_r_obj->DiagonalSearch = 1.0;
   c5_b_obj->isFirstRun = 0.0;
@@ -7701,7 +7472,7 @@ static void c5_validateAStarBuiltinCostFunction
 
   c5_i7 = 1;
   if ((c5_i7 < 1) || (c5_i7 > c5_idxTemp_size[1])) {
-    emlrtDynamicBoundsCheckR2012b(c5_i7, 1, c5_idxTemp_size[1], &c5_o_emlrtBCI,
+    emlrtDynamicBoundsCheckR2012b(c5_i7, 1, c5_idxTemp_size[1], &c5_m_emlrtBCI,
       (emlrtConstCTX)c5_sp);
   }
 
@@ -7881,8 +7652,8 @@ static void c5_plannerAStarGrid_plan(SFc5_sl_groundvehicleDynamicsInstanceStruct
   c5_st.tls = c5_sp->tls;
   c5_b_st.prev = &c5_st;
   c5_b_st.tls = c5_st.tls;
-  c5_st.site = &c5_dd_emlrtRSI;
-  c5_b_st.site = &c5_od_emlrtRSI;
+  c5_st.site = &c5_fd_emlrtRSI;
+  c5_b_st.site = &c5_qd_emlrtRSI;
   c5_p = true;
   c5_k = 0;
   c5_exitg1 = false;
@@ -7921,7 +7692,7 @@ static void c5_plannerAStarGrid_plan(SFc5_sl_groundvehicleDynamicsInstanceStruct
       (&c5_b_st, NULL, "message", 1U, 2U, 14, c5_f_y, 14, c5_g_y)));
   }
 
-  c5_b_st.site = &c5_od_emlrtRSI;
+  c5_b_st.site = &c5_qd_emlrtRSI;
   c5_c_p = true;
   c5_c_k = 0;
   c5_exitg1 = false;
@@ -7964,8 +7735,8 @@ static void c5_plannerAStarGrid_plan(SFc5_sl_groundvehicleDynamicsInstanceStruct
       (&c5_b_st, NULL, "message", 1U, 2U, 14, c5_i_y, 14, c5_j_y)));
   }
 
-  c5_st.site = &c5_ed_emlrtRSI;
-  c5_b_st.site = &c5_od_emlrtRSI;
+  c5_st.site = &c5_gd_emlrtRSI;
+  c5_b_st.site = &c5_qd_emlrtRSI;
   c5_d_p = true;
   c5_e_k = 0;
   c5_exitg1 = false;
@@ -8004,7 +7775,7 @@ static void c5_plannerAStarGrid_plan(SFc5_sl_groundvehicleDynamicsInstanceStruct
       (&c5_b_st, NULL, "message", 1U, 2U, 14, c5_l_y, 14, c5_m_y)));
   }
 
-  c5_b_st.site = &c5_od_emlrtRSI;
+  c5_b_st.site = &c5_qd_emlrtRSI;
   c5_f_p = true;
   c5_g_k = 0;
   c5_exitg1 = false;
@@ -8145,7 +7916,7 @@ static void c5_plannerAStarGrid_plan(SFc5_sl_groundvehicleDynamicsInstanceStruct
       (c5_sp, NULL, "message", 1U, 2U, 14, c5_w_y, 14, c5_x_y)));
   }
 
-  c5_st.site = &c5_fd_emlrtRSI;
+  c5_st.site = &c5_hd_emlrtRSI;
   c5_r_x = c5_obj->IsGrid;
   c5_s_x = c5_r_x;
   c5_k_b = muDoubleScalarIsNaN(c5_s_x);
@@ -8162,19 +7933,19 @@ static void c5_plannerAStarGrid_plan(SFc5_sl_groundvehicleDynamicsInstanceStruct
   }
 
   if (!(c5_obj->IsGrid != 0.0)) {
-    c5_st.site = &c5_gd_emlrtRSI;
+    c5_st.site = &c5_id_emlrtRSI;
     c5_b_obj = c5_obj;
     c5_val = c5_b_obj->Map;
-    c5_st.site = &c5_gd_emlrtRSI;
+    c5_st.site = &c5_id_emlrtRSI;
     for (c5_i8 = 0; c5_i8 < 2; c5_i8++) {
       c5_b_start[c5_i8] = c5_start[c5_i8];
     }
 
     c5_b_MapInterface_world2grid(chartInstance, c5_val, c5_b_start, c5_startgrid);
-    c5_st.site = &c5_hd_emlrtRSI;
+    c5_st.site = &c5_jd_emlrtRSI;
     c5_d_obj = c5_obj;
     c5_b_val = c5_d_obj->Map;
-    c5_st.site = &c5_hd_emlrtRSI;
+    c5_st.site = &c5_jd_emlrtRSI;
     for (c5_i11 = 0; c5_i11 < 2; c5_i11++) {
       c5_b_goal[c5_i11] = c5_goal[c5_i11];
     }
@@ -8190,10 +7961,10 @@ static void c5_plannerAStarGrid_plan(SFc5_sl_groundvehicleDynamicsInstanceStruct
     }
   }
 
-  c5_st.site = &c5_id_emlrtRSI;
+  c5_st.site = &c5_kd_emlrtRSI;
   c5_c_obj = c5_obj;
   c5_c_map = c5_c_obj->Map;
-  c5_st.site = &c5_jd_emlrtRSI;
+  c5_st.site = &c5_ld_emlrtRSI;
   for (c5_i9 = 0; c5_i9 < 2; c5_i9++) {
     c5_b_startgrid[c5_i9] = c5_startgrid[c5_i9];
   }
@@ -8212,10 +7983,10 @@ static void c5_plannerAStarGrid_plan(SFc5_sl_groundvehicleDynamicsInstanceStruct
     c5_obj->GoalInGrid[c5_i13] = c5_goalgrid[c5_i13];
   }
 
-  c5_st.site = &c5_nd_emlrtRSI;
+  c5_st.site = &c5_pd_emlrtRSI;
   c5_plannerAStarGrid_initializeInternalPlanner(chartInstance, &c5_st, c5_obj,
     &chartInstance->c5_astarInternal);
-  c5_st.site = &c5_kd_emlrtRSI;
+  c5_st.site = &c5_md_emlrtRSI;
   for (c5_i14 = 0; c5_i14 < 2; c5_i14++) {
     c5_e_obj[c5_i14] = c5_obj->StartInGrid[c5_i14];
   }
@@ -8226,10 +7997,10 @@ static void c5_plannerAStarGrid_plan(SFc5_sl_groundvehicleDynamicsInstanceStruct
 
   c5_plannerAStarGrid_runPlan(chartInstance, &c5_st,
     &chartInstance->c5_astarInternal, c5_e_obj, c5_f_obj);
-  c5_st.site = &c5_ld_emlrtRSI;
+  c5_st.site = &c5_nd_emlrtRSI;
   c5_plannerAStarGrid_getEssentialOutput(chartInstance, &c5_st, c5_obj,
     &chartInstance->c5_astarInternal);
-  c5_st.site = &c5_md_emlrtRSI;
+  c5_st.site = &c5_od_emlrtRSI;
   c5_plannerAStarGrid_getPathOutput(chartInstance, &c5_st, c5_obj, c5_path);
 }
 
@@ -8386,7 +8157,7 @@ static void c5_plannerAStarGrid_validateStartGoal
   c5_b_st.tls = c5_st.tls;
   c5_c_st.prev = &c5_b_st;
   c5_c_st.tls = c5_b_st.tls;
-  c5_st.site = &c5_pd_emlrtRSI;
+  c5_st.site = &c5_rd_emlrtRSI;
   c5_i = 0;
   for (c5_i1 = 0; c5_i1 < 2; c5_i1++) {
     c5_pos[c5_i] = c5_StartInGrid[c5_i1];
@@ -8399,8 +8170,8 @@ static void c5_plannerAStarGrid_validateStartGoal
     c5_i2 += 2;
   }
 
-  c5_b_st.site = &c5_xd_emlrtRSI;
-  c5_c_st.site = &c5_od_emlrtRSI;
+  c5_b_st.site = &c5_ae_emlrtRSI;
+  c5_c_st.site = &c5_qd_emlrtRSI;
   c5_p = true;
   c5_k = 0;
   c5_exitg1 = false;
@@ -8515,7 +8286,7 @@ static void c5_plannerAStarGrid_validateStartGoal
   }
 
   if (c5_i_y) {
-    c5_st.site = &c5_qd_emlrtRSI;
+    c5_st.site = &c5_sd_emlrtRSI;
     c5_i_x = c5_obj->IsGrid;
     c5_j_x = c5_i_x;
     c5_f_b = muDoubleScalarIsNaN(c5_j_x);
@@ -8532,18 +8303,18 @@ static void c5_plannerAStarGrid_validateStartGoal
     }
 
     if (!(c5_obj->IsGrid != 0.0)) {
-      c5_st.site = &c5_rd_emlrtRSI;
+      c5_st.site = &c5_td_emlrtRSI;
       c5_b_obj = c5_c_map;
-      c5_b_st.site = &c5_yd_emlrtRSI;
+      c5_b_st.site = &c5_be_emlrtRSI;
       c5_c_obj = &c5_b_obj->SharedProperties;
       c5_d_obj = c5_c_obj->LocalOriginInWorld[0] + c5_c_obj->GridOriginInLocal[0];
       for (c5_i18 = 0; c5_i18 < 2; c5_i18++) {
         c5_mapSizeX[c5_i18] = c5_d_obj + 52.0 * (real_T)c5_i18;
       }
 
-      c5_st.site = &c5_sd_emlrtRSI;
+      c5_st.site = &c5_ud_emlrtRSI;
       c5_e_obj = c5_c_map;
-      c5_b_st.site = &c5_ae_emlrtRSI;
+      c5_b_st.site = &c5_ce_emlrtRSI;
       c5_f_obj = &c5_e_obj->SharedProperties;
       c5_g_obj = c5_f_obj->LocalOriginInWorld[1] + c5_f_obj->GridOriginInLocal[1];
       for (c5_i22 = 0; c5_i22 < 2; c5_i22++) {
@@ -8585,31 +8356,31 @@ static void c5_plannerAStarGrid_validateStartGoal
     c5_m_y = NULL;
     sf_mex_assign(&c5_m_y, sf_mex_create("y", c5_b_cv4, 10, 0U, 1, 0U, 2, 1, 46),
                   false);
-    c5_st.site = &c5_td_emlrtRSI;
+    c5_st.site = &c5_vd_emlrtRSI;
     c5_k_x = c5_mapSizeX[0];
-    c5_b_st.site = &c5_sb_emlrtRSI;
+    c5_b_st.site = &c5_ub_emlrtRSI;
     c5_l_x = c5_k_x;
     c5_o_y = NULL;
     sf_mex_assign(&c5_o_y, sf_mex_create("y", c5_rfmt, 10, 0U, 1, 0U, 2, 1, 7),
                   false);
     c5_q_y = NULL;
     sf_mex_assign(&c5_q_y, sf_mex_create("y", &c5_l_x, 0, 0U, 0, 0U, 0), false);
-    c5_c_st.site = &c5_tb_emlrtRSI;
+    c5_c_st.site = &c5_vb_emlrtRSI;
     c5_emlrt_marshallIn(chartInstance, c5_sprintf(chartInstance, &c5_c_st,
       c5_o_y, c5_q_y), "<output of sprintf>", c5_str);
     c5_u_y = NULL;
     sf_mex_assign(&c5_u_y, sf_mex_create("y", c5_str, 10, 0U, 1, 0U, 2, 1, 23),
                   false);
-    c5_st.site = &c5_td_emlrtRSI;
+    c5_st.site = &c5_vd_emlrtRSI;
     c5_m_x = c5_mapSizeX[1];
-    c5_b_st.site = &c5_sb_emlrtRSI;
+    c5_b_st.site = &c5_ub_emlrtRSI;
     c5_n_x = c5_m_x;
     c5_w_y = NULL;
     sf_mex_assign(&c5_w_y, sf_mex_create("y", c5_rfmt, 10, 0U, 1, 0U, 2, 1, 7),
                   false);
     c5_x_y = NULL;
     sf_mex_assign(&c5_x_y, sf_mex_create("y", &c5_n_x, 0, 0U, 0, 0U, 0), false);
-    c5_c_st.site = &c5_tb_emlrtRSI;
+    c5_c_st.site = &c5_vb_emlrtRSI;
     c5_emlrt_marshallIn(chartInstance, c5_sprintf(chartInstance, &c5_c_st,
       c5_w_y, c5_x_y), "<output of sprintf>", c5_str);
     c5_y_y = NULL;
@@ -8618,31 +8389,31 @@ static void c5_plannerAStarGrid_validateStartGoal
     c5_ab_y = NULL;
     sf_mex_assign(&c5_ab_y, sf_mex_create("y", &c5_strX_data, 10, 0U, 1, 0U, 2,
       1, c5_strX_size[1]), false);
-    c5_st.site = &c5_ud_emlrtRSI;
+    c5_st.site = &c5_wd_emlrtRSI;
     c5_o_x = c5_mapSizeY[0];
-    c5_b_st.site = &c5_sb_emlrtRSI;
+    c5_b_st.site = &c5_ub_emlrtRSI;
     c5_p_x = c5_o_x;
     c5_bb_y = NULL;
     sf_mex_assign(&c5_bb_y, sf_mex_create("y", c5_rfmt, 10, 0U, 1, 0U, 2, 1, 7),
                   false);
     c5_cb_y = NULL;
     sf_mex_assign(&c5_cb_y, sf_mex_create("y", &c5_p_x, 0, 0U, 0, 0U, 0), false);
-    c5_c_st.site = &c5_tb_emlrtRSI;
+    c5_c_st.site = &c5_vb_emlrtRSI;
     c5_emlrt_marshallIn(chartInstance, c5_sprintf(chartInstance, &c5_c_st,
       c5_bb_y, c5_cb_y), "<output of sprintf>", c5_str);
     c5_db_y = NULL;
     sf_mex_assign(&c5_db_y, sf_mex_create("y", c5_str, 10, 0U, 1, 0U, 2, 1, 23),
                   false);
-    c5_st.site = &c5_ud_emlrtRSI;
+    c5_st.site = &c5_wd_emlrtRSI;
     c5_q_x = c5_mapSizeY[1];
-    c5_b_st.site = &c5_sb_emlrtRSI;
+    c5_b_st.site = &c5_ub_emlrtRSI;
     c5_r_x = c5_q_x;
     c5_eb_y = NULL;
     sf_mex_assign(&c5_eb_y, sf_mex_create("y", c5_rfmt, 10, 0U, 1, 0U, 2, 1, 7),
                   false);
     c5_fb_y = NULL;
     sf_mex_assign(&c5_fb_y, sf_mex_create("y", &c5_r_x, 0, 0U, 0, 0U, 0), false);
-    c5_c_st.site = &c5_tb_emlrtRSI;
+    c5_c_st.site = &c5_vb_emlrtRSI;
     c5_emlrt_marshallIn(chartInstance, c5_sprintf(chartInstance, &c5_c_st,
       c5_eb_y, c5_fb_y), "<output of sprintf>", c5_str);
     c5_gb_y = NULL;
@@ -8659,55 +8430,55 @@ static void c5_plannerAStarGrid_validateStartGoal
 
   if (c5_GoalInGrid[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_GoalInGrid[0]))
   {
-    emlrtIntegerCheckR2012b(c5_GoalInGrid[0], &c5_l_emlrtDCI, (emlrtConstCTX)
+    emlrtIntegerCheckR2012b(c5_GoalInGrid[0], &c5_k_emlrtDCI, (emlrtConstCTX)
       c5_sp);
   }
 
   c5_i13 = (int32_T)c5_GoalInGrid[0];
   if ((c5_i13 < 1) || (c5_i13 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i13, 1, 410, &c5_p_emlrtBCI, (emlrtConstCTX)
+    emlrtDynamicBoundsCheckR2012b(c5_i13, 1, 410, &c5_n_emlrtBCI, (emlrtConstCTX)
       c5_sp);
   }
 
   if (c5_GoalInGrid[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_GoalInGrid[1]))
   {
-    emlrtIntegerCheckR2012b(c5_GoalInGrid[1], &c5_m_emlrtDCI, (emlrtConstCTX)
+    emlrtIntegerCheckR2012b(c5_GoalInGrid[1], &c5_l_emlrtDCI, (emlrtConstCTX)
       c5_sp);
   }
 
   c5_i15 = (int32_T)c5_GoalInGrid[1];
   if ((c5_i15 < 1) || (c5_i15 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i15, 1, 520, &c5_q_emlrtBCI, (emlrtConstCTX)
+    emlrtDynamicBoundsCheckR2012b(c5_i15, 1, 520, &c5_o_emlrtBCI, (emlrtConstCTX)
       c5_sp);
   }
 
   c5_goalNode = c5_obj->PoseId[(c5_i13 + 410 * (c5_i15 - 1)) - 1];
   if (c5_StartInGrid[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_StartInGrid[0]))
   {
-    emlrtIntegerCheckR2012b(c5_StartInGrid[0], &c5_n_emlrtDCI, (emlrtConstCTX)
+    emlrtIntegerCheckR2012b(c5_StartInGrid[0], &c5_m_emlrtDCI, (emlrtConstCTX)
       c5_sp);
   }
 
   c5_i19 = (int32_T)c5_StartInGrid[0];
   if ((c5_i19 < 1) || (c5_i19 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i19, 1, 410, &c5_r_emlrtBCI, (emlrtConstCTX)
+    emlrtDynamicBoundsCheckR2012b(c5_i19, 1, 410, &c5_p_emlrtBCI, (emlrtConstCTX)
       c5_sp);
   }
 
   if (c5_StartInGrid[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_StartInGrid[1]))
   {
-    emlrtIntegerCheckR2012b(c5_StartInGrid[1], &c5_o_emlrtDCI, (emlrtConstCTX)
+    emlrtIntegerCheckR2012b(c5_StartInGrid[1], &c5_n_emlrtDCI, (emlrtConstCTX)
       c5_sp);
   }
 
   c5_i21 = (int32_T)c5_StartInGrid[1];
   if ((c5_i21 < 1) || (c5_i21 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i21, 1, 520, &c5_s_emlrtBCI, (emlrtConstCTX)
+    emlrtDynamicBoundsCheckR2012b(c5_i21, 1, 520, &c5_q_emlrtBCI, (emlrtConstCTX)
       c5_sp);
   }
 
   c5_startNode = c5_obj->PoseId[(c5_i19 + 410 * (c5_i21 - 1)) - 1];
-  c5_st.site = &c5_vd_emlrtRSI;
+  c5_st.site = &c5_xd_emlrtRSI;
   c5_isStartOccupied = (c5_plannerAStarGrid_getNodeCostOMDefault(chartInstance,
     &c5_st, c5_obj, c5_startNode) == rtInf);
   if (c5_isStartOccupied) {
@@ -8725,7 +8496,7 @@ static void c5_plannerAStarGrid_validateStartGoal
       (c5_sp, NULL, "message", 1U, 2U, 14, c5_p_y, 14, c5_s_y)));
   }
 
-  c5_st.site = &c5_wd_emlrtRSI;
+  c5_st.site = &c5_yd_emlrtRSI;
   c5_isGoalOccupied = (c5_plannerAStarGrid_getNodeCostOMDefault(chartInstance,
     &c5_st, c5_obj, c5_goalNode) == rtInf);
   if (c5_isGoalOccupied) {
@@ -8779,14 +8550,14 @@ static real_T c5_plannerAStarGrid_getNodeCostOMDefault
   int32_T c5_trueCount;
   c5_st.prev = c5_sp;
   c5_st.tls = c5_sp->tls;
-  c5_st.site = &c5_be_emlrtRSI;
+  c5_st.site = &c5_de_emlrtRSI;
   c5_b_st.prev = &c5_st;
   c5_b_st.tls = c5_st.tls;
   c5_b_obj = c5_obj;
   c5_val = c5_b_obj->Map;
-  c5_st.site = &c5_be_emlrtRSI;
+  c5_st.site = &c5_de_emlrtRSI;
   c5_c_obj = c5_val;
-  c5_b_st.site = &c5_ce_emlrtRSI;
+  c5_b_st.site = &c5_ee_emlrtRSI;
   c5_MapLayer_getValueAllImpl(chartInstance, &c5_b_st, c5_c_obj,
     chartInstance->c5_b_mat);
   for (c5_i = 0; c5_i < 213200; c5_i++) {
@@ -8794,12 +8565,12 @@ static real_T c5_plannerAStarGrid_getNodeCostOMDefault
   }
 
   if (c5_currentNode != (real_T)(int32_T)muDoubleScalarFloor(c5_currentNode)) {
-    emlrtIntegerCheckR2012b(c5_currentNode, &c5_p_emlrtDCI, (emlrtConstCTX)c5_sp);
+    emlrtIntegerCheckR2012b(c5_currentNode, &c5_o_emlrtDCI, (emlrtConstCTX)c5_sp);
   }
 
   c5_i1 = (int32_T)c5_currentNode;
   if ((c5_i1 < 1) || (c5_i1 > 213200)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i1, 1, 213200, &c5_t_emlrtBCI,
+    emlrtDynamicBoundsCheckR2012b(c5_i1, 1, 213200, &c5_r_emlrtBCI,
       (emlrtConstCTX)c5_sp);
   }
 
@@ -8898,14 +8669,14 @@ static c5_nav_algs_internal_plannerAStarGrid
   c5_st.tls = c5_sp->tls;
   c5_b_st.prev = &c5_st;
   c5_b_st.tls = c5_st.tls;
-  c5_st.site = &c5_de_emlrtRSI;
+  c5_st.site = &c5_fe_emlrtRSI;
   c5_obj->OccupiedThreshold = 0.65;
-  c5_st.site = &c5_ee_emlrtRSI;
+  c5_st.site = &c5_ge_emlrtRSI;
   c5_b_obj = c5_obj;
   c5_val = c5_b_obj->Map;
-  c5_st.site = &c5_ee_emlrtRSI;
+  c5_st.site = &c5_ge_emlrtRSI;
   c5_c_obj = c5_val;
-  c5_b_st.site = &c5_ce_emlrtRSI;
+  c5_b_st.site = &c5_ee_emlrtRSI;
   c5_MapLayer_getValueAllImpl(chartInstance, &c5_b_st, c5_c_obj,
     chartInstance->c5_mat);
   for (c5_i = 0; c5_i < 213200; c5_i++) {
@@ -8929,17 +8700,17 @@ static c5_nav_algs_internal_plannerAStarGrid
   }
 
   c5_th = c5_obj->OccupiedThreshold;
-  c5_st.site = &c5_fe_emlrtRSI;
-  c5_st.site = &c5_ge_emlrtRSI;
-  c5_st.site = &c5_ge_emlrtRSI;
   c5_st.site = &c5_he_emlrtRSI;
+  c5_st.site = &c5_ie_emlrtRSI;
+  c5_st.site = &c5_ie_emlrtRSI;
+  c5_st.site = &c5_je_emlrtRSI;
   c5_b_astarInternal = c5_b_plannerAStarGrid_plannerAStarGrid(chartInstance,
     c5_iobj_0, chartInstance->c5_occMat, c5_th);
   if (c5_obj->UseCustomH == 0.0) {
-    c5_st.site = &c5_ie_emlrtRSI;
+    c5_st.site = &c5_ke_emlrtRSI;
     c5_d_obj = c5_obj;
     c5_b_val = c5_d_obj->HCost;
-    c5_st.site = &c5_ie_emlrtRSI;
+    c5_st.site = &c5_ke_emlrtRSI;
     c5_g_obj = c5_b_astarInternal;
     c5_distMethodVal = c5_b_val;
     c5_g_obj->HCostMethod = c5_distMethodVal;
@@ -8947,19 +8718,19 @@ static c5_nav_algs_internal_plannerAStarGrid
   }
 
   if (c5_obj->UseCustomG == 0.0) {
-    c5_st.site = &c5_je_emlrtRSI;
+    c5_st.site = &c5_le_emlrtRSI;
     c5_e_obj = c5_obj;
     c5_c_val = c5_e_obj->GCost;
-    c5_st.site = &c5_je_emlrtRSI;
+    c5_st.site = &c5_le_emlrtRSI;
     c5_h_obj = c5_b_astarInternal;
     c5_b_distMethodVal = c5_c_val;
     c5_h_obj->GCostMethod = c5_b_distMethodVal;
     c5_h_obj->UseCustomG = 0.0;
   }
 
-  c5_st.site = &c5_ke_emlrtRSI;
+  c5_st.site = &c5_me_emlrtRSI;
   c5_f_obj = c5_obj;
-  c5_b_st.site = &c5_ue_emlrtRSI;
+  c5_b_st.site = &c5_we_emlrtRSI;
   c5_e_x = c5_f_obj->TieBreaker;
   c5_f_x = c5_e_x;
   c5_b_b = muDoubleScalarIsNaN(c5_f_x);
@@ -8981,11 +8752,11 @@ static c5_nav_algs_internal_plannerAStarGrid
     c5_value = 1.0;
   }
 
-  c5_st.site = &c5_ke_emlrtRSI;
+  c5_st.site = &c5_me_emlrtRSI;
   c5_i_obj = c5_b_astarInternal;
   c5_d_val = c5_value;
   c5_i_obj->TieBreaker = c5_d_val;
-  c5_st.site = &c5_le_emlrtRSI;
+  c5_st.site = &c5_ne_emlrtRSI;
   c5_j_obj = c5_b_astarInternal;
   c5_e_val = c5_obj->DiagonalSearch;
   c5_j_obj->DiagonalSearchFlag = c5_e_val;
@@ -9414,7 +9185,7 @@ static void c5_plannerAStarGrid_runPlan
   c5_c_st.tls = c5_b_st.tls;
   c5_d_st.prev = &c5_c_st;
   c5_d_st.tls = c5_c_st.tls;
-  c5_st.site = &c5_ve_emlrtRSI;
+  c5_st.site = &c5_xe_emlrtRSI;
   c5_obj = c5_b_astarInternal;
   emlrtHeapReferenceStackEnterFcnR2012b(&c5_st);
   c5_array_real_T_Constructor(chartInstance, &c5_expNodes);
@@ -9458,22 +9229,22 @@ static void c5_plannerAStarGrid_runPlan
     }
   }
 
-  c5_b_st.site = &c5_we_emlrtRSI;
+  c5_b_st.site = &c5_ye_emlrtRSI;
   c5_b_obj = &c5_OpenList;
   c5_c_obj = c5_b_obj;
-  c5_c_st.site = &c5_nf_emlrtRSI;
+  c5_c_st.site = &c5_pf_emlrtRSI;
   c5_this = c5_c_obj;
   c5_c_obj = c5_this;
-  c5_c_st.site = &c5_nf_emlrtRSI;
+  c5_c_st.site = &c5_pf_emlrtRSI;
   c5_d_obj = c5_c_obj;
   c5_c_obj = c5_d_obj;
-  c5_d_st.site = &c5_nc_emlrtRSI;
+  c5_d_st.site = &c5_pc_emlrtRSI;
   c5_b_this = c5_c_obj;
   c5_c_obj = c5_b_this;
   c5_c_obj->PQInternal = NULL;
   c5_c_obj->PQInternal = priorityqueuecodegen_constructPQ(5.0, 2.0);
   c5_c_obj->matlabCodegenIsDeleted = false;
-  c5_b_st.site = &c5_xe_emlrtRSI;
+  c5_b_st.site = &c5_af_emlrtRSI;
   for (c5_i7 = 0; c5_i7 < 2; c5_i7++) {
     c5_b_goal[c5_i7] = c5_goal[c5_i7];
   }
@@ -9481,169 +9252,169 @@ static void c5_plannerAStarGrid_runPlan
   c5_plannerAStarGrid_getHeuristicMatrix(chartInstance, &c5_b_st, c5_obj,
     c5_b_goal, chartInstance->c5_map);
   if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
-    emlrtIntegerCheckR2012b(c5_start[0], &c5_w_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_start[0], &c5_v_emlrtDCI, &c5_st);
   }
 
   c5_i8 = (int32_T)c5_start[0];
   if ((c5_i8 < 1) || (c5_i8 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i8, 1, 410, &c5_vb_emlrtBCI, &c5_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i8, 1, 410, &c5_tb_emlrtBCI, &c5_st);
   }
 
   if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
-    emlrtIntegerCheckR2012b(c5_start[1], &c5_x_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_start[1], &c5_w_emlrtDCI, &c5_st);
   }
 
   c5_i9 = (int32_T)c5_start[1];
   if ((c5_i9 < 1) || (c5_i9 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i9, 1, 520, &c5_wb_emlrtBCI, &c5_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i9, 1, 520, &c5_ub_emlrtBCI, &c5_st);
   }
 
   if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
-    emlrtIntegerCheckR2012b(c5_start[0], &c5_y_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_start[0], &c5_x_emlrtDCI, &c5_st);
   }
 
   c5_i10 = (int32_T)c5_start[0];
   if ((c5_i10 < 1) || (c5_i10 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i10, 1, 410, &c5_xb_emlrtBCI, &c5_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i10, 1, 410, &c5_vb_emlrtBCI, &c5_st);
   }
 
   if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
-    emlrtIntegerCheckR2012b(c5_start[1], &c5_ab_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_start[1], &c5_y_emlrtDCI, &c5_st);
   }
 
   c5_i11 = (int32_T)c5_start[1];
   if ((c5_i11 < 1) || (c5_i11 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i11, 1, 520, &c5_yb_emlrtBCI, &c5_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i11, 1, 520, &c5_wb_emlrtBCI, &c5_st);
   }
 
   chartInstance->c5_FScore[(c5_i10 + 410 * (c5_i11 - 1)) - 1] =
     chartInstance->c5_map[(c5_i8 + 410 * (c5_i9 - 1)) - 1];
-  c5_b_st.site = &c5_ye_emlrtRSI;
+  c5_b_st.site = &c5_bf_emlrtRSI;
   c5_e_obj = &c5_OpenList;
   if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
-    emlrtIntegerCheckR2012b(c5_start[0], &c5_bb_emlrtDCI, &c5_b_st);
+    emlrtIntegerCheckR2012b(c5_start[0], &c5_ab_emlrtDCI, &c5_b_st);
   }
 
   c5_i12 = (int32_T)c5_start[0];
   if ((c5_i12 < 1) || (c5_i12 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i12, 1, 410, &c5_ac_emlrtBCI, &c5_b_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i12, 1, 410, &c5_xb_emlrtBCI, &c5_b_st);
+  }
+
+  if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
+    emlrtIntegerCheckR2012b(c5_start[1], &c5_ab_emlrtDCI, &c5_b_st);
+  }
+
+  c5_i13 = (int32_T)c5_start[1];
+  if ((c5_i13 < 1) || (c5_i13 > 520)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i13, 1, 520, &c5_yb_emlrtBCI, &c5_b_st);
+  }
+
+  c5_nodeData[0] = c5_obj->MapIndex[(c5_i12 + 410 * (c5_i13 - 1)) - 1];
+  if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
+    emlrtIntegerCheckR2012b(c5_start[0], &c5_bb_emlrtDCI, &c5_b_st);
+  }
+
+  c5_i14 = (int32_T)c5_start[0];
+  if ((c5_i14 < 1) || (c5_i14 > 410)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i14, 1, 410, &c5_ac_emlrtBCI, &c5_b_st);
   }
 
   if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
     emlrtIntegerCheckR2012b(c5_start[1], &c5_bb_emlrtDCI, &c5_b_st);
   }
 
-  c5_i13 = (int32_T)c5_start[1];
-  if ((c5_i13 < 1) || (c5_i13 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i13, 1, 520, &c5_bc_emlrtBCI, &c5_b_st);
+  c5_i15 = (int32_T)c5_start[1];
+  if ((c5_i15 < 1) || (c5_i15 > 520)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i15, 1, 520, &c5_bc_emlrtBCI, &c5_b_st);
   }
 
-  c5_nodeData[0] = c5_obj->MapIndex[(c5_i12 + 410 * (c5_i13 - 1)) - 1];
+  c5_nodeData[1] = c5_obj->MapIndex[(c5_i14 + 410 * (c5_i15 - 1)) - 1];
   if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
     emlrtIntegerCheckR2012b(c5_start[0], &c5_cb_emlrtDCI, &c5_b_st);
   }
 
-  c5_i14 = (int32_T)c5_start[0];
-  if ((c5_i14 < 1) || (c5_i14 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i14, 1, 410, &c5_cc_emlrtBCI, &c5_b_st);
+  c5_i16 = (int32_T)c5_start[0];
+  if ((c5_i16 < 1) || (c5_i16 > 410)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i16, 1, 410, &c5_cc_emlrtBCI, &c5_b_st);
   }
 
   if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
     emlrtIntegerCheckR2012b(c5_start[1], &c5_cb_emlrtDCI, &c5_b_st);
   }
 
-  c5_i15 = (int32_T)c5_start[1];
-  if ((c5_i15 < 1) || (c5_i15 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i15, 1, 520, &c5_dc_emlrtBCI, &c5_b_st);
+  c5_i17 = (int32_T)c5_start[1];
+  if ((c5_i17 < 1) || (c5_i17 > 520)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i17, 1, 520, &c5_dc_emlrtBCI, &c5_b_st);
   }
 
-  c5_nodeData[1] = c5_obj->MapIndex[(c5_i14 + 410 * (c5_i15 - 1)) - 1];
+  c5_nodeData[2] = chartInstance->c5_FScore[(c5_i16 + 410 * (c5_i17 - 1)) - 1];
+  c5_nodeData[3] = 0.0;
   if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
     emlrtIntegerCheckR2012b(c5_start[0], &c5_db_emlrtDCI, &c5_b_st);
   }
 
-  c5_i16 = (int32_T)c5_start[0];
-  if ((c5_i16 < 1) || (c5_i16 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i16, 1, 410, &c5_ec_emlrtBCI, &c5_b_st);
+  c5_i18 = (int32_T)c5_start[0];
+  if ((c5_i18 < 1) || (c5_i18 > 410)) {
+    emlrtDynamicBoundsCheckR2012b(c5_i18, 1, 410, &c5_ec_emlrtBCI, &c5_b_st);
   }
 
   if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
     emlrtIntegerCheckR2012b(c5_start[1], &c5_db_emlrtDCI, &c5_b_st);
   }
 
-  c5_i17 = (int32_T)c5_start[1];
-  if ((c5_i17 < 1) || (c5_i17 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i17, 1, 520, &c5_fc_emlrtBCI, &c5_b_st);
-  }
-
-  c5_nodeData[2] = chartInstance->c5_FScore[(c5_i16 + 410 * (c5_i17 - 1)) - 1];
-  c5_nodeData[3] = 0.0;
-  if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
-    emlrtIntegerCheckR2012b(c5_start[0], &c5_eb_emlrtDCI, &c5_b_st);
-  }
-
-  c5_i18 = (int32_T)c5_start[0];
-  if ((c5_i18 < 1) || (c5_i18 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i18, 1, 410, &c5_gc_emlrtBCI, &c5_b_st);
-  }
-
-  if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
-    emlrtIntegerCheckR2012b(c5_start[1], &c5_eb_emlrtDCI, &c5_b_st);
-  }
-
   c5_i19 = (int32_T)c5_start[1];
   if ((c5_i19 < 1) || (c5_i19 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i19, 1, 520, &c5_hc_emlrtBCI, &c5_b_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i19, 1, 520, &c5_fc_emlrtBCI, &c5_b_st);
   }
 
   c5_nodeData[4] = chartInstance->c5_map[(c5_i18 + 410 * (c5_i19 - 1)) - 1];
   priorityqueuecodegen_push(c5_e_obj->PQInternal, &c5_nodeData[0]);
   if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
-    emlrtIntegerCheckR2012b(c5_start[0], &c5_fb_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_start[0], &c5_eb_emlrtDCI, &c5_st);
   }
 
   c5_i20 = (int32_T)c5_start[0];
   if ((c5_i20 < 1) || (c5_i20 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i20, 1, 410, &c5_ic_emlrtBCI, &c5_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i20, 1, 410, &c5_gc_emlrtBCI, &c5_st);
   }
 
   if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
-    emlrtIntegerCheckR2012b(c5_start[1], &c5_gb_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_start[1], &c5_fb_emlrtDCI, &c5_st);
   }
 
   c5_i21 = (int32_T)c5_start[1];
   if ((c5_i21 < 1) || (c5_i21 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i21, 1, 520, &c5_jc_emlrtBCI, &c5_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i21, 1, 520, &c5_hc_emlrtBCI, &c5_st);
   }
 
   chartInstance->c5_ExploredNodes[(c5_i20 + 410 * (c5_i21 - 1)) - 1] = 1;
   if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
-    emlrtIntegerCheckR2012b(c5_start[0], &c5_hb_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_start[0], &c5_gb_emlrtDCI, &c5_st);
   }
 
   c5_i22 = (int32_T)c5_start[0];
   if ((c5_i22 < 1) || (c5_i22 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i22, 1, 410, &c5_kc_emlrtBCI, &c5_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i22, 1, 410, &c5_ic_emlrtBCI, &c5_st);
   }
 
   if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
-    emlrtIntegerCheckR2012b(c5_start[1], &c5_ib_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_start[1], &c5_hb_emlrtDCI, &c5_st);
   }
 
   c5_i23 = (int32_T)c5_start[1];
   if ((c5_i23 < 1) || (c5_i23 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i23, 1, 520, &c5_lc_emlrtBCI, &c5_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i23, 1, 520, &c5_jc_emlrtBCI, &c5_st);
   }
 
   chartInstance->c5_GScore[(c5_i22 + 410 * (c5_i23 - 1)) - 1] = 0.0;
   c5_CurrentRow = 0.0;
   c5_CurrentCol = 0.0;
-  c5_b_st.site = &c5_af_emlrtRSI;
+  c5_b_st.site = &c5_cf_emlrtRSI;
   c5_plannerAStarGrid_getNeighbors(chartInstance, &c5_b_st, c5_obj,
     c5_Neighbors_data, c5_Neighbors_size, &c5_NumNeighbors);
   do {
     c5_exitg1 = 0;
-    c5_b_st.site = &c5_bf_emlrtRSI;
+    c5_b_st.site = &c5_df_emlrtRSI;
     c5_f_obj = &c5_OpenList;
     c5_dataDim = priorityqueuecodegen_getDataDim(c5_f_obj->PQInternal);
     if (!(c5_dataDim <= 5.0)) {
@@ -9659,12 +9430,12 @@ static void c5_plannerAStarGrid_runPlan
     }
 
     if (!(c5_dataDim >= 0.0)) {
-      emlrtNonNegativeCheckR2012b(c5_dataDim, &c5_kb_emlrtDCI, &c5_b_st);
+      emlrtNonNegativeCheckR2012b(c5_dataDim, &c5_jb_emlrtDCI, &c5_b_st);
     }
 
     c5_d = c5_dataDim;
     if (c5_d != (real_T)(int32_T)muDoubleScalarFloor(c5_d)) {
-      emlrtIntegerCheckR2012b(c5_d, &c5_jb_emlrtDCI, &c5_b_st);
+      emlrtIntegerCheckR2012b(c5_d, &c5_ib_emlrtDCI, &c5_b_st);
     }
 
     c5_MinScoreNode_size[1] = (int32_T)c5_d;
@@ -9673,16 +9444,16 @@ static void c5_plannerAStarGrid_runPlan
     c5_i24 = 3;
     if ((c5_i24 < 1) || (c5_i24 > c5_MinScoreNode_size[1])) {
       emlrtDynamicBoundsCheckR2012b(c5_i24, 1, c5_MinScoreNode_size[1],
-        &c5_u_emlrtBCI, &c5_st);
+        &c5_s_emlrtBCI, &c5_st);
     }
 
     if (c5_MinScoreNode_data[2] == rtInf) {
       c5_exitg1 = 1;
     } else {
-      c5_b_st.site = &c5_cf_emlrtRSI;
+      c5_b_st.site = &c5_ef_emlrtRSI;
       c5_g_obj = &c5_OpenList;
       c5_flag = priorityqueuecodegen_isEmpty(c5_g_obj->PQInternal);
-      c5_c_st.site = &c5_uf_emlrtRSI;
+      c5_c_st.site = &c5_wf_emlrtRSI;
       c5_c_x = c5_flag;
       c5_d_x = c5_c_x;
       c5_b_b = muDoubleScalarIsNaN(c5_d_x);
@@ -9701,40 +9472,40 @@ static void c5_plannerAStarGrid_runPlan
       c5_b_flag = (c5_flag != 0.0);
       if (c5_b_flag) {
         if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
-          emlrtIntegerCheckR2012b(c5_start[0], &c5_nb_emlrtDCI, &c5_st);
+          emlrtIntegerCheckR2012b(c5_start[0], &c5_mb_emlrtDCI, &c5_st);
         }
 
         c5_i28 = (int32_T)c5_start[0];
         if ((c5_i28 < 1) || (c5_i28 > 410)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i28, 1, 410, &c5_oc_emlrtBCI, &c5_st);
+          emlrtDynamicBoundsCheckR2012b(c5_i28, 1, 410, &c5_mc_emlrtBCI, &c5_st);
         }
 
         if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
-          emlrtIntegerCheckR2012b(c5_start[1], &c5_ob_emlrtDCI, &c5_st);
+          emlrtIntegerCheckR2012b(c5_start[1], &c5_nb_emlrtDCI, &c5_st);
         }
 
         c5_i32 = (int32_T)c5_start[1];
         if ((c5_i32 < 1) || (c5_i32 > 520)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i32, 1, 520, &c5_pc_emlrtBCI, &c5_st);
+          emlrtDynamicBoundsCheckR2012b(c5_i32, 1, 520, &c5_nc_emlrtBCI, &c5_st);
         }
 
         c5_obj->ParentCol[(c5_i28 + 410 * (c5_i32 - 1)) - 1] = c5_start[1];
         if (c5_start[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[0])) {
-          emlrtIntegerCheckR2012b(c5_start[0], &c5_qb_emlrtDCI, &c5_st);
+          emlrtIntegerCheckR2012b(c5_start[0], &c5_pb_emlrtDCI, &c5_st);
         }
 
         c5_i36 = (int32_T)c5_start[0];
         if ((c5_i36 < 1) || (c5_i36 > 410)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i36, 1, 410, &c5_rc_emlrtBCI, &c5_st);
+          emlrtDynamicBoundsCheckR2012b(c5_i36, 1, 410, &c5_pc_emlrtBCI, &c5_st);
         }
 
         if (c5_start[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_start[1])) {
-          emlrtIntegerCheckR2012b(c5_start[1], &c5_rb_emlrtDCI, &c5_st);
+          emlrtIntegerCheckR2012b(c5_start[1], &c5_qb_emlrtDCI, &c5_st);
         }
 
         c5_i38 = (int32_T)c5_start[1];
         if ((c5_i38 < 1) || (c5_i38 > 520)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i38, 1, 520, &c5_sc_emlrtBCI, &c5_st);
+          emlrtDynamicBoundsCheckR2012b(c5_i38, 1, 520, &c5_qc_emlrtBCI, &c5_st);
         }
 
         c5_obj->ParentRow[(c5_i36 + 410 * (c5_i38 - 1)) - 1] = c5_start[0];
@@ -9743,17 +9514,17 @@ static void c5_plannerAStarGrid_runPlan
         c5_i27 = 1;
         if ((c5_i27 < 1) || (c5_i27 > c5_MinScoreNode_size[1])) {
           emlrtDynamicBoundsCheckR2012b(c5_i27, 1, c5_MinScoreNode_size[1],
-            &c5_v_emlrtBCI, &c5_st);
+            &c5_t_emlrtBCI, &c5_st);
         }
 
         c5_d1 = c5_MinScoreNode_data[0];
         if (c5_d1 != (real_T)(int32_T)muDoubleScalarFloor(c5_d1)) {
-          emlrtIntegerCheckR2012b(c5_d1, &c5_pb_emlrtDCI, &c5_st);
+          emlrtIntegerCheckR2012b(c5_d1, &c5_ob_emlrtDCI, &c5_st);
         }
 
         c5_i31 = (int32_T)c5_d1;
         if ((c5_i31 < 1) || (c5_i31 > 213200)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i31, 1, 213200, &c5_qc_emlrtBCI,
+          emlrtDynamicBoundsCheckR2012b(c5_i31, 1, 213200, &c5_oc_emlrtBCI,
             &c5_st);
         }
 
@@ -9761,17 +9532,17 @@ static void c5_plannerAStarGrid_runPlan
         c5_i34 = 1;
         if ((c5_i34 < 1) || (c5_i34 > c5_MinScoreNode_size[1])) {
           emlrtDynamicBoundsCheckR2012b(c5_i34, 1, c5_MinScoreNode_size[1],
-            &c5_w_emlrtBCI, &c5_st);
+            &c5_u_emlrtBCI, &c5_st);
         }
 
         c5_d2 = c5_MinScoreNode_data[0];
         if (c5_d2 != (real_T)(int32_T)muDoubleScalarFloor(c5_d2)) {
-          emlrtIntegerCheckR2012b(c5_d2, &c5_sb_emlrtDCI, &c5_st);
+          emlrtIntegerCheckR2012b(c5_d2, &c5_rb_emlrtDCI, &c5_st);
         }
 
         c5_i37 = (int32_T)c5_d2;
         if ((c5_i37 < 1) || (c5_i37 > 213200)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i37, 1, 213200, &c5_tc_emlrtBCI,
+          emlrtDynamicBoundsCheckR2012b(c5_i37, 1, 213200, &c5_rc_emlrtBCI,
             &c5_st);
         }
 
@@ -9779,25 +9550,25 @@ static void c5_plannerAStarGrid_runPlan
         c5_i39 = 1;
         if ((c5_i39 < 1) || (c5_i39 > c5_MinScoreNode_size[1])) {
           emlrtDynamicBoundsCheckR2012b(c5_i39, 1, c5_MinScoreNode_size[1],
-            &c5_x_emlrtBCI, &c5_st);
+            &c5_v_emlrtBCI, &c5_st);
         }
 
         if (c5_goal[0] != (real_T)(int32_T)muDoubleScalarFloor(c5_goal[0])) {
-          emlrtIntegerCheckR2012b(c5_goal[0], &c5_tb_emlrtDCI, &c5_st);
+          emlrtIntegerCheckR2012b(c5_goal[0], &c5_sb_emlrtDCI, &c5_st);
         }
 
         c5_i41 = (int32_T)c5_goal[0];
         if ((c5_i41 < 1) || (c5_i41 > 410)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i41, 1, 410, &c5_uc_emlrtBCI, &c5_st);
+          emlrtDynamicBoundsCheckR2012b(c5_i41, 1, 410, &c5_sc_emlrtBCI, &c5_st);
         }
 
         if (c5_goal[1] != (real_T)(int32_T)muDoubleScalarFloor(c5_goal[1])) {
-          emlrtIntegerCheckR2012b(c5_goal[1], &c5_ub_emlrtDCI, &c5_st);
+          emlrtIntegerCheckR2012b(c5_goal[1], &c5_tb_emlrtDCI, &c5_st);
         }
 
         c5_i43 = (int32_T)c5_goal[1];
         if ((c5_i43 < 1) || (c5_i43 > 520)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i43, 1, 520, &c5_vc_emlrtBCI, &c5_st);
+          emlrtDynamicBoundsCheckR2012b(c5_i43, 1, 520, &c5_tc_emlrtBCI, &c5_st);
         }
 
         if (c5_MinScoreNode_data[0] == c5_obj->MapIndex[(c5_i41 + 410 * (c5_i43
@@ -9810,7 +9581,7 @@ static void c5_plannerAStarGrid_runPlan
             c5_obj->ParentRow[c5_i45] = chartInstance->c5_ParentRow2[c5_i45];
           }
 
-          c5_b_st.site = &c5_df_emlrtRSI;
+          c5_b_st.site = &c5_ff_emlrtRSI;
           for (c5_i49 = 0; c5_i49 < 2; c5_i49++) {
             c5_b_start[c5_i49] = c5_start[c5_i49];
           }
@@ -9819,28 +9590,27 @@ static void c5_plannerAStarGrid_runPlan
             c5_CurrentRow, c5_CurrentCol, c5_b_start);
           c5_exitg1 = 1;
         } else {
-          c5_b_st.site = &c5_ef_emlrtRSI;
+          c5_b_st.site = &c5_gf_emlrtRSI;
           c5_h_obj = &c5_OpenList;
           priorityqueuecodegen_pop(c5_h_obj->PQInternal);
           if (c5_CurrentRow != (real_T)(int32_T)muDoubleScalarFloor
               (c5_CurrentRow)) {
-            emlrtIntegerCheckR2012b(c5_CurrentRow, &c5_q_emlrtDCI, &c5_st);
+            emlrtIntegerCheckR2012b(c5_CurrentRow, &c5_p_emlrtDCI, &c5_st);
           }
 
           c5_i48 = (int32_T)c5_CurrentRow;
           if ((c5_i48 < 1) || (c5_i48 > 410)) {
-            emlrtDynamicBoundsCheckR2012b(c5_i48, 1, 410, &c5_y_emlrtBCI, &c5_st);
+            emlrtDynamicBoundsCheckR2012b(c5_i48, 1, 410, &c5_w_emlrtBCI, &c5_st);
           }
 
           if (c5_CurrentCol != (real_T)(int32_T)muDoubleScalarFloor
               (c5_CurrentCol)) {
-            emlrtIntegerCheckR2012b(c5_CurrentCol, &c5_r_emlrtDCI, &c5_st);
+            emlrtIntegerCheckR2012b(c5_CurrentCol, &c5_q_emlrtDCI, &c5_st);
           }
 
           c5_i51 = (int32_T)c5_CurrentCol;
           if ((c5_i51 < 1) || (c5_i51 > 520)) {
-            emlrtDynamicBoundsCheckR2012b(c5_i51, 1, 520, &c5_ab_emlrtBCI,
-              &c5_st);
+            emlrtDynamicBoundsCheckR2012b(c5_i51, 1, 520, &c5_x_emlrtBCI, &c5_st);
           }
 
           chartInstance->c5_ClosedMAT[(c5_i48 + 410 * (c5_i51 - 1)) - 1] = 1;
@@ -9857,18 +9627,18 @@ static void c5_plannerAStarGrid_runPlan
             c5_i58 = (int32_T)c5_b_p;
             if ((c5_i58 < 1) || (c5_i58 > c5_Neighbors_size[0])) {
               emlrtDynamicBoundsCheckR2012b(c5_i58, 1, c5_Neighbors_size[0],
-                &c5_wc_emlrtBCI, &c5_st);
+                &c5_uc_emlrtBCI, &c5_st);
             }
 
             c5_c_i = c5_Neighbors_data[c5_i58 - 1];
             c5_i59 = (int32_T)c5_b_p;
             if ((c5_i59 < 1) || (c5_i59 > c5_Neighbors_size[0])) {
               emlrtDynamicBoundsCheckR2012b(c5_i59, 1, c5_Neighbors_size[0],
-                &c5_xc_emlrtBCI, &c5_st);
+                &c5_vc_emlrtBCI, &c5_st);
             }
 
             c5_j = c5_Neighbors_data[(c5_i59 + c5_Neighbors_size[0]) - 1];
-            c5_b_st.site = &c5_ff_emlrtRSI;
+            c5_b_st.site = &c5_hf_emlrtRSI;
             c5_j_obj = c5_obj;
             c5_b_CurrentRow = c5_CurrentRow;
             c5_b_CurrentCol = c5_CurrentCol;
@@ -9881,13 +9651,13 @@ static void c5_plannerAStarGrid_runPlan
             } else {
               c5_i64 = (int32_T)(c5_b_CurrentRow + c5_d_i);
               if ((c5_i64 < 1) || (c5_i64 > 410)) {
-                emlrtDynamicBoundsCheckR2012b(c5_i64, 1, 410, &c5_yc_emlrtBCI,
+                emlrtDynamicBoundsCheckR2012b(c5_i64, 1, 410, &c5_wc_emlrtBCI,
                   &c5_b_st);
               }
 
               c5_i66 = (int32_T)(c5_b_CurrentCol + c5_b_j);
               if ((c5_i66 < 1) || (c5_i66 > 520)) {
-                emlrtDynamicBoundsCheckR2012b(c5_i66, 1, 520, &c5_ad_emlrtBCI,
+                emlrtDynamicBoundsCheckR2012b(c5_i66, 1, 520, &c5_xc_emlrtBCI,
                   &c5_b_st);
               }
 
@@ -9899,7 +9669,7 @@ static void c5_plannerAStarGrid_runPlan
               }
             }
 
-            c5_b_st.site = &c5_ff_emlrtRSI;
+            c5_b_st.site = &c5_hf_emlrtRSI;
             c5_e_x = c5_d6;
             c5_f_x = c5_e_x;
             c5_d_b = muDoubleScalarIsNaN(c5_f_x);
@@ -9918,19 +9688,19 @@ static void c5_plannerAStarGrid_runPlan
             if (!(c5_d6 != 0.0)) {
               c5_i70 = (int32_T)(c5_CurrentRow + c5_c_i);
               if ((c5_i70 < 1) || (c5_i70 > 410)) {
-                emlrtDynamicBoundsCheckR2012b(c5_i70, 1, 410, &c5_cd_emlrtBCI,
+                emlrtDynamicBoundsCheckR2012b(c5_i70, 1, 410, &c5_ad_emlrtBCI,
                   &c5_st);
               }
 
               c5_i71 = (int32_T)(c5_CurrentCol + c5_j);
               if ((c5_i71 < 1) || (c5_i71 > 520)) {
-                emlrtDynamicBoundsCheckR2012b(c5_i71, 1, 520, &c5_dd_emlrtBCI,
+                emlrtDynamicBoundsCheckR2012b(c5_i71, 1, 520, &c5_bd_emlrtBCI,
                   &c5_st);
               }
 
               if (!((real_T)chartInstance->c5_ClosedMAT[(c5_i70 + 410 * (c5_i71
                      - 1)) - 1] != 0.0)) {
-                c5_b_st.site = &c5_gf_emlrtRSI;
+                c5_b_st.site = &c5_if_emlrtRSI;
                 c5_l_obj = c5_obj;
                 c5_c_CurrentRow = c5_CurrentRow;
                 c5_c_CurrentCol = c5_CurrentCol;
@@ -9992,25 +9762,25 @@ static void c5_plannerAStarGrid_runPlan
                     c5_d10 = c5_c_CurrentRow + c5_YPOS;
                     if (c5_d10 != (real_T)(int32_T)muDoubleScalarFloor(c5_d10))
                     {
-                      emlrtIntegerCheckR2012b(c5_d10, &c5_wb_emlrtDCI, &c5_b_st);
+                      emlrtIntegerCheckR2012b(c5_d10, &c5_vb_emlrtDCI, &c5_b_st);
                     }
 
                     c5_i88 = (int32_T)c5_d10;
                     if ((c5_i88 < 1) || (c5_i88 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i88, 1, 410,
-                        &c5_yd_emlrtBCI, &c5_b_st);
+                        &c5_wd_emlrtBCI, &c5_b_st);
                     }
 
                     c5_d11 = c5_c_CurrentCol + c5_XPOS;
                     if (c5_d11 != (real_T)(int32_T)muDoubleScalarFloor(c5_d11))
                     {
-                      emlrtIntegerCheckR2012b(c5_d11, &c5_xb_emlrtDCI, &c5_b_st);
+                      emlrtIntegerCheckR2012b(c5_d11, &c5_wb_emlrtDCI, &c5_b_st);
                     }
 
                     c5_i93 = (int32_T)c5_d11;
                     if ((c5_i93 < 1) || (c5_i93 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i93, 1, 520,
-                        &c5_ae_emlrtBCI, &c5_b_st);
+                        &c5_xd_emlrtBCI, &c5_b_st);
                     }
 
                     if (c5_l_obj->Map[(c5_i88 + 410 * (c5_i93 - 1)) - 1] == 1.0)
@@ -10023,7 +9793,7 @@ static void c5_plannerAStarGrid_runPlan
                   }
                 }
 
-                c5_b_st.site = &c5_gf_emlrtRSI;
+                c5_b_st.site = &c5_if_emlrtRSI;
                 c5_o_x = c5_d9;
                 c5_q_x = c5_o_x;
                 c5_e_b = muDoubleScalarIsNaN(c5_q_x);
@@ -10041,7 +9811,7 @@ static void c5_plannerAStarGrid_runPlan
                 }
 
                 if (!(c5_d9 != 0.0)) {
-                  c5_b_st.site = &c5_hf_emlrtRSI;
+                  c5_b_st.site = &c5_jf_emlrtRSI;
                   c5_gcost = c5_plannerAStarGrid_gcostValue(chartInstance,
                     &c5_b_st, c5_obj, c5_CurrentRow, c5_CurrentCol, c5_c_i, c5_j);
                   c5_tentative_gScore = chartInstance->c5_GScore[((int32_T)
@@ -10050,13 +9820,13 @@ static void c5_plannerAStarGrid_runPlan
                   c5_i73 = (int32_T)(c5_CurrentRow + c5_c_i);
                   if ((c5_i73 < 1) || (c5_i73 > 410)) {
                     emlrtDynamicBoundsCheckR2012b(c5_i73, 1, 410,
-                      &c5_ed_emlrtBCI, &c5_st);
+                      &c5_cd_emlrtBCI, &c5_st);
                   }
 
                   c5_i74 = (int32_T)(c5_CurrentCol + c5_j);
                   if ((c5_i74 < 1) || (c5_i74 > 520)) {
                     emlrtDynamicBoundsCheckR2012b(c5_i74, 1, 520,
-                      &c5_fd_emlrtBCI, &c5_st);
+                      &c5_dd_emlrtBCI, &c5_st);
                   }
 
                   if (chartInstance->c5_FScore[(c5_i73 + 410 * (c5_i74 - 1)) - 1]
@@ -10064,13 +9834,13 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i76 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i76 < 1) || (c5_i76 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i76, 1, 410,
-                        &c5_pb_emlrtBCI, &c5_st);
+                        &c5_nb_emlrtBCI, &c5_st);
                     }
 
                     c5_i78 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i78 < 1) || (c5_i78 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i78, 1, 520,
-                        &c5_qb_emlrtBCI, &c5_st);
+                        &c5_ob_emlrtBCI, &c5_st);
                     }
 
                     chartInstance->c5_ExploredNodes[(c5_i76 + 410 * (c5_i78 - 1))
@@ -10078,13 +9848,13 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i81 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i81 < 1) || (c5_i81 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i81, 1, 410,
-                        &c5_bb_emlrtBCI, &c5_st);
+                        &c5_y_emlrtBCI, &c5_st);
                     }
 
                     c5_i83 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i83 < 1) || (c5_i83 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i83, 1, 520,
-                        &c5_cb_emlrtBCI, &c5_st);
+                        &c5_ab_emlrtBCI, &c5_st);
                     }
 
                     chartInstance->c5_ParentCol1[(c5_i81 + 410 * (c5_i83 - 1)) -
@@ -10092,13 +9862,13 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i85 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i85 < 1) || (c5_i85 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i85, 1, 410,
-                        &c5_db_emlrtBCI, &c5_st);
+                        &c5_bb_emlrtBCI, &c5_st);
                     }
 
                     c5_i87 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i87 < 1) || (c5_i87 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i87, 1, 520,
-                        &c5_eb_emlrtBCI, &c5_st);
+                        &c5_cb_emlrtBCI, &c5_st);
                     }
 
                     chartInstance->c5_ParentRow2[(c5_i85 + 410 * (c5_i87 - 1)) -
@@ -10106,13 +9876,13 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i90 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i90 < 1) || (c5_i90 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i90, 1, 410,
-                        &c5_fb_emlrtBCI, &c5_st);
+                        &c5_db_emlrtBCI, &c5_st);
                     }
 
                     c5_i92 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i92 < 1) || (c5_i92 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i92, 1, 520,
-                        &c5_gb_emlrtBCI, &c5_st);
+                        &c5_eb_emlrtBCI, &c5_st);
                     }
 
                     chartInstance->c5_GScore[(c5_i90 + 410 * (c5_i92 - 1)) - 1] =
@@ -10120,25 +9890,25 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i95 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i95 < 1) || (c5_i95 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i95, 1, 410,
-                        &c5_md_emlrtBCI, &c5_st);
+                        &c5_kd_emlrtBCI, &c5_st);
                     }
 
                     c5_i97 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i97 < 1) || (c5_i97 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i97, 1, 520,
-                        &c5_nd_emlrtBCI, &c5_st);
+                        &c5_ld_emlrtBCI, &c5_st);
                     }
 
                     c5_i99 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i99 < 1) || (c5_i99 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i99, 1, 410,
-                        &c5_od_emlrtBCI, &c5_st);
+                        &c5_md_emlrtBCI, &c5_st);
                     }
 
                     c5_i101 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i101 < 1) || (c5_i101 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i101, 1, 520,
-                        &c5_pd_emlrtBCI, &c5_st);
+                        &c5_nd_emlrtBCI, &c5_st);
                     }
 
                     chartInstance->c5_FScore[(c5_i99 + 410 * (c5_i101 - 1)) - 1]
@@ -10147,13 +9917,13 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i102 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i102 < 1) || (c5_i102 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i102, 1, 410,
-                        &c5_qd_emlrtBCI, &c5_st);
+                        &c5_od_emlrtBCI, &c5_st);
                     }
 
                     c5_i103 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i103 < 1) || (c5_i103 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i103, 1, 520,
-                        &c5_rd_emlrtBCI, &c5_st);
+                        &c5_pd_emlrtBCI, &c5_st);
                     }
 
                     c5_c_a = c5_obj->MapIndex[(c5_i102 + 410 * (c5_i103 - 1)) -
@@ -10163,7 +9933,7 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i104 = (int32_T)c5_openToPushK;
                     if ((c5_i104 < 1) || (c5_i104 > c5_openToPush_size[0])) {
                       emlrtDynamicBoundsCheckR2012b(c5_i104, 1,
-                        c5_openToPush_size[0], &c5_hb_emlrtBCI, &c5_st);
+                        c5_openToPush_size[0], &c5_fb_emlrtBCI, &c5_st);
                     }
 
                     c5_b_openToPushK = c5_i104 - 1;
@@ -10173,13 +9943,13 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i105 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i105 < 1) || (c5_i105 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i105, 1, 410,
-                        &c5_sd_emlrtBCI, &c5_st);
+                        &c5_qd_emlrtBCI, &c5_st);
                     }
 
                     c5_i106 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i106 < 1) || (c5_i106 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i106, 1, 520,
-                        &c5_td_emlrtBCI, &c5_st);
+                        &c5_rd_emlrtBCI, &c5_st);
                     }
 
                     c5_openToPush_data[c5_b_openToPushK + (c5_openToPush_size[0]
@@ -10188,13 +9958,13 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i107 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i107 < 1) || (c5_i107 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i107, 1, 410,
-                        &c5_ud_emlrtBCI, &c5_st);
+                        &c5_sd_emlrtBCI, &c5_st);
                     }
 
                     c5_i108 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i108 < 1) || (c5_i108 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i108, 1, 520,
-                        &c5_vd_emlrtBCI, &c5_st);
+                        &c5_td_emlrtBCI, &c5_st);
                     }
 
                     c5_openToPush_data[c5_b_openToPushK + c5_openToPush_size[0] *
@@ -10203,24 +9973,24 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i109 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i109 < 1) || (c5_i109 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i109, 1, 410,
-                        &c5_wd_emlrtBCI, &c5_st);
+                        &c5_ud_emlrtBCI, &c5_st);
                     }
 
                     c5_i110 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i110 < 1) || (c5_i110 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i110, 1, 520,
-                        &c5_xd_emlrtBCI, &c5_st);
+                        &c5_vd_emlrtBCI, &c5_st);
                     }
 
                     c5_openToPush_data[c5_b_openToPushK + (c5_openToPush_size[0]
                       << 2)] = chartInstance->c5_map[(c5_i109 + 410 * (c5_i110 -
                       1)) - 1];
-                    c5_b_st.site = &c5_if_emlrtRSI;
+                    c5_b_st.site = &c5_kf_emlrtRSI;
                     c5_m_obj = &c5_OpenList;
                     c5_i111 = (int32_T)c5_openToPushK;
                     if ((c5_i111 < 1) || (c5_i111 > c5_openToPush_size[0])) {
                       emlrtDynamicBoundsCheckR2012b(c5_i111, 1,
-                        c5_openToPush_size[0], &c5_ib_emlrtBCI, &c5_b_st);
+                        c5_openToPush_size[0], &c5_gb_emlrtBCI, &c5_b_st);
                     }
 
                     c5_c_openToPushK = c5_i111 - 1;
@@ -10236,13 +10006,13 @@ static void c5_plannerAStarGrid_runPlan
                     c5_i75 = (int32_T)(c5_CurrentRow + c5_c_i);
                     if ((c5_i75 < 1) || (c5_i75 > 410)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i75, 1, 410,
-                        &c5_gd_emlrtBCI, &c5_st);
+                        &c5_ed_emlrtBCI, &c5_st);
                     }
 
                     c5_i77 = (int32_T)(c5_CurrentCol + c5_j);
                     if ((c5_i77 < 1) || (c5_i77 > 520)) {
                       emlrtDynamicBoundsCheckR2012b(c5_i77, 1, 520,
-                        &c5_hd_emlrtBCI, &c5_st);
+                        &c5_fd_emlrtBCI, &c5_st);
                     }
 
                     if (c5_tentative_gScore >= chartInstance->c5_GScore[(c5_i75
@@ -10251,13 +10021,13 @@ static void c5_plannerAStarGrid_runPlan
                       c5_i80 = (int32_T)(c5_CurrentRow + c5_c_i);
                       if ((c5_i80 < 1) || (c5_i80 > 410)) {
                         emlrtDynamicBoundsCheckR2012b(c5_i80, 1, 410,
-                          &c5_jb_emlrtBCI, &c5_st);
+                          &c5_hb_emlrtBCI, &c5_st);
                       }
 
                       c5_i82 = (int32_T)(c5_CurrentCol + c5_j);
                       if ((c5_i82 < 1) || (c5_i82 > 520)) {
                         emlrtDynamicBoundsCheckR2012b(c5_i82, 1, 520,
-                          &c5_kb_emlrtBCI, &c5_st);
+                          &c5_ib_emlrtBCI, &c5_st);
                       }
 
                       chartInstance->c5_ParentCol1[(c5_i80 + 410 * (c5_i82 - 1))
@@ -10265,13 +10035,13 @@ static void c5_plannerAStarGrid_runPlan
                       c5_i84 = (int32_T)(c5_CurrentRow + c5_c_i);
                       if ((c5_i84 < 1) || (c5_i84 > 410)) {
                         emlrtDynamicBoundsCheckR2012b(c5_i84, 1, 410,
-                          &c5_lb_emlrtBCI, &c5_st);
+                          &c5_jb_emlrtBCI, &c5_st);
                       }
 
                       c5_i86 = (int32_T)(c5_CurrentCol + c5_j);
                       if ((c5_i86 < 1) || (c5_i86 > 520)) {
                         emlrtDynamicBoundsCheckR2012b(c5_i86, 1, 520,
-                          &c5_mb_emlrtBCI, &c5_st);
+                          &c5_kb_emlrtBCI, &c5_st);
                       }
 
                       chartInstance->c5_ParentRow2[(c5_i84 + 410 * (c5_i86 - 1))
@@ -10279,13 +10049,13 @@ static void c5_plannerAStarGrid_runPlan
                       c5_i89 = (int32_T)(c5_CurrentRow + c5_c_i);
                       if ((c5_i89 < 1) || (c5_i89 > 410)) {
                         emlrtDynamicBoundsCheckR2012b(c5_i89, 1, 410,
-                          &c5_nb_emlrtBCI, &c5_st);
+                          &c5_lb_emlrtBCI, &c5_st);
                       }
 
                       c5_i91 = (int32_T)(c5_CurrentCol + c5_j);
                       if ((c5_i91 < 1) || (c5_i91 > 520)) {
                         emlrtDynamicBoundsCheckR2012b(c5_i91, 1, 520,
-                          &c5_ob_emlrtBCI, &c5_st);
+                          &c5_mb_emlrtBCI, &c5_st);
                       }
 
                       chartInstance->c5_GScore[(c5_i89 + 410 * (c5_i91 - 1)) - 1]
@@ -10293,25 +10063,25 @@ static void c5_plannerAStarGrid_runPlan
                       c5_i94 = (int32_T)(c5_CurrentRow + c5_c_i);
                       if ((c5_i94 < 1) || (c5_i94 > 410)) {
                         emlrtDynamicBoundsCheckR2012b(c5_i94, 1, 410,
-                          &c5_id_emlrtBCI, &c5_st);
+                          &c5_gd_emlrtBCI, &c5_st);
                       }
 
                       c5_i96 = (int32_T)(c5_CurrentCol + c5_j);
                       if ((c5_i96 < 1) || (c5_i96 > 520)) {
                         emlrtDynamicBoundsCheckR2012b(c5_i96, 1, 520,
-                          &c5_jd_emlrtBCI, &c5_st);
+                          &c5_hd_emlrtBCI, &c5_st);
                       }
 
                       c5_i98 = (int32_T)(c5_CurrentRow + c5_c_i);
                       if ((c5_i98 < 1) || (c5_i98 > 410)) {
                         emlrtDynamicBoundsCheckR2012b(c5_i98, 1, 410,
-                          &c5_kd_emlrtBCI, &c5_st);
+                          &c5_id_emlrtBCI, &c5_st);
                       }
 
                       c5_i100 = (int32_T)(c5_CurrentCol + c5_j);
                       if ((c5_i100 < 1) || (c5_i100 > 520)) {
                         emlrtDynamicBoundsCheckR2012b(c5_i100, 1, 520,
-                          &c5_ld_emlrtBCI, &c5_st);
+                          &c5_jd_emlrtBCI, &c5_st);
                       }
 
                       chartInstance->c5_FScore[(c5_i98 + 410 * (c5_i100 - 1)) -
@@ -10329,21 +10099,21 @@ static void c5_plannerAStarGrid_runPlan
   } while (c5_exitg1 == 0);
 
   if (c5_CurrentRow != (real_T)(int32_T)muDoubleScalarFloor(c5_CurrentRow)) {
-    emlrtIntegerCheckR2012b(c5_CurrentRow, &c5_lb_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_CurrentRow, &c5_kb_emlrtDCI, &c5_st);
   }
 
   c5_i25 = (int32_T)c5_CurrentRow;
   if ((c5_i25 < 1) || (c5_i25 > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i25, 1, 410, &c5_mc_emlrtBCI, &c5_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i25, 1, 410, &c5_kc_emlrtBCI, &c5_st);
   }
 
   if (c5_CurrentCol != (real_T)(int32_T)muDoubleScalarFloor(c5_CurrentCol)) {
-    emlrtIntegerCheckR2012b(c5_CurrentCol, &c5_mb_emlrtDCI, &c5_st);
+    emlrtIntegerCheckR2012b(c5_CurrentCol, &c5_lb_emlrtDCI, &c5_st);
   }
 
   c5_i26 = (int32_T)c5_CurrentCol;
   if ((c5_i26 < 1) || (c5_i26 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i26, 1, 520, &c5_nc_emlrtBCI, &c5_st);
+    emlrtDynamicBoundsCheckR2012b(c5_i26, 1, 520, &c5_lc_emlrtBCI, &c5_st);
   }
 
   c5_obj->PathCost = chartInstance->c5_GScore[(c5_i25 + 410 * (c5_i26 - 1)) - 1];
@@ -10359,14 +10129,14 @@ static void c5_plannerAStarGrid_runPlan
     c5_obj->Goal[c5_i33] = c5_goal[c5_i33];
   }
 
-  c5_b_st.site = &c5_jf_emlrtRSI;
+  c5_b_st.site = &c5_lf_emlrtRSI;
   for (c5_i35 = 0; c5_i35 < 213200; c5_i35++) {
     chartInstance->c5_x[c5_i35] = ((real_T)chartInstance->
       c5_ExploredNodes[c5_i35] == 1.0);
   }
 
-  c5_c_st.site = &c5_yf_emlrtRSI;
-  c5_d_st.site = &c5_ag_emlrtRSI;
+  c5_c_st.site = &c5_bg_emlrtRSI;
+  c5_d_st.site = &c5_cg_emlrtRSI;
   c5_idx = 0;
   c5_array_int32_T_SetSize(chartInstance, &c5_d_st, &c5_ii, &c5_jb_emlrtRTEI,
     213200);
@@ -10429,12 +10199,12 @@ static void c5_plannerAStarGrid_runPlan
     c5_i46 = -1;
   } else {
     if (c5_d3 != (real_T)(int32_T)muDoubleScalarFloor(c5_d3)) {
-      emlrtIntegerCheckR2012b(c5_d3, &c5_s_emlrtDCI, &c5_st);
+      emlrtIntegerCheckR2012b(c5_d3, &c5_r_emlrtDCI, &c5_st);
     }
 
     c5_i47 = (int32_T)c5_d3;
     if ((c5_i47 < 1) || (c5_i47 > 213200)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i47, 1, 213200, &c5_rb_emlrtBCI, &c5_st);
+      emlrtDynamicBoundsCheckR2012b(c5_i47, 1, 213200, &c5_pb_emlrtBCI, &c5_st);
     }
 
     c5_i46 = c5_i47 - 1;
@@ -10463,12 +10233,12 @@ static void c5_plannerAStarGrid_runPlan
     c5_i54 = -1;
   } else {
     if (c5_d4 != (real_T)(int32_T)muDoubleScalarFloor(c5_d4)) {
-      emlrtIntegerCheckR2012b(c5_d4, &c5_t_emlrtDCI, &c5_st);
+      emlrtIntegerCheckR2012b(c5_d4, &c5_s_emlrtDCI, &c5_st);
     }
 
     c5_i56 = (int32_T)c5_d4;
     if ((c5_i56 < 1) || (c5_i56 > 213200)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i56, 1, 213200, &c5_sb_emlrtBCI, &c5_st);
+      emlrtDynamicBoundsCheckR2012b(c5_i56, 1, 213200, &c5_qb_emlrtBCI, &c5_st);
     }
 
     c5_i54 = c5_i56 - 1;
@@ -10481,7 +10251,7 @@ static void c5_plannerAStarGrid_runPlan
     c5_ii.vector.data[c5_i57] = c5_i57;
   }
 
-  c5_b_st.site = &c5_kf_emlrtRSI;
+  c5_b_st.site = &c5_mf_emlrtRSI;
   c5_i_obj = c5_obj;
   c5_d5 = c5_i_obj->NumNodesExplored;
   c5_b3 = (c5_d5 < 1.0);
@@ -10489,12 +10259,12 @@ static void c5_plannerAStarGrid_runPlan
     c5_i60 = -1;
   } else {
     if (c5_d5 != (real_T)(int32_T)muDoubleScalarFloor(c5_d5)) {
-      emlrtIntegerCheckR2012b(c5_d5, &c5_u_emlrtDCI, &c5_b_st);
+      emlrtIntegerCheckR2012b(c5_d5, &c5_t_emlrtDCI, &c5_b_st);
     }
 
     c5_i61 = (int32_T)c5_d5;
     if ((c5_i61 < 1) || (c5_i61 > 213200)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i61, 1, 213200, &c5_tb_emlrtBCI, &c5_b_st);
+      emlrtDynamicBoundsCheckR2012b(c5_i61, 1, 213200, &c5_rb_emlrtBCI, &c5_b_st);
     }
 
     c5_i60 = c5_i61 - 1;
@@ -10515,12 +10285,12 @@ static void c5_plannerAStarGrid_runPlan
     for (c5_i65 = 0; c5_i65 <= c5_g_loop_ub; c5_i65++) {
       c5_d7 = c5_expNodes.vector.data[c5_i65];
       if (c5_d7 != (real_T)(int32_T)muDoubleScalarFloor(c5_d7)) {
-        emlrtIntegerCheckR2012b(c5_d7, &c5_vb_emlrtDCI, &c5_st);
+        emlrtIntegerCheckR2012b(c5_d7, &c5_ub_emlrtDCI, &c5_st);
       }
 
       c5_i68 = (int32_T)c5_d7;
       if ((c5_i68 < 1) || (c5_i68 > 213200)) {
-        emlrtDynamicBoundsCheckR2012b(c5_i68, 1, 213200, &c5_bd_emlrtBCI, &c5_st);
+        emlrtDynamicBoundsCheckR2012b(c5_i68, 1, 213200, &c5_yc_emlrtBCI, &c5_st);
       }
 
       c5_r.vector.data[c5_i65 + c5_r.size[0] * c5_i63] = c5_obj->AllNodes
@@ -10541,22 +10311,22 @@ static void c5_plannerAStarGrid_runPlan
     }
   }
 
-  c5_b_st.site = &c5_lf_emlrtRSI;
+  c5_b_st.site = &c5_nf_emlrtRSI;
   c5_k_obj = c5_obj;
   c5_d8 = c5_k_obj->NumPathPoints;
   c5_b4 = (c5_d8 < 1.0);
   if (!c5_b4) {
     if (c5_d8 != (real_T)(int32_T)muDoubleScalarFloor(c5_d8)) {
-      emlrtIntegerCheckR2012b(c5_d8, &c5_v_emlrtDCI, &c5_b_st);
+      emlrtIntegerCheckR2012b(c5_d8, &c5_u_emlrtDCI, &c5_b_st);
     }
 
     c5_i72 = (int32_T)c5_d8;
     if ((c5_i72 < 1) || (c5_i72 > 213200)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i72, 1, 213200, &c5_ub_emlrtBCI, &c5_b_st);
+      emlrtDynamicBoundsCheckR2012b(c5_i72, 1, 213200, &c5_sb_emlrtBCI, &c5_b_st);
     }
   }
 
-  c5_b_st.site = &c5_mf_emlrtRSI;
+  c5_b_st.site = &c5_of_emlrtRSI;
   c5_handle_matlabCodegenDestructor(chartInstance, &c5_b_st, &c5_OpenList);
   c5_array_int32_T_Destructor(chartInstance, &c5_ii);
   c5_array_real_T_2D_Destructor(chartInstance, &c5_r);
@@ -10674,7 +10444,7 @@ static void c5_plannerAStarGrid_getHeuristicMatrix
       }
     }
 
-    c5_st.site = &c5_of_emlrtRSI;
+    c5_st.site = &c5_qf_emlrtRSI;
     c5_b_obj = c5_obj;
     for (c5_i1 = 0; c5_i1 < 426400; c5_i1++) {
       chartInstance->c5_pose1[c5_i1] = c5_obj->AllNodes[c5_i1];
@@ -10682,7 +10452,7 @@ static void c5_plannerAStarGrid_getHeuristicMatrix
 
     c5_type = c5_obj->HCostMethod;
     if (c5_type != (real_T)(int32_T)muDoubleScalarFloor(c5_type)) {
-      emlrtIntegerCheckR2012b(c5_type, &c5_yb_emlrtDCI, &c5_st);
+      emlrtIntegerCheckR2012b(c5_type, &c5_xb_emlrtDCI, &c5_st);
     }
 
     switch ((int32_T)c5_type) {
@@ -10759,7 +10529,7 @@ static void c5_plannerAStarGrid_getHeuristicMatrix
       break;
 
      default:
-      c5_b_st.site = &c5_rf_emlrtRSI;
+      c5_b_st.site = &c5_tf_emlrtRSI;
       for (c5_i3 = 0; c5_i3 < 426400; c5_i3++) {
         chartInstance->c5_pose1[c5_i3] -= chartInstance->c5_b[c5_i3];
       }
@@ -10782,7 +10552,7 @@ static void c5_plannerAStarGrid_getHeuristicMatrix
         c5_Hn[c5_i_xj] += chartInstance->c5_b[c5_c_ix + 213200];
       }
 
-      c5_c_st.site = &c5_sf_emlrtRSI;
+      c5_c_st.site = &c5_uf_emlrtRSI;
       c5_p = false;
       for (c5_i_k = 0; c5_i_k < 213200; c5_i_k++) {
         c5_j_k = (real_T)c5_i_k + 1.0;
@@ -10835,10 +10605,10 @@ static void c5_plannerAStarGrid_getHeuristicMatrix
         c5_c_obj[c5_d_i] = c5_obj->AllNodes[c5_c_i + 213200 * c5_d_i];
       }
 
-      c5_st.site = &c5_pf_emlrtRSI;
+      c5_st.site = &c5_rf_emlrtRSI;
       c5_hcost = c5_obj->TieBreaker * c5_plannerAStarGrid_Euclidean
         (chartInstance, &c5_st, c5_c_obj, c5_goalIn) / c5_obj->MapResolution;
-      c5_st.site = &c5_qf_emlrtRSI;
+      c5_st.site = &c5_sf_emlrtRSI;
       c5_val = c5_hcost;
       c5_c_x = c5_val;
       c5_b_b = muDoubleScalarIsNaN(c5_c_x);
@@ -11011,7 +10781,7 @@ static real_T c5_plannerAStarGrid_Euclidean
   }
 
   c5_e_y = c5_sumColumnB(chartInstance, c5_f_y);
-  c5_st.site = &c5_tf_emlrtRSI;
+  c5_st.site = &c5_vf_emlrtRSI;
   c5_c_x = c5_e_y;
   c5_dist = c5_c_x;
   c5_d_x = c5_dist;
@@ -11074,7 +10844,7 @@ static void c5_plannerAStarGrid_getNeighbors
   (void)chartInstance;
   if (c5_obj->DiagonalSearchFlag != (real_T)(int32_T)muDoubleScalarFloor
       (c5_obj->DiagonalSearchFlag)) {
-    emlrtIntegerCheckR2012b(c5_obj->DiagonalSearchFlag, &c5_ac_emlrtDCI,
+    emlrtIntegerCheckR2012b(c5_obj->DiagonalSearchFlag, &c5_yb_emlrtDCI,
       (emlrtConstCTX)c5_sp);
   }
 
@@ -11163,22 +10933,22 @@ static void c5_plannerAStarGrid_reconstructPath
   chartInstance->c5_OptimalPath[0] = c5_CurrentRow;
   chartInstance->c5_OptimalPath[213200] = c5_CurrentCol;
   if (c5_CurrentRow != (real_T)(int32_T)muDoubleScalarFloor(c5_CurrentRow)) {
-    emlrtIntegerCheckR2012b(c5_CurrentRow, &c5_bc_emlrtDCI, (emlrtConstCTX)c5_sp);
+    emlrtIntegerCheckR2012b(c5_CurrentRow, &c5_ac_emlrtDCI, (emlrtConstCTX)c5_sp);
   }
 
   c5_i = (int32_T)c5_CurrentRow;
   if ((c5_i < 1) || (c5_i > 410)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i, 1, 410, &c5_be_emlrtBCI, (emlrtConstCTX)
+    emlrtDynamicBoundsCheckR2012b(c5_i, 1, 410, &c5_yd_emlrtBCI, (emlrtConstCTX)
       c5_sp);
   }
 
   if (c5_CurrentCol != (real_T)(int32_T)muDoubleScalarFloor(c5_CurrentCol)) {
-    emlrtIntegerCheckR2012b(c5_CurrentCol, &c5_cc_emlrtDCI, (emlrtConstCTX)c5_sp);
+    emlrtIntegerCheckR2012b(c5_CurrentCol, &c5_bc_emlrtDCI, (emlrtConstCTX)c5_sp);
   }
 
   c5_i1 = (int32_T)c5_CurrentCol;
   if ((c5_i1 < 1) || (c5_i1 > 520)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i1, 1, 520, &c5_ce_emlrtBCI, (emlrtConstCTX)
+    emlrtDynamicBoundsCheckR2012b(c5_i1, 1, 520, &c5_ae_emlrtBCI, (emlrtConstCTX)
       c5_sp);
   }
 
@@ -11219,25 +10989,25 @@ static void c5_plannerAStarGrid_reconstructPath
       chartInstance->c5_OptimalPath[213200 + c5_b_k] = c5_CurrentColDummy;
       if (c5_CurrentRow != (real_T)(int32_T)muDoubleScalarFloor(c5_CurrentRow))
       {
-        emlrtIntegerCheckR2012b(c5_CurrentRow, &c5_dc_emlrtDCI, (emlrtConstCTX)
+        emlrtIntegerCheckR2012b(c5_CurrentRow, &c5_cc_emlrtDCI, (emlrtConstCTX)
           c5_sp);
       }
 
       c5_i2 = (int32_T)c5_CurrentRow;
       if ((c5_i2 < 1) || (c5_i2 > 410)) {
-        emlrtDynamicBoundsCheckR2012b(c5_i2, 1, 410, &c5_de_emlrtBCI,
+        emlrtDynamicBoundsCheckR2012b(c5_i2, 1, 410, &c5_be_emlrtBCI,
           (emlrtConstCTX)c5_sp);
       }
 
       if (c5_CurrentColDummy != (real_T)(int32_T)muDoubleScalarFloor
           (c5_CurrentColDummy)) {
-        emlrtIntegerCheckR2012b(c5_CurrentColDummy, &c5_ec_emlrtDCI,
+        emlrtIntegerCheckR2012b(c5_CurrentColDummy, &c5_dc_emlrtDCI,
           (emlrtConstCTX)c5_sp);
       }
 
       c5_i5 = (int32_T)c5_CurrentColDummy;
       if ((c5_i5 < 1) || (c5_i5 > 520)) {
-        emlrtDynamicBoundsCheckR2012b(c5_i5, 1, 520, &c5_ee_emlrtBCI,
+        emlrtDynamicBoundsCheckR2012b(c5_i5, 1, 520, &c5_ce_emlrtBCI,
           (emlrtConstCTX)c5_sp);
       }
 
@@ -11254,7 +11024,7 @@ static void c5_plannerAStarGrid_reconstructPath
   c5_i3 = (int32_T)c5_k - 1;
   c5_i4 = (int32_T)c5_k - 1;
   c5_array_int32_T_Constructor(chartInstance, &c5_r);
-  c5_st.site = &c5_lh_emlrtRSI;
+  c5_st.site = &c5_kh_emlrtRSI;
   c5_array_int32_T_SetSize(chartInstance, &c5_st, &c5_r, &c5_rb_emlrtRTEI, c5_i4
     + 1);
   c5_loop_ub = c5_i4;
@@ -11263,7 +11033,7 @@ static void c5_plannerAStarGrid_reconstructPath
   }
 
   c5_array_real_T_2D_Constructor(chartInstance, &c5_c_x);
-  c5_st.site = &c5_lh_emlrtRSI;
+  c5_st.site = &c5_kh_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_c_x, &c5_sb_emlrtRTEI,
     c5_i3 + 1, 2);
   for (c5_i7 = 0; c5_i7 < 2; c5_i7++) {
@@ -11306,7 +11076,7 @@ static void c5_plannerAStarGrid_reconstructPath
   c5_array_real_T_2D_Destructor(chartInstance, &c5_c_x);
   c5_i10 = (int32_T)c5_k - 1;
   c5_i12 = (int32_T)c5_k - 1;
-  c5_st.site = &c5_hh_emlrtRSI;
+  c5_st.site = &c5_gh_emlrtRSI;
   c5_array_int32_T_SetSize(chartInstance, &c5_st, &c5_r, &c5_tb_emlrtRTEI,
     c5_i12 + 1);
   c5_d_loop_ub = c5_i12;
@@ -11315,7 +11085,7 @@ static void c5_plannerAStarGrid_reconstructPath
   }
 
   c5_array_real_T_Constructor(chartInstance, &c5_d_x);
-  c5_st.site = &c5_hh_emlrtRSI;
+  c5_st.site = &c5_gh_emlrtRSI;
   c5_array_real_T_SetSize(chartInstance, &c5_st, &c5_d_x, &c5_ub_emlrtRTEI,
     c5_i10 + 1);
   c5_e_loop_ub = c5_i10;
@@ -11437,13 +11207,13 @@ static real_T c5_plannerAStarGrid_gcostValue
   c5_c_st.prev = &c5_b_st;
   c5_c_st.tls = c5_b_st.tls;
   if (c5_obj->UseCustomG == 0.0) {
-    c5_st.site = &c5_vf_emlrtRSI;
+    c5_st.site = &c5_xf_emlrtRSI;
     c5_b_obj = c5_obj;
     c5_b_difference[0] = c5_i;
     c5_b_difference[1] = c5_j;
     c5_type = c5_obj->GCostMethod;
     if (c5_type != (real_T)(int32_T)muDoubleScalarFloor(c5_type)) {
-      emlrtIntegerCheckR2012b(c5_type, &c5_yb_emlrtDCI, &c5_st);
+      emlrtIntegerCheckR2012b(c5_type, &c5_xb_emlrtDCI, &c5_st);
     }
 
     switch ((int32_T)c5_type) {
@@ -11521,7 +11291,7 @@ static real_T c5_plannerAStarGrid_gcostValue
       break;
 
      default:
-      c5_b_st.site = &c5_rf_emlrtRSI;
+      c5_b_st.site = &c5_tf_emlrtRSI;
       for (c5_i1 = 0; c5_i1 < 2; c5_i1++) {
         c5_b_difference[c5_i1] = -c5_b_difference[c5_i1];
       }
@@ -11534,7 +11304,7 @@ static real_T c5_plannerAStarGrid_gcostValue
       }
 
       c5_f_y = c5_sumColumnB(chartInstance, c5_e_y);
-      c5_c_st.site = &c5_sf_emlrtRSI;
+      c5_c_st.site = &c5_uf_emlrtRSI;
       c5_h_x = c5_f_y;
       c5_gcostNeighbor = c5_h_x;
       c5_j_x = c5_gcostNeighbor;
@@ -11570,10 +11340,10 @@ static real_T c5_plannerAStarGrid_gcostValue
     c5_b_CurrentRow[1] = c5_CurrentCol;
     c5_c_CurrentRow[0] = c5_CurrentRow + c5_i;
     c5_c_CurrentRow[1] = c5_CurrentCol + c5_j;
-    c5_st.site = &c5_wf_emlrtRSI;
+    c5_st.site = &c5_yf_emlrtRSI;
     c5_gcostNeighbor = c5_plannerAStarGrid_Euclidean(chartInstance, &c5_st,
       c5_b_CurrentRow, c5_c_CurrentRow) / c5_obj->MapResolution;
-    c5_st.site = &c5_xf_emlrtRSI;
+    c5_st.site = &c5_ag_emlrtRSI;
     c5_val = c5_gcostNeighbor;
     c5_c_x = c5_val;
     c5_b_b = muDoubleScalarIsNaN(c5_c_x);
@@ -11704,9 +11474,9 @@ static void c5_plannerAStarGrid_getEssentialOutput
   c5_st.tls = c5_sp->tls;
   c5_b_st.prev = &c5_st;
   c5_b_st.tls = c5_st.tls;
-  c5_st.site = &c5_jg_emlrtRSI;
+  c5_st.site = &c5_lg_emlrtRSI;
   c5_b_obj = c5_b_astarInternal;
-  c5_b_st.site = &c5_kg_emlrtRSI;
+  c5_b_st.site = &c5_mg_emlrtRSI;
   c5_c_obj = c5_b_obj;
   c5_d = c5_c_obj->NumPathPoints;
   c5_b_b = (c5_d < 1.0);
@@ -11714,12 +11484,12 @@ static void c5_plannerAStarGrid_getEssentialOutput
     c5_i = -1;
   } else {
     if (c5_d != (real_T)(int32_T)muDoubleScalarFloor(c5_d)) {
-      emlrtIntegerCheckR2012b(c5_d, &c5_ic_emlrtDCI, &c5_b_st);
+      emlrtIntegerCheckR2012b(c5_d, &c5_hc_emlrtDCI, &c5_b_st);
     }
 
     c5_i1 = (int32_T)c5_d;
     if ((c5_i1 < 1) || (c5_i1 > 213200)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i1, 1, 213200, &c5_je_emlrtBCI, &c5_b_st);
+      emlrtDynamicBoundsCheckR2012b(c5_i1, 1, 213200, &c5_he_emlrtBCI, &c5_b_st);
     }
 
     c5_i = c5_i1 - 1;
@@ -11735,33 +11505,33 @@ static void c5_plannerAStarGrid_getEssentialOutput
 
   c5_H = (real_T)c5_path.size[0];
   c5_obj->NumPathPoints = c5_H;
-  c5_st.site = &c5_ig_emlrtRSI;
+  c5_st.site = &c5_kg_emlrtRSI;
   c5_d_obj = c5_b_astarInternal;
-  c5_b_st.site = &c5_lg_emlrtRSI;
+  c5_b_st.site = &c5_ng_emlrtRSI;
   c5_e_obj = c5_d_obj;
   c5_d1 = c5_e_obj->NumNodesExplored;
   c5_b1 = (c5_d1 < 1.0);
   if (!c5_b1) {
     if (c5_d1 != (real_T)(int32_T)muDoubleScalarFloor(c5_d1)) {
-      emlrtIntegerCheckR2012b(c5_d1, &c5_u_emlrtDCI, &c5_b_st);
+      emlrtIntegerCheckR2012b(c5_d1, &c5_t_emlrtDCI, &c5_b_st);
     }
 
     c5_i3 = (int32_T)c5_d1;
     if ((c5_i3 < 1) || (c5_i3 > 213200)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i3, 1, 213200, &c5_tb_emlrtBCI, &c5_b_st);
+      emlrtDynamicBoundsCheckR2012b(c5_i3, 1, 213200, &c5_rb_emlrtBCI, &c5_b_st);
     }
   }
 
-  c5_st.site = &c5_hg_emlrtRSI;
+  c5_st.site = &c5_jg_emlrtRSI;
   c5_f_obj = c5_b_astarInternal;
   c5_numNodes = c5_f_obj->NumNodesExplored;
   c5_obj->NumNodesExplored = c5_numNodes;
   if (c5_obj->NumPathPoints == 0.0) {
     c5_obj->PathCost = rtInf;
-    c5_st.site = &c5_gg_emlrtRSI;
+    c5_st.site = &c5_ig_emlrtRSI;
     c5_warning(chartInstance, &c5_st);
   } else {
-    c5_st.site = &c5_fg_emlrtRSI;
+    c5_st.site = &c5_hg_emlrtRSI;
     c5_g_obj = c5_b_astarInternal;
     c5_cost = c5_g_obj->PathCost;
     c5_obj->PathCost = c5_cost;
@@ -11819,18 +11589,18 @@ static void c5_plannerAStarGrid_getEssentialOutput
     c5_i6 = c5_path.size[0];
     c5_i8 = 1;
     if ((c5_i8 < 1) || (c5_i8 > c5_i6)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i8, 1, c5_i6, &c5_ie_emlrtBCI,
+      emlrtDynamicBoundsCheckR2012b(c5_i8, 1, c5_i6, &c5_ge_emlrtBCI,
         (emlrtConstCTX)c5_sp);
     }
 
     c5_i9 = c5_path.size[0];
     if (c5_d2 != (real_T)(int32_T)muDoubleScalarFloor(c5_d2)) {
-      emlrtIntegerCheckR2012b(c5_d2, &c5_hc_emlrtDCI, (emlrtConstCTX)c5_sp);
+      emlrtIntegerCheckR2012b(c5_d2, &c5_gc_emlrtDCI, (emlrtConstCTX)c5_sp);
     }
 
     c5_i11 = (int32_T)c5_d2;
     if ((c5_i11 < 1) || (c5_i11 > c5_i9)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i11, 1, c5_i9, &c5_he_emlrtBCI,
+      emlrtDynamicBoundsCheckR2012b(c5_i11, 1, c5_i9, &c5_fe_emlrtBCI,
         (emlrtConstCTX)c5_sp);
     }
 
@@ -11843,12 +11613,12 @@ static void c5_plannerAStarGrid_getEssentialOutput
     c5_i10 = -1;
   } else {
     if (c5_d3 != (real_T)(int32_T)muDoubleScalarFloor(c5_d3)) {
-      emlrtIntegerCheckR2012b(c5_d3, &c5_gc_emlrtDCI, (emlrtConstCTX)c5_sp);
+      emlrtIntegerCheckR2012b(c5_d3, &c5_fc_emlrtDCI, (emlrtConstCTX)c5_sp);
     }
 
     c5_i12 = (int32_T)c5_d3;
     if ((c5_i12 < 1) || (c5_i12 > 213200)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i12, 1, 213200, &c5_ge_emlrtBCI,
+      emlrtDynamicBoundsCheckR2012b(c5_i12, 1, 213200, &c5_ee_emlrtBCI,
         (emlrtConstCTX)c5_sp);
     }
 
@@ -11856,7 +11626,7 @@ static void c5_plannerAStarGrid_getEssentialOutput
   }
 
   c5_array_int32_T_Constructor(chartInstance, &c5_r);
-  c5_st.site = &c5_gh_emlrtRSI;
+  c5_st.site = &c5_fh_emlrtRSI;
   c5_array_int32_T_SetSize(chartInstance, &c5_st, &c5_r, &c5_wb_emlrtRTEI,
     c5_i10 + 1);
   c5_b_loop_ub = c5_i10;
@@ -11864,7 +11634,7 @@ static void c5_plannerAStarGrid_getEssentialOutput
     c5_r.vector.data[c5_i13] = c5_i13;
   }
 
-  c5_st.site = &c5_gh_emlrtRSI;
+  c5_st.site = &c5_fh_emlrtRSI;
   c5_array_real_T_SetSize(chartInstance, &c5_st, &c5_path, &c5_xb_emlrtRTEI,
     c5_i7 + 1);
   c5_iv[0] = c5_r.size[0];
@@ -11881,9 +11651,9 @@ static void c5_plannerAStarGrid_getEssentialOutput
     c5_obj->Path[c5_i15] = chartInstance->c5_pathTemp[c5_i15];
   }
 
-  c5_st.site = &c5_eg_emlrtRSI;
+  c5_st.site = &c5_gg_emlrtRSI;
   c5_h_obj = c5_b_astarInternal;
-  c5_b_st.site = &c5_lg_emlrtRSI;
+  c5_b_st.site = &c5_ng_emlrtRSI;
   c5_i_obj = c5_h_obj;
   c5_d4 = c5_i_obj->NumNodesExplored;
   c5_b4 = (c5_d4 < 1.0);
@@ -11891,12 +11661,12 @@ static void c5_plannerAStarGrid_getEssentialOutput
     c5_i16 = -1;
   } else {
     if (c5_d4 != (real_T)(int32_T)muDoubleScalarFloor(c5_d4)) {
-      emlrtIntegerCheckR2012b(c5_d4, &c5_u_emlrtDCI, &c5_b_st);
+      emlrtIntegerCheckR2012b(c5_d4, &c5_t_emlrtDCI, &c5_b_st);
     }
 
     c5_i17 = (int32_T)c5_d4;
     if ((c5_i17 < 1) || (c5_i17 > 213200)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i17, 1, 213200, &c5_tb_emlrtBCI, &c5_b_st);
+      emlrtDynamicBoundsCheckR2012b(c5_i17, 1, 213200, &c5_rb_emlrtBCI, &c5_b_st);
     }
 
     c5_i16 = c5_i17 - 1;
@@ -11909,7 +11679,7 @@ static void c5_plannerAStarGrid_getEssentialOutput
     c5_path.vector.data[c5_i18] = c5_i_obj->NodesExploredIndicesInternal[c5_i18];
   }
 
-  c5_st.site = &c5_dg_emlrtRSI;
+  c5_st.site = &c5_fg_emlrtRSI;
   c5_j_obj = c5_b_astarInternal;
   c5_b_numNodes = c5_j_obj->NumNodesExplored;
   c5_obj->NumNodesExplored = c5_b_numNodes;
@@ -11941,19 +11711,19 @@ static void c5_plannerAStarGrid_getEssentialOutput
     c5_i20 = -1;
   } else {
     if (c5_d5 != (real_T)(int32_T)muDoubleScalarFloor(c5_d5)) {
-      emlrtIntegerCheckR2012b(c5_d5, &c5_fc_emlrtDCI, (emlrtConstCTX)c5_sp);
+      emlrtIntegerCheckR2012b(c5_d5, &c5_ec_emlrtDCI, (emlrtConstCTX)c5_sp);
     }
 
     c5_i21 = (int32_T)c5_d5;
     if ((c5_i21 < 1) || (c5_i21 > 213200)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i21, 1, 213200, &c5_fe_emlrtBCI,
+      emlrtDynamicBoundsCheckR2012b(c5_i21, 1, 213200, &c5_de_emlrtBCI,
         (emlrtConstCTX)c5_sp);
     }
 
     c5_i20 = c5_i21 - 1;
   }
 
-  c5_st.site = &c5_mh_emlrtRSI;
+  c5_st.site = &c5_lh_emlrtRSI;
   c5_array_int32_T_SetSize(chartInstance, &c5_st, &c5_r, &c5_ac_emlrtRTEI,
     c5_i20 + 1);
   c5_e_loop_ub = c5_i20;
@@ -12005,7 +11775,7 @@ static void c5_warning(SFc5_sl_groundvehicleDynamicsInstanceStruct
   c5_g_y = NULL;
   sf_mex_assign(&c5_g_y, sf_mex_create("y", c5_msgID, 10, 0U, 1, 0U, 2, 1, 40),
                 false);
-  c5_st.site = &c5_mg_emlrtRSI;
+  c5_st.site = &c5_og_emlrtRSI;
   c5_b_feval(chartInstance, &c5_st, c5_e_y, c5_feval(chartInstance, &c5_st,
               c5_f_y, c5_g_y));
 }
@@ -12141,7 +11911,7 @@ static void c5_plannerAStarGrid_getPathOutput
   c5_b_st.tls = c5_st.tls;
   c5_c_st.prev = &c5_b_st;
   c5_c_st.tls = c5_b_st.tls;
-  c5_st.site = &c5_ng_emlrtRSI;
+  c5_st.site = &c5_pg_emlrtRSI;
   c5_b_obj = c5_obj;
   c5_d = c5_b_obj->NumPathPoints;
   c5_b_b = (c5_d < 1.0);
@@ -12149,12 +11919,12 @@ static void c5_plannerAStarGrid_getPathOutput
     c5_i = -1;
   } else {
     if (c5_d != (real_T)(int32_T)muDoubleScalarFloor(c5_d)) {
-      emlrtIntegerCheckR2012b(c5_d, &c5_lc_emlrtDCI, &c5_st);
+      emlrtIntegerCheckR2012b(c5_d, &c5_kc_emlrtDCI, &c5_st);
     }
 
     c5_i1 = (int32_T)c5_d;
     if ((c5_i1 < 1) || (c5_i1 > 213200)) {
-      emlrtDynamicBoundsCheckR2012b(c5_i1, 1, 213200, &c5_me_emlrtBCI, &c5_st);
+      emlrtDynamicBoundsCheckR2012b(c5_i1, 1, 213200, &c5_ke_emlrtBCI, &c5_st);
     }
 
     c5_i = c5_i1 - 1;
@@ -12178,11 +11948,11 @@ static void c5_plannerAStarGrid_getPathOutput
 
   if (c5_path.size[0] == 0) {
     c5_obj->PathCost = rtInf;
-    c5_st.site = &c5_jh_emlrtRSI;
+    c5_st.site = &c5_ih_emlrtRSI;
     c5_array_real_T_2D_SetSize(chartInstance, &c5_st, c5_pathOut,
       &c5_oc_emlrtRTEI, 0, 0);
   } else {
-    c5_st.site = &c5_og_emlrtRSI;
+    c5_st.site = &c5_qg_emlrtRSI;
     c5_c_obj = c5_obj;
     c5_d1 = c5_c_obj->NumPathPoints;
     c5_b1 = (c5_d1 < 1.0);
@@ -12190,12 +11960,12 @@ static void c5_plannerAStarGrid_getPathOutput
       c5_i5 = -1;
     } else {
       if (c5_d1 != (real_T)(int32_T)muDoubleScalarFloor(c5_d1)) {
-        emlrtIntegerCheckR2012b(c5_d1, &c5_lc_emlrtDCI, &c5_st);
+        emlrtIntegerCheckR2012b(c5_d1, &c5_kc_emlrtDCI, &c5_st);
       }
 
       c5_i6 = (int32_T)c5_d1;
       if ((c5_i6 < 1) || (c5_i6 > 213200)) {
-        emlrtDynamicBoundsCheckR2012b(c5_i6, 1, 213200, &c5_me_emlrtBCI, &c5_st);
+        emlrtDynamicBoundsCheckR2012b(c5_i6, 1, 213200, &c5_ke_emlrtBCI, &c5_st);
       }
 
       c5_i5 = c5_i6 - 1;
@@ -12209,7 +11979,7 @@ static void c5_plannerAStarGrid_getPathOutput
     }
 
     c5_array_real_T_2D_Constructor(chartInstance, &c5_pose);
-    c5_st.site = &c5_og_emlrtRSI;
+    c5_st.site = &c5_qg_emlrtRSI;
     c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_pose, &c5_dc_emlrtRTEI,
       c5_path.size[0], 3);
     for (c5_i8 = 0; c5_i8 < 3; c5_i8++) {
@@ -12217,12 +11987,12 @@ static void c5_plannerAStarGrid_getPathOutput
       for (c5_i10 = 0; c5_i10 <= c5_c_loop_ub; c5_i10++) {
         c5_d3 = c5_path.vector.data[c5_i10];
         if (c5_d3 != (real_T)(int32_T)muDoubleScalarFloor(c5_d3)) {
-          emlrtIntegerCheckR2012b(c5_d3, &c5_oc_emlrtDCI, (emlrtConstCTX)c5_sp);
+          emlrtIntegerCheckR2012b(c5_d3, &c5_nc_emlrtDCI, (emlrtConstCTX)c5_sp);
         }
 
         c5_i12 = (int32_T)c5_d3;
         if ((c5_i12 < 1) || (c5_i12 > 213200)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i12, 1, 213200, &c5_pe_emlrtBCI,
+          emlrtDynamicBoundsCheckR2012b(c5_i12, 1, 213200, &c5_ne_emlrtBCI,
             (emlrtConstCTX)c5_sp);
         }
 
@@ -12241,12 +12011,12 @@ static void c5_plannerAStarGrid_getPathOutput
       c5_i11 = -1;
     } else {
       if (c5_d2 != (real_T)(int32_T)muDoubleScalarFloor(c5_d2)) {
-        emlrtIntegerCheckR2012b(c5_d2, &c5_jc_emlrtDCI, (emlrtConstCTX)c5_sp);
+        emlrtIntegerCheckR2012b(c5_d2, &c5_ic_emlrtDCI, (emlrtConstCTX)c5_sp);
       }
 
       c5_i13 = (int32_T)c5_d2;
       if ((c5_i13 < 1) || (c5_i13 > 213200)) {
-        emlrtDynamicBoundsCheckR2012b(c5_i13, 1, 213200, &c5_ke_emlrtBCI,
+        emlrtDynamicBoundsCheckR2012b(c5_i13, 1, 213200, &c5_ie_emlrtBCI,
           (emlrtConstCTX)c5_sp);
       }
 
@@ -12254,7 +12024,7 @@ static void c5_plannerAStarGrid_getPathOutput
     }
 
     c5_array_int32_T_Constructor(chartInstance, &c5_r);
-    c5_st.site = &c5_pg_emlrtRSI;
+    c5_st.site = &c5_rg_emlrtRSI;
     c5_array_int32_T_SetSize(chartInstance, &c5_st, &c5_r, &c5_ec_emlrtRTEI,
       c5_i11 + 1);
     c5_d_loop_ub = c5_i11;
@@ -12262,13 +12032,13 @@ static void c5_plannerAStarGrid_getPathOutput
       c5_r.vector.data[c5_i14] = c5_i14;
     }
 
-    c5_st.site = &c5_pg_emlrtRSI;
+    c5_st.site = &c5_rg_emlrtRSI;
     c5_d_obj = c5_obj;
     c5_val = c5_d_obj->Map;
-    c5_st.site = &c5_pg_emlrtRSI;
+    c5_st.site = &c5_rg_emlrtRSI;
     c5_e_obj = c5_val;
     c5_array_real_T_2D_Constructor(chartInstance, &c5_idx);
-    c5_b_st.site = &c5_pg_emlrtRSI;
+    c5_b_st.site = &c5_rg_emlrtRSI;
     c5_array_real_T_2D_SetSize(chartInstance, &c5_b_st, &c5_idx,
       &c5_fc_emlrtRTEI, c5_pose.size[0], 2);
     for (c5_i15 = 0; c5_i15 < 2; c5_i15++) {
@@ -12279,8 +12049,8 @@ static void c5_plannerAStarGrid_getPathOutput
       }
     }
 
-    c5_b_st.site = &c5_tg_emlrtRSI;
-    c5_c_st.site = &c5_od_emlrtRSI;
+    c5_b_st.site = &c5_vg_emlrtRSI;
+    c5_c_st.site = &c5_qd_emlrtRSI;
     c5_p = true;
     c5_d4 = (real_T)(c5_idx.size[0] << 1);
     c5_i17 = (int32_T)c5_d4 - 1;
@@ -12341,7 +12111,7 @@ static void c5_plannerAStarGrid_getPathOutput
         sf_mex_call(&c5_c_st, NULL, "message", 1U, 2U, 14, c5_f_y, 14, c5_h_y)));
     }
 
-    c5_c_st.site = &c5_od_emlrtRSI;
+    c5_c_st.site = &c5_qd_emlrtRSI;
     c5_b5 = (c5_idx.size[0] == 0);
     if (c5_b5) {
       c5_g_y = NULL;
@@ -12359,7 +12129,7 @@ static void c5_plannerAStarGrid_getPathOutput
     }
 
     c5_array_real_T_2D_Constructor(chartInstance, &c5_r1);
-    c5_b_st.site = &c5_ug_emlrtRSI;
+    c5_b_st.site = &c5_wg_emlrtRSI;
     c5_MapInterface_grid2worldImpl(chartInstance, &c5_b_st, c5_e_obj, &c5_idx,
       &c5_r1);
     c5_iv[0] = c5_r.size[0];
@@ -12389,19 +12159,19 @@ static void c5_plannerAStarGrid_getPathOutput
       c5_i22 = -1;
     } else {
       if (c5_d5 != (real_T)(int32_T)muDoubleScalarFloor(c5_d5)) {
-        emlrtIntegerCheckR2012b(c5_d5, &c5_kc_emlrtDCI, (emlrtConstCTX)c5_sp);
+        emlrtIntegerCheckR2012b(c5_d5, &c5_jc_emlrtDCI, (emlrtConstCTX)c5_sp);
       }
 
       c5_i23 = (int32_T)c5_d5;
       if ((c5_i23 < 1) || (c5_i23 > 213200)) {
-        emlrtDynamicBoundsCheckR2012b(c5_i23, 1, 213200, &c5_le_emlrtBCI,
+        emlrtDynamicBoundsCheckR2012b(c5_i23, 1, 213200, &c5_je_emlrtBCI,
           (emlrtConstCTX)c5_sp);
       }
 
       c5_i22 = c5_i23 - 1;
     }
 
-    c5_st.site = &c5_kh_emlrtRSI;
+    c5_st.site = &c5_jh_emlrtRSI;
     c5_array_int32_T_SetSize(chartInstance, &c5_st, &c5_r, &c5_gc_emlrtRTEI,
       c5_i22 + 1);
     c5_g_loop_ub = c5_i22;
@@ -12409,7 +12179,7 @@ static void c5_plannerAStarGrid_getPathOutput
       c5_r.vector.data[c5_i24] = c5_i24;
     }
 
-    c5_st.site = &c5_kh_emlrtRSI;
+    c5_st.site = &c5_jh_emlrtRSI;
     c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_r1, &c5_hc_emlrtRTEI,
       c5_pose.size[0], 2);
     for (c5_i25 = 0; c5_i25 < 2; c5_i25++) {
@@ -12440,7 +12210,7 @@ static void c5_plannerAStarGrid_getPathOutput
       c5_obj->PathInGrid[c5_i29] = chartInstance->c5_pathXYTemp[c5_i29];
     }
 
-    c5_st.site = &c5_qg_emlrtRSI;
+    c5_st.site = &c5_sg_emlrtRSI;
     c5_i_x = c5_obj->IsGrid;
     c5_j_x = c5_i_x;
     c5_f_b = muDoubleScalarIsNaN(c5_j_x);
@@ -12457,7 +12227,7 @@ static void c5_plannerAStarGrid_getPathOutput
     }
 
     if (c5_obj->IsGrid != 0.0) {
-      c5_st.site = &c5_rg_emlrtRSI;
+      c5_st.site = &c5_tg_emlrtRSI;
       c5_g_obj = c5_obj;
       c5_d7 = c5_g_obj->NumPathPoints;
       c5_b9 = (c5_d7 < 1.0);
@@ -12465,12 +12235,12 @@ static void c5_plannerAStarGrid_getPathOutput
         c5_i31 = -1;
       } else {
         if (c5_d7 != (real_T)(int32_T)muDoubleScalarFloor(c5_d7)) {
-          emlrtIntegerCheckR2012b(c5_d7, &c5_nc_emlrtDCI, &c5_st);
+          emlrtIntegerCheckR2012b(c5_d7, &c5_mc_emlrtDCI, &c5_st);
         }
 
         c5_i33 = (int32_T)c5_d7;
         if ((c5_i33 < 1) || (c5_i33 > 213200)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i33, 1, 213200, &c5_oe_emlrtBCI,
+          emlrtDynamicBoundsCheckR2012b(c5_i33, 1, 213200, &c5_me_emlrtBCI,
             &c5_st);
         }
 
@@ -12497,7 +12267,7 @@ static void c5_plannerAStarGrid_getPathOutput
         }
       }
 
-      c5_st.site = &c5_rg_emlrtRSI;
+      c5_st.site = &c5_tg_emlrtRSI;
       c5_array_real_T_2D_SetSize(chartInstance, &c5_st, c5_pathOut,
         &c5_nc_emlrtRTEI, c5_idx.size[0], 2);
       c5_m_loop_ub = (c5_idx.size[0] << 1) - 1;
@@ -12505,7 +12275,7 @@ static void c5_plannerAStarGrid_getPathOutput
         c5_pathOut->vector.data[c5_i41] = c5_idx.vector.data[c5_i41];
       }
     } else {
-      c5_st.site = &c5_sg_emlrtRSI;
+      c5_st.site = &c5_ug_emlrtRSI;
       c5_f_obj = c5_obj;
       c5_d6 = c5_f_obj->NumPathPoints;
       c5_b8 = (c5_d6 < 1.0);
@@ -12513,12 +12283,12 @@ static void c5_plannerAStarGrid_getPathOutput
         c5_i30 = -1;
       } else {
         if (c5_d6 != (real_T)(int32_T)muDoubleScalarFloor(c5_d6)) {
-          emlrtIntegerCheckR2012b(c5_d6, &c5_mc_emlrtDCI, &c5_st);
+          emlrtIntegerCheckR2012b(c5_d6, &c5_lc_emlrtDCI, &c5_st);
         }
 
         c5_i32 = (int32_T)c5_d6;
         if ((c5_i32 < 1) || (c5_i32 > 213200)) {
-          emlrtDynamicBoundsCheckR2012b(c5_i32, 1, 213200, &c5_ne_emlrtBCI,
+          emlrtDynamicBoundsCheckR2012b(c5_i32, 1, 213200, &c5_le_emlrtBCI,
             &c5_st);
         }
 
@@ -12545,7 +12315,7 @@ static void c5_plannerAStarGrid_getPathOutput
         }
       }
 
-      c5_st.site = &c5_sg_emlrtRSI;
+      c5_st.site = &c5_ug_emlrtRSI;
       c5_array_real_T_2D_SetSize(chartInstance, &c5_st, c5_pathOut,
         &c5_kc_emlrtRTEI, c5_idx.size[0], 2);
       c5_l_loop_ub = (c5_idx.size[0] << 1) - 1;
@@ -12573,7 +12343,7 @@ static void c5_MapInterface_grid2worldImpl
   c5_st.prev = c5_sp;
   c5_st.tls = c5_sp->tls;
   c5_array_real_T_2D_Constructor(chartInstance, &c5_b_gridInd);
-  c5_st.site = &c5_vg_emlrtRSI;
+  c5_st.site = &c5_xg_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_b_gridInd,
     &c5_pc_emlrtRTEI, c5_gridInd->size[0], 2);
   c5_loop_ub = c5_gridInd->size[0] * c5_gridInd->size[1] - 1;
@@ -12582,11 +12352,11 @@ static void c5_MapInterface_grid2worldImpl
   }
 
   c5_array_real_T_2D_Constructor(chartInstance, &c5_localXY);
-  c5_st.site = &c5_vg_emlrtRSI;
+  c5_st.site = &c5_xg_emlrtRSI;
   c5_MapInterface_grid2localImpl(chartInstance, &c5_st, c5_obj, &c5_b_gridInd,
     &c5_localXY);
   c5_array_real_T_2D_Destructor(chartInstance, &c5_b_gridInd);
-  c5_st.site = &c5_wg_emlrtRSI;
+  c5_st.site = &c5_yg_emlrtRSI;
   c5_MapInterface_local2worldImpl(chartInstance, &c5_st, c5_obj, &c5_localXY,
     c5_worldXY);
   c5_array_real_T_2D_Destructor(chartInstance, &c5_localXY);
@@ -12649,10 +12419,10 @@ static void c5_MapInterface_grid2localImpl
 
   c5_xlimit[0] = c5_gOrig[0];
   c5_ylimit[0] = c5_gOrig[1];
-  c5_st.site = &c5_xg_emlrtRSI;
+  c5_st.site = &c5_ah_emlrtRSI;
   c5_b_xlimit = c5_xlimit[0];
   c5_array_real_T_Constructor(chartInstance, &c5_b_varargin_1);
-  c5_b_st.site = &c5_xg_emlrtRSI;
+  c5_b_st.site = &c5_ah_emlrtRSI;
   c5_array_real_T_SetSize(chartInstance, &c5_b_st, &c5_b_varargin_1,
     &c5_qc_emlrtRTEI, c5_gridInd->size[0]);
   c5_loop_ub = c5_gridInd->size[0] - 1;
@@ -12663,7 +12433,7 @@ static void c5_MapInterface_grid2localImpl
 
   c5_b_ylimit = c5_ylimit[0];
   c5_array_real_T_Constructor(chartInstance, &c5_b_varargin_2);
-  c5_b_st.site = &c5_fh_emlrtRSI;
+  c5_b_st.site = &c5_eh_emlrtRSI;
   c5_array_real_T_SetSize(chartInstance, &c5_b_st, &c5_b_varargin_2,
     &c5_rc_emlrtRTEI, c5_gridInd->size[0]);
   c5_b_loop_ub = c5_gridInd->size[0] - 1;
@@ -12672,10 +12442,10 @@ static void c5_MapInterface_grid2localImpl
       c5_gridInd->vector.data[c5_i2]) / 10.0;
   }
 
-  c5_b_st.site = &c5_yg_emlrtRSI;
+  c5_b_st.site = &c5_bh_emlrtRSI;
   c5_result = c5_b_varargin_1.size[0];
   c5_sizes[0] = c5_result;
-  c5_c_st.site = &c5_ah_emlrtRSI;
+  c5_c_st.site = &c5_ch_emlrtRSI;
   c5_expected = c5_sizes[0];
   if (c5_b_varargin_1.size[0] == c5_expected) {
     c5_b_b = true;
@@ -12759,7 +12529,7 @@ static void c5_MapInterface_grid2localImpl
 
   c5_array_real_T_Destructor(chartInstance, &c5_b_varargin_2);
   c5_i9 = c5_localXY->size[0] << 1;
-  c5_st.site = &c5_xg_emlrtRSI;
+  c5_st.site = &c5_ah_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, c5_localXY, &c5_vc_emlrtRTEI,
     c5_localXY->size[0], 2);
   c5_i10 = c5_i9;
@@ -12786,7 +12556,7 @@ static void c5_MapInterface_local2worldImpl
     c5_locWorld[c5_i] = c5_obj->SharedProperties.LocalOriginInWorld[c5_i];
   }
 
-  c5_st.site = &c5_ih_emlrtRSI;
+  c5_st.site = &c5_hh_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, c5_worldXY, &c5_wc_emlrtRTEI,
     c5_localXY->size[0], 2);
   for (c5_i1 = 0; c5_i1 < 2; c5_i1++) {
@@ -12856,8 +12626,8 @@ static void c5_MapInterface_grid2world
   c5_st.tls = c5_sp->tls;
   c5_b_st.prev = &c5_st;
   c5_b_st.tls = c5_st.tls;
-  c5_st.site = &c5_tg_emlrtRSI;
-  c5_b_st.site = &c5_od_emlrtRSI;
+  c5_st.site = &c5_vg_emlrtRSI;
+  c5_b_st.site = &c5_qd_emlrtRSI;
   c5_p = true;
   c5_d = (real_T)(c5_idx->size[0] * c5_idx->size[1]);
   c5_i = (int32_T)c5_d - 1;
@@ -12918,7 +12688,7 @@ static void c5_MapInterface_grid2world
       (&c5_b_st, NULL, "message", 1U, 2U, 14, c5_f_y, 14, c5_g_y)));
   }
 
-  c5_b_st.site = &c5_od_emlrtRSI;
+  c5_b_st.site = &c5_qd_emlrtRSI;
   c5_b2 = (c5_idx->size[0] == 0);
   c5_b3 = (c5_idx->size[1] == 0);
   if ((!!c5_b2) || (!!c5_b3)) {
@@ -12936,7 +12706,7 @@ static void c5_MapInterface_grid2world
       (&c5_b_st, NULL, "message", 1U, 2U, 14, c5_i_y, 14, c5_k_y)));
   }
 
-  c5_b_st.site = &c5_od_emlrtRSI;
+  c5_b_st.site = &c5_qd_emlrtRSI;
   if (!((real_T)c5_idx->size[1] == 2.0)) {
     c5_j_y = NULL;
     sf_mex_assign(&c5_j_y, sf_mex_create("y", c5_b_cv, 10, 0U, 1, 0U, 2, 1, 34),
@@ -12956,7 +12726,7 @@ static void c5_MapInterface_grid2world
   }
 
   c5_array_real_T_2D_Constructor(chartInstance, &c5_b_idx);
-  c5_st.site = &c5_ug_emlrtRSI;
+  c5_st.site = &c5_wg_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_b_idx, &c5_xc_emlrtRTEI,
     c5_idx->size[0], c5_idx->size[1]);
   c5_loop_ub = c5_idx->size[0] * c5_idx->size[1] - 1;
@@ -12964,7 +12734,7 @@ static void c5_MapInterface_grid2world
     c5_b_idx.vector.data[c5_i1] = c5_idx->vector.data[c5_i1];
   }
 
-  c5_st.site = &c5_ug_emlrtRSI;
+  c5_st.site = &c5_wg_emlrtRSI;
   c5_b_MapInterface_grid2worldImpl(chartInstance, &c5_st, c5_obj, &c5_b_idx,
     c5_pos);
   c5_array_real_T_2D_Destructor(chartInstance, &c5_b_idx);
@@ -12983,7 +12753,7 @@ static void c5_b_MapInterface_grid2worldImpl
   c5_st.prev = c5_sp;
   c5_st.tls = c5_sp->tls;
   c5_array_real_T_2D_Constructor(chartInstance, &c5_b_gridInd);
-  c5_st.site = &c5_vg_emlrtRSI;
+  c5_st.site = &c5_xg_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_b_gridInd,
     &c5_pc_emlrtRTEI, c5_gridInd->size[0], c5_gridInd->size[1]);
   c5_loop_ub = c5_gridInd->size[0] * c5_gridInd->size[1] - 1;
@@ -12992,11 +12762,11 @@ static void c5_b_MapInterface_grid2worldImpl
   }
 
   c5_array_real_T_2D_Constructor(chartInstance, &c5_localXY);
-  c5_st.site = &c5_vg_emlrtRSI;
+  c5_st.site = &c5_xg_emlrtRSI;
   c5_b_MapInterface_grid2localImpl(chartInstance, &c5_st, c5_obj, &c5_b_gridInd,
     &c5_localXY);
   c5_array_real_T_2D_Destructor(chartInstance, &c5_b_gridInd);
-  c5_st.site = &c5_wg_emlrtRSI;
+  c5_st.site = &c5_yg_emlrtRSI;
   c5_MapInterface_local2worldImpl(chartInstance, &c5_st, c5_obj, &c5_localXY,
     c5_worldXY);
   c5_array_real_T_2D_Destructor(chartInstance, &c5_localXY);
@@ -13066,21 +12836,21 @@ static void c5_b_MapInterface_grid2localImpl
   c5_i1 = c5_gridInd->size[1];
   c5_i2 = 2;
   if ((c5_i2 < 1) || (c5_i2 > c5_i1)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i2, 1, c5_i1, &c5_qe_emlrtBCI,
+    emlrtDynamicBoundsCheckR2012b(c5_i2, 1, c5_i1, &c5_oe_emlrtBCI,
       (emlrtConstCTX)c5_sp);
   }
 
   c5_i3 = c5_gridInd->size[1];
   c5_i4 = 1;
   if ((c5_i4 < 1) || (c5_i4 > c5_i3)) {
-    emlrtDynamicBoundsCheckR2012b(c5_i4, 1, c5_i3, &c5_re_emlrtBCI,
+    emlrtDynamicBoundsCheckR2012b(c5_i4, 1, c5_i3, &c5_pe_emlrtBCI,
       (emlrtConstCTX)c5_sp);
   }
 
-  c5_st.site = &c5_xg_emlrtRSI;
+  c5_st.site = &c5_ah_emlrtRSI;
   c5_b_xlimit = c5_xlimit[0];
   c5_array_real_T_Constructor(chartInstance, &c5_b_varargin_1);
-  c5_b_st.site = &c5_xg_emlrtRSI;
+  c5_b_st.site = &c5_ah_emlrtRSI;
   c5_array_real_T_SetSize(chartInstance, &c5_b_st, &c5_b_varargin_1,
     &c5_qc_emlrtRTEI, c5_gridInd->size[0]);
   c5_loop_ub = c5_gridInd->size[0] - 1;
@@ -13091,7 +12861,7 @@ static void c5_b_MapInterface_grid2localImpl
 
   c5_b_ylimit = c5_ylimit[0];
   c5_array_real_T_Constructor(chartInstance, &c5_b_varargin_2);
-  c5_b_st.site = &c5_fh_emlrtRSI;
+  c5_b_st.site = &c5_eh_emlrtRSI;
   c5_array_real_T_SetSize(chartInstance, &c5_b_st, &c5_b_varargin_2,
     &c5_rc_emlrtRTEI, c5_gridInd->size[0]);
   c5_b_loop_ub = c5_gridInd->size[0] - 1;
@@ -13100,10 +12870,10 @@ static void c5_b_MapInterface_grid2localImpl
       c5_gridInd->vector.data[c5_i6]) / 10.0;
   }
 
-  c5_b_st.site = &c5_yg_emlrtRSI;
+  c5_b_st.site = &c5_bh_emlrtRSI;
   c5_result = c5_b_varargin_1.size[0];
   c5_sizes[0] = c5_result;
-  c5_c_st.site = &c5_ah_emlrtRSI;
+  c5_c_st.site = &c5_ch_emlrtRSI;
   c5_expected = c5_sizes[0];
   if (c5_b_varargin_1.size[0] == c5_expected) {
     c5_b_b = true;
@@ -13187,7 +12957,7 @@ static void c5_b_MapInterface_grid2localImpl
 
   c5_array_real_T_Destructor(chartInstance, &c5_b_varargin_2);
   c5_i13 = c5_localXY->size[0] << 1;
-  c5_st.site = &c5_xg_emlrtRSI;
+  c5_st.site = &c5_ah_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, c5_localXY, &c5_vc_emlrtRTEI,
     c5_localXY->size[0], 2);
   c5_i14 = c5_i13;
@@ -13197,407 +12967,8 @@ static void c5_b_MapInterface_grid2localImpl
   }
 }
 
-static void c5_minimum(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, real_T c5_c_x[30], real_T *c5_ex, int32_T *c5_idx)
-{
-  real_T c5_b_ex;
-  real_T c5_c_ex;
-  real_T c5_d_ex;
-  real_T c5_d_x;
-  real_T c5_e_x;
-  real_T c5_f_x;
-  real_T c5_g_x;
-  int32_T c5_b_idx;
-  int32_T c5_b_k;
-  int32_T c5_c_idx;
-  int32_T c5_d_idx;
-  int32_T c5_first;
-  int32_T c5_i;
-  int32_T c5_k;
-  boolean_T c5_b_b;
-  boolean_T c5_b_p;
-  boolean_T c5_c_b;
-  boolean_T c5_exitg1;
-  boolean_T c5_p;
-  (void)chartInstance;
-  c5_d_x = c5_c_x[0];
-  c5_e_x = c5_d_x;
-  c5_b_b = muDoubleScalarIsNaN(c5_e_x);
-  c5_p = !c5_b_b;
-  if (c5_p) {
-    c5_b_idx = 1;
-  } else {
-    c5_b_idx = 0;
-    c5_k = 2;
-    c5_exitg1 = false;
-    while ((!c5_exitg1) && (c5_k < 31)) {
-      c5_f_x = c5_c_x[c5_k - 1];
-      c5_g_x = c5_f_x;
-      c5_c_b = muDoubleScalarIsNaN(c5_g_x);
-      c5_b_p = !c5_c_b;
-      if (c5_b_p) {
-        c5_b_idx = c5_k;
-        c5_exitg1 = true;
-      } else {
-        c5_k++;
-      }
-    }
-  }
-
-  if (c5_b_idx == 0) {
-    c5_b_ex = c5_c_x[0];
-    c5_b_idx = 1;
-  } else {
-    c5_first = c5_b_idx;
-    c5_c_ex = c5_c_x[c5_first - 1];
-    c5_c_idx = c5_first;
-    c5_i = c5_first;
-    for (c5_b_k = c5_i + 1; c5_b_k < 31; c5_b_k++) {
-      if (c5_c_ex > c5_c_x[c5_b_k - 1]) {
-        c5_c_ex = c5_c_x[c5_b_k - 1];
-        c5_c_idx = c5_b_k;
-      }
-    }
-
-    c5_b_ex = c5_c_ex;
-    c5_b_idx = c5_c_idx;
-  }
-
-  c5_d_ex = c5_b_ex;
-  c5_d_idx = c5_b_idx;
-  *c5_ex = c5_d_ex;
-  *c5_idx = c5_d_idx;
-}
-
-static boolean_T c5_any(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, real_T c5_c_x[15])
-{
-  real_T c5_b_varargin_1[15];
-  real_T c5_x_data[15];
-  real_T c5_b_k;
-  real_T c5_d_x;
-  int32_T c5_i;
-  int32_T c5_i1;
-  int32_T c5_k;
-  boolean_T c5_b_b;
-  boolean_T c5_c_b;
-  boolean_T c5_e_y;
-  boolean_T c5_exitg1;
-  (void)chartInstance;
-  for (c5_i = 0; c5_i < 15; c5_i++) {
-    c5_b_varargin_1[c5_i] = c5_c_x[c5_i];
-  }
-
-  for (c5_i1 = 0; c5_i1 < 15; c5_i1++) {
-    c5_x_data[c5_i1] = c5_b_varargin_1[c5_i1];
-  }
-
-  c5_e_y = false;
-  c5_k = 0;
-  c5_exitg1 = false;
-  while ((!c5_exitg1) && (c5_k < 15)) {
-    c5_b_k = (real_T)c5_k + 1.0;
-    if (c5_x_data[(int32_T)c5_b_k - 1] == 0.0) {
-      c5_b_b = true;
-    } else {
-      c5_d_x = c5_x_data[(int32_T)c5_b_k - 1];
-      c5_c_b = muDoubleScalarIsNaN(c5_d_x);
-      if (c5_c_b) {
-        c5_b_b = true;
-      } else {
-        c5_b_b = false;
-      }
-    }
-
-    if (!c5_b_b) {
-      c5_e_y = true;
-      c5_exitg1 = true;
-    } else {
-      c5_k++;
-    }
-  }
-
-  return c5_e_y;
-}
-
-static void c5_b_any(SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance,
-                     const emlrtStack *c5_sp, real_T c5_c_x[15], boolean_T
-                     c5_e_y[15])
-{
-  emlrtStack c5_b_st;
-  emlrtStack c5_c_st;
-  emlrtStack c5_st;
-  real_T c5_d_x;
-  int32_T c5_b_a;
-  int32_T c5_b_b;
-  int32_T c5_c_a;
-  int32_T c5_c_b;
-  int32_T c5_d_a;
-  int32_T c5_e_a;
-  int32_T c5_f_a;
-  int32_T c5_i;
-  int32_T c5_i1;
-  int32_T c5_i2;
-  int32_T c5_ix;
-  int32_T c5_iy;
-  int32_T c5_j;
-  boolean_T c5_d_b;
-  boolean_T c5_e_b;
-  boolean_T c5_exitg1;
-  boolean_T c5_overflow;
-  c5_st.prev = c5_sp;
-  c5_st.tls = c5_sp->tls;
-  c5_st.site = &c5_bh_emlrtRSI;
-  c5_b_st.prev = &c5_st;
-  c5_b_st.tls = c5_st.tls;
-  c5_c_st.prev = &c5_b_st;
-  c5_c_st.tls = c5_b_st.tls;
-  for (c5_i = 0; c5_i < 15; c5_i++) {
-    c5_e_y[c5_i] = false;
-  }
-
-  c5_iy = -1;
-  c5_i1 = 0;
-  c5_i2 = 0;
-  for (c5_j = 0; c5_j < 15; c5_j++) {
-    c5_b_a = c5_i1 + 1;
-    c5_i1 = c5_b_a;
-    c5_c_a = c5_i2 + 1;
-    c5_i2 = c5_c_a;
-    c5_d_a = c5_iy + 1;
-    c5_iy = c5_d_a;
-    c5_b_st.site = &c5_ch_emlrtRSI;
-    c5_e_a = c5_i1;
-    c5_b_b = c5_i2;
-    c5_f_a = c5_e_a;
-    c5_c_b = c5_b_b;
-    if (c5_f_a > c5_c_b) {
-      c5_overflow = false;
-    } else {
-      c5_overflow = (c5_c_b > 2147483632);
-    }
-
-    if (c5_overflow) {
-      c5_c_st.site = &c5_dh_emlrtRSI;
-      c5_check_forloop_overflow_error(chartInstance, &c5_c_st);
-    }
-
-    c5_ix = c5_i1 - 1;
-    c5_exitg1 = false;
-    while ((!c5_exitg1) && (c5_ix + 1 <= c5_i2)) {
-      if (c5_c_x[c5_ix] == 0.0) {
-        c5_d_b = true;
-      } else {
-        c5_d_x = c5_c_x[c5_ix];
-        c5_e_b = muDoubleScalarIsNaN(c5_d_x);
-        if (c5_e_b) {
-          c5_d_b = true;
-        } else {
-          c5_d_b = false;
-        }
-      }
-
-      if (!c5_d_b) {
-        c5_e_y[c5_iy] = true;
-        c5_exitg1 = true;
-      } else {
-        c5_ix += 15;
-      }
-    }
-  }
-}
-
-static void c5_c_any(SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance,
-                     const emlrtStack *c5_sp, boolean_T c5_c_x[15], boolean_T
-                     c5_e_y[5])
-{
-  emlrtStack c5_b_st;
-  emlrtStack c5_c_st;
-  emlrtStack c5_st;
-  int32_T c5_b_a;
-  int32_T c5_b_b;
-  int32_T c5_c_a;
-  int32_T c5_c_b;
-  int32_T c5_d_a;
-  int32_T c5_e_a;
-  int32_T c5_f_a;
-  int32_T c5_i;
-  int32_T c5_i1;
-  int32_T c5_i2;
-  int32_T c5_ix;
-  int32_T c5_iy;
-  int32_T c5_j;
-  boolean_T c5_d_b;
-  boolean_T c5_exitg1;
-  boolean_T c5_overflow;
-  c5_st.prev = c5_sp;
-  c5_st.tls = c5_sp->tls;
-  c5_st.site = &c5_bh_emlrtRSI;
-  c5_b_st.prev = &c5_st;
-  c5_b_st.tls = c5_st.tls;
-  c5_c_st.prev = &c5_b_st;
-  c5_c_st.tls = c5_b_st.tls;
-  for (c5_i = 0; c5_i < 5; c5_i++) {
-    c5_e_y[c5_i] = false;
-  }
-
-  c5_iy = -1;
-  c5_i1 = 0;
-  c5_i2 = 10;
-  for (c5_j = 0; c5_j < 5; c5_j++) {
-    c5_b_a = c5_i1 + 1;
-    c5_i1 = c5_b_a;
-    c5_c_a = c5_i2 + 1;
-    c5_i2 = c5_c_a;
-    c5_d_a = c5_iy + 1;
-    c5_iy = c5_d_a;
-    c5_b_st.site = &c5_ch_emlrtRSI;
-    c5_e_a = c5_i1;
-    c5_b_b = c5_i2;
-    c5_f_a = c5_e_a;
-    c5_c_b = c5_b_b;
-    if (c5_f_a > c5_c_b) {
-      c5_overflow = false;
-    } else {
-      c5_overflow = (c5_c_b > 2147483642);
-    }
-
-    if (c5_overflow) {
-      c5_c_st.site = &c5_dh_emlrtRSI;
-      c5_check_forloop_overflow_error(chartInstance, &c5_c_st);
-    }
-
-    c5_ix = c5_i1;
-    c5_exitg1 = false;
-    while ((!c5_exitg1) && (c5_ix <= c5_i2)) {
-      if (!c5_c_x[c5_ix - 1]) {
-        c5_d_b = true;
-      } else {
-        c5_d_b = false;
-      }
-
-      if (!c5_d_b) {
-        c5_e_y[c5_iy] = true;
-        c5_exitg1 = true;
-      } else {
-        c5_ix += 5;
-      }
-    }
-  }
-}
-
-static void c5_eml_find(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, boolean_T c5_c_x[5], int32_T c5_i_data[], int32_T c5_i_size[1])
-{
-  int32_T c5_b_ii;
-  int32_T c5_i;
-  int32_T c5_idx;
-  int32_T c5_ii;
-  boolean_T c5_b_b;
-  boolean_T c5_exitg1;
-  c5_idx = 0;
-  c5_ii = 1;
-  c5_exitg1 = false;
-  while ((!c5_exitg1) && (c5_ii - 1 < 5)) {
-    c5_b_ii = c5_ii;
-    if (c5_c_x[c5_b_ii - 1]) {
-      c5_idx++;
-      c5_i_data[c5_idx - 1] = c5_b_ii;
-      if (c5_idx >= 5) {
-        c5_exitg1 = true;
-      } else {
-        c5_ii++;
-      }
-    } else {
-      c5_ii++;
-    }
-  }
-
-  c5_b_b = (c5_idx < 1);
-  if (c5_b_b) {
-    c5_i = 0;
-  } else {
-    c5_i = c5_idx;
-  }
-
-  c5_indexShapeCheck(chartInstance);
-  c5_i_size[0] = c5_i;
-}
-
-static void c5_b_minimum(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, real_T c5_c_x[3], real_T *c5_ex, int32_T *c5_idx)
-{
-  real_T c5_b_ex;
-  real_T c5_c_ex;
-  real_T c5_d_ex;
-  real_T c5_d_x;
-  real_T c5_e_x;
-  real_T c5_f_x;
-  real_T c5_g_x;
-  int32_T c5_b_idx;
-  int32_T c5_b_k;
-  int32_T c5_c_idx;
-  int32_T c5_d_idx;
-  int32_T c5_first;
-  int32_T c5_i;
-  int32_T c5_k;
-  boolean_T c5_b_b;
-  boolean_T c5_b_p;
-  boolean_T c5_c_b;
-  boolean_T c5_exitg1;
-  boolean_T c5_p;
-  (void)chartInstance;
-  c5_d_x = c5_c_x[0];
-  c5_e_x = c5_d_x;
-  c5_b_b = muDoubleScalarIsNaN(c5_e_x);
-  c5_p = !c5_b_b;
-  if (c5_p) {
-    c5_b_idx = 1;
-  } else {
-    c5_b_idx = 0;
-    c5_k = 2;
-    c5_exitg1 = false;
-    while ((!c5_exitg1) && (c5_k < 4)) {
-      c5_f_x = c5_c_x[c5_k - 1];
-      c5_g_x = c5_f_x;
-      c5_c_b = muDoubleScalarIsNaN(c5_g_x);
-      c5_b_p = !c5_c_b;
-      if (c5_b_p) {
-        c5_b_idx = c5_k;
-        c5_exitg1 = true;
-      } else {
-        c5_k++;
-      }
-    }
-  }
-
-  if (c5_b_idx == 0) {
-    c5_b_ex = c5_c_x[0];
-    c5_b_idx = 1;
-  } else {
-    c5_first = c5_b_idx;
-    c5_c_ex = c5_c_x[c5_first - 1];
-    c5_c_idx = c5_first;
-    c5_i = c5_first;
-    for (c5_b_k = c5_i + 1; c5_b_k < 4; c5_b_k++) {
-      if (c5_c_ex > c5_c_x[c5_b_k - 1]) {
-        c5_c_ex = c5_c_x[c5_b_k - 1];
-        c5_c_idx = c5_b_k;
-      }
-    }
-
-    c5_b_ex = c5_c_ex;
-    c5_b_idx = c5_c_idx;
-  }
-
-  c5_d_ex = c5_b_ex;
-  c5_d_idx = c5_b_idx;
-  *c5_ex = c5_d_ex;
-  *c5_idx = c5_d_idx;
-}
-
 static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const emlrtStack *c5_sp, boolean_T c5_g_logical_map[213200],
+  *chartInstance, const emlrtStack *c5_sp, boolean_T c5_h_logical_map[213200],
   real_T c5_start[2], real_T c5_goal[2], c5_s_Y7g3XIg0UrmNkIXtokcBk *c5_out_path)
 {
   c5_coder_array_real_T_2D c5_b_grid_path;
@@ -13644,7 +13015,7 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
   c5_array_real_T_2D_Constructor(chartInstance, &c5_grid_path);
   c5_array_real_T_2D_Constructor(chartInstance, &c5_path);
   chartInstance->c5_numFcnVars = 7U;
-  chartInstance->c5_fcnDataPtrs[0] = (void *)c5_g_logical_map;
+  chartInstance->c5_fcnDataPtrs[0] = (void *)c5_h_logical_map;
   chartInstance->c5_fcnDataPtrs[1] = (void *)c5_start;
   chartInstance->c5_fcnDataPtrs[2] = (void *)c5_goal;
   chartInstance->c5_fcnDataPtrs[3] = (void *)&c5_path_start;
@@ -13709,20 +13080,20 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 4);
   }
 
-  c5_st.site = &c5_m_emlrtRSI;
+  c5_st.site = &c5_o_emlrtRSI;
   for (c5_i = 0; c5_i < 213200; c5_i++) {
-    chartInstance->c5_e_logical_map[c5_i] = c5_g_logical_map[c5_i];
+    chartInstance->c5_f_logical_map[c5_i] = c5_h_logical_map[c5_i];
   }
 
   c5_binaryOccupancyMap_binaryOccupancyMap(chartInstance,
-    &chartInstance->c5_b_occupancy_map, chartInstance->c5_e_logical_map);
+    &chartInstance->c5_b_occupancy_map, chartInstance->c5_f_logical_map);
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 5);
   }
 
-  c5_st.site = &c5_n_emlrtRSI;
+  c5_st.site = &c5_p_emlrtRSI;
   c5_binaryOccupancyMap_inflate(chartInstance, &c5_st,
     &chartInstance->c5_b_occupancy_map);
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
@@ -13733,7 +13104,7 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
 
   c5_b_start[0] = c5_start[0];
   c5_b_start[1] = c5_start[1];
-  c5_st.site = &c5_o_emlrtRSI;
+  c5_st.site = &c5_q_emlrtRSI;
   c5_b_MapInterface_world2grid(chartInstance, &chartInstance->c5_b_occupancy_map,
     c5_b_start, c5_b_dv);
   for (c5_i1 = 0; c5_i1 < 2; c5_i1++) {
@@ -13748,7 +13119,7 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
 
   c5_b_goal[0] = c5_goal[0];
   c5_b_goal[1] = c5_goal[1];
-  c5_st.site = &c5_p_emlrtRSI;
+  c5_st.site = &c5_r_emlrtRSI;
   c5_b_MapInterface_world2grid(chartInstance, &chartInstance->c5_b_occupancy_map,
     c5_b_goal, c5_dv1);
   for (c5_i2 = 0; c5_i2 < 2; c5_i2++) {
@@ -13761,7 +13132,7 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
     sfListenerReportLineNumber(chartInstance->c5_RuntimeVar, 0, 11);
   }
 
-  c5_st.site = &c5_q_emlrtRSI;
+  c5_st.site = &c5_s_emlrtRSI;
   c5_plannerAStarGrid_plannerAStarGrid(chartInstance, &c5_st,
     &chartInstance->c5_b_planner, &chartInstance->c5_b_occupancy_map);
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
@@ -13795,10 +13166,10 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
   }
 
   c5_array_real_T_2D_Constructor(chartInstance, &c5_r);
-  c5_st.site = &c5_r_emlrtRSI;
+  c5_st.site = &c5_t_emlrtRSI;
   c5_plannerAStarGrid_plan(chartInstance, &c5_st, &chartInstance->c5_b_planner,
     c5_c_x, c5_e_x, &c5_r);
-  c5_st.site = &c5_r_emlrtRSI;
+  c5_st.site = &c5_t_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_grid_path,
     &c5_g_emlrtRTEI, c5_r.size[0], c5_r.size[1]);
   c5_loop_ub = c5_r.size[0] * c5_r.size[1] - 1;
@@ -13808,8 +13179,8 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
 
   c5_array_real_T_2D_Destructor(chartInstance, &c5_r);
   sfListenerPushScopeForDynamicMatricesJitOff(chartInstance->c5_RuntimeVar, 0U,
-    "grid_path", &c5_grid_path, (void *)&c5_sf_marshallOut_dynamicmatrix_3,
-    (void *)&c5_sf_marshallIn_dynamicmatrix_3, 0U);
+    "grid_path", &c5_grid_path, (void *)&c5_sf_marshallOut_dynamicmatrix_1,
+    (void *)&c5_sf_marshallIn_dynamicmatrix_1, 0U);
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
@@ -13817,7 +13188,7 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
   }
 
   c5_array_real_T_2D_Constructor(chartInstance, &c5_b_grid_path);
-  c5_st.site = &c5_s_emlrtRSI;
+  c5_st.site = &c5_u_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_b_grid_path,
     &c5_h_emlrtRTEI, c5_grid_path.size[0], c5_grid_path.size[1]);
   c5_b_loop_ub = c5_grid_path.size[0] * c5_grid_path.size[1] - 1;
@@ -13826,11 +13197,11 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
   }
 
   c5_array_real_T_2D_Constructor(chartInstance, &c5_r1);
-  c5_st.site = &c5_s_emlrtRSI;
+  c5_st.site = &c5_u_emlrtRSI;
   c5_MapInterface_grid2world(chartInstance, &c5_st,
     &chartInstance->c5_b_occupancy_map, &c5_b_grid_path, &c5_r1);
   c5_array_real_T_2D_Destructor(chartInstance, &c5_b_grid_path);
-  c5_st.site = &c5_s_emlrtRSI;
+  c5_st.site = &c5_u_emlrtRSI;
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, &c5_path, &c5_i_emlrtRTEI,
     c5_r1.size[0], 2);
   c5_c_loop_ub = c5_r1.size[0] * c5_r1.size[1] - 1;
@@ -13840,8 +13211,8 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
 
   c5_array_real_T_2D_Destructor(chartInstance, &c5_r1);
   sfListenerPushScopeForDynamicMatricesJitOff(chartInstance->c5_RuntimeVar, 0U,
-    "path", &c5_path, (void *)&c5_sf_marshallOut_dynamicmatrix_4, (void *)
-    &c5_sf_marshallIn_dynamicmatrix_4, 0U);
+    "path", &c5_path, (void *)&c5_sf_marshallOut_dynamicmatrix_2, (void *)
+    &c5_sf_marshallIn_dynamicmatrix_2, 0U);
   if ((chartInstance->c5_IsDebuggerActive == 1) ||
       (chartInstance->c5_IsSequenceViewerPresent == 1) ||
       (chartInstance->c5_IsHeatMapPresent == 1)) {
@@ -13895,6 +13266,43 @@ static void c5_b_path_gen(SFc5_sl_groundvehicleDynamicsInstanceStruct
 
   c5_array_real_T_2D_Destructor(chartInstance, &c5_path);
   c5_array_real_T_2D_Destructor(chartInstance, &c5_grid_path);
+}
+
+static real_T c5_mod(SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance,
+                     real_T c5_c_x)
+{
+  real_T c5_b_a;
+  real_T c5_d_x;
+  real_T c5_e_x;
+  real_T c5_f_x;
+  real_T c5_g_x;
+  real_T c5_r;
+  boolean_T c5_b_b;
+  boolean_T c5_c_b;
+  boolean_T c5_rEQ0;
+  (void)chartInstance;
+  c5_b_a = c5_c_x;
+  c5_d_x = c5_b_a;
+  c5_e_x = c5_d_x;
+  c5_f_x = c5_e_x;
+  c5_b_b = muDoubleScalarIsNaN(c5_f_x);
+  if (c5_b_b) {
+    c5_r = rtNaN;
+  } else {
+    c5_g_x = c5_e_x;
+    c5_c_b = muDoubleScalarIsInf(c5_g_x);
+    if (c5_c_b) {
+      c5_r = rtNaN;
+    } else {
+      c5_r = muDoubleScalarRem(c5_e_x, 100.0);
+      c5_rEQ0 = (c5_r == 0.0);
+      if (c5_rEQ0) {
+        c5_r = 0.0;
+      }
+    }
+  }
+
+  return c5_r;
 }
 
 static void c5_handle_matlabCodegenDestructor
@@ -13983,9 +13391,9 @@ const mxArray *sf_c5_sl_groundvehicleDynamics_get_eml_resolved_functions_info
     "789c6360f4f465646060e0638000013608cd0be34369260654802ecf88838601560616147d30f97e289d9c9f57925a5102e1e425e6a6c275a6e4e766e625e695"
     "845416a43214a516e7e794a5a68065d2327352433273538391397e205eae1b92149c039202b19d335293b3834b73198a328a112ecc41e6c0c32301877f590884",
     "073a400f0f747594da07339f03a77d109982c4928cf8f4d43c6ad9c786d33e884c4a7e69524e2ac27f2b28b4cf1da77da8f2d1aeb1ce5631a1c5a945c531ce89"
-    "b9312ef9c9a5b9a97925c531be8e213e8e4e31a00457949f135f945a901fe3585a921f5c595c929a5b6c626216030b24bd5c82f1c24fa4bb71e50b5e68bc78ca",
-    "dc064bd1cbbedd367d26f4b40f0606cabe0a1ce6119beec470d82780261fea975765989ce5ed926591ef51e169e0ed126012e982704700017b08b98301079fd6"
-    "e60300a3f658e1", "" };
+    "b9312ef9c9a5b9a97925c531be8e213e8e4e31a00457949f135f945a901fe3585a921f5c595c929a5b6c626216030b24bd5c82f1c24fa4bb71e50b5e68bcc4c9",
+    "dc064bd1cbbec8eced2be8691f0c0c947d1538cc2336dd89e1b04f004d3ed42fafca3039cbdb25cb22dfa3c2d3c0db25c024d205e18e0002f6107207030e3ead"
+    "cd0700c1285960", "" };
 
   c5_nameCaptureInfo = NULL;
   emlrtNameCaptureMxArrayR2016a(&c5_data[0], 1576U, &c5_nameCaptureInfo);
@@ -14143,7 +13551,7 @@ static void c5_sf_marshallIn_real_T_persistent(void *chartInstanceVoid, const
     chartInstanceVoid;
   c5_nullptr = sf_mex_dup(c5_mxArrayInData);
   c5_identifier = c5_varName;
-  c5_svPtr = &chartInstance->c5_future_wp_idx_not_empty;
+  c5_svPtr = &chartInstance->c5_timer_not_empty;
   c5_thisId.fIdentifier = (const char_T *)c5_identifier;
   c5_thisId.fParent = NULL;
   c5_thisId.bParentIsCell = false;
@@ -14376,213 +13784,6 @@ static void c5_sf_marshallIn_matrix410x520_boolean_T(void *chartInstanceVoid,
   sf_mex_destroy(&c5_mxArrayInData);
 }
 
-static const mxArray *c5_sf_marshallOut_matrix30_real_T(void *chartInstanceVoid,
-  void *c5_inData)
-{
-  SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
-  const mxArray *c5_e_y = NULL;
-  const mxArray *c5_mxArrayOutData;
-  real_T c5_b_u[30];
-  int32_T c5_i;
-  chartInstance = (SFc5_sl_groundvehicleDynamicsInstanceStruct *)
-    chartInstanceVoid;
-  c5_mxArrayOutData = NULL;
-  c5_mxArrayOutData = NULL;
-  for (c5_i = 0; c5_i < 30; c5_i++) {
-    c5_b_u[c5_i] = (*(real_T (*)[30])c5_inData)[c5_i];
-  }
-
-  c5_e_y = NULL;
-  sf_mex_assign(&c5_e_y, sf_mex_create("y", c5_b_u, 0, 0U, 1, 0U, 1, 30), false);
-  sf_mex_assign(&c5_mxArrayOutData, c5_e_y, false);
-  return c5_mxArrayOutData;
-}
-
-static void c5_k_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
-  real_T c5_e_y[30])
-{
-  real_T c5_b_dv[30];
-  int32_T c5_i;
-  (void)chartInstance;
-  sf_mex_import(c5_parentId, sf_mex_dup(c5_b_u), c5_b_dv, 1, 0, 0U, 1, 0U, 1, 30);
-  for (c5_i = 0; c5_i < 30; c5_i++) {
-    c5_e_y[c5_i] = c5_b_dv[c5_i];
-  }
-
-  sf_mex_destroy(&c5_b_u);
-}
-
-static void c5_sf_marshallIn_matrix30_real_T(void *chartInstanceVoid, const
-  mxArray *c5_mxArrayInData, const char_T *c5_varName, void *c5_outData)
-{
-  SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
-  emlrtMsgIdentifier c5_thisId;
-  const mxArray *c5_nullptr;
-  real_T c5_e_y[30];
-  int32_T c5_i;
-  const char_T *c5_identifier;
-  chartInstance = (SFc5_sl_groundvehicleDynamicsInstanceStruct *)
-    chartInstanceVoid;
-  c5_nullptr = sf_mex_dup(c5_mxArrayInData);
-  c5_identifier = c5_varName;
-  c5_thisId.fIdentifier = (const char_T *)c5_identifier;
-  c5_thisId.fParent = NULL;
-  c5_thisId.bParentIsCell = false;
-  c5_k_emlrt_marshallIn(chartInstance, sf_mex_dup(c5_nullptr), &c5_thisId,
-                        c5_e_y);
-  sf_mex_destroy(&c5_nullptr);
-  for (c5_i = 0; c5_i < 30; c5_i++) {
-    (*(real_T (*)[30])c5_outData)[c5_i] = c5_e_y[c5_i];
-  }
-
-  sf_mex_destroy(&c5_mxArrayInData);
-}
-
-static const mxArray *c5_sf_marshallOut_matrix30x1_real_T(void
-  *chartInstanceVoid, void *c5_inData)
-{
-  SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
-  const mxArray *c5_e_y = NULL;
-  const mxArray *c5_mxArrayOutData;
-  real_T c5_b_u[30];
-  int32_T c5_i;
-  chartInstance = (SFc5_sl_groundvehicleDynamicsInstanceStruct *)
-    chartInstanceVoid;
-  c5_mxArrayOutData = NULL;
-  c5_mxArrayOutData = NULL;
-  for (c5_i = 0; c5_i < 30; c5_i++) {
-    c5_b_u[c5_i] = (*(real_T (*)[30])c5_inData)[c5_i];
-  }
-
-  c5_e_y = NULL;
-  sf_mex_assign(&c5_e_y, sf_mex_create("y", c5_b_u, 0, 0U, 1, 0U, 2, 30, 1),
-                false);
-  sf_mex_assign(&c5_mxArrayOutData, c5_e_y, false);
-  return c5_mxArrayOutData;
-}
-
-static void c5_l_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
-  real_T c5_e_y[30])
-{
-  real_T c5_b_dv[30];
-  int32_T c5_i;
-  (void)chartInstance;
-  sf_mex_import(c5_parentId, sf_mex_dup(c5_b_u), c5_b_dv, 1, 0, 0U, 1, 0U, 2, 30,
-                1);
-  for (c5_i = 0; c5_i < 30; c5_i++) {
-    c5_e_y[c5_i] = c5_b_dv[c5_i];
-  }
-
-  sf_mex_destroy(&c5_b_u);
-}
-
-static void c5_sf_marshallIn_matrix30x1_real_T(void *chartInstanceVoid, const
-  mxArray *c5_mxArrayInData, const char_T *c5_varName, void *c5_outData)
-{
-  SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
-  emlrtMsgIdentifier c5_thisId;
-  const mxArray *c5_nullptr;
-  real_T c5_e_y[30];
-  int32_T c5_i;
-  const char_T *c5_identifier;
-  chartInstance = (SFc5_sl_groundvehicleDynamicsInstanceStruct *)
-    chartInstanceVoid;
-  c5_nullptr = sf_mex_dup(c5_mxArrayInData);
-  c5_identifier = c5_varName;
-  c5_thisId.fIdentifier = (const char_T *)c5_identifier;
-  c5_thisId.fParent = NULL;
-  c5_thisId.bParentIsCell = false;
-  c5_l_emlrt_marshallIn(chartInstance, sf_mex_dup(c5_nullptr), &c5_thisId,
-                        c5_e_y);
-  sf_mex_destroy(&c5_nullptr);
-  for (c5_i = 0; c5_i < 30; c5_i++) {
-    (*(real_T (*)[30])c5_outData)[c5_i] = c5_e_y[c5_i];
-  }
-
-  sf_mex_destroy(&c5_mxArrayInData);
-}
-
-static const mxArray *c5_sf_marshallOut_matrix5x3_real_T(void *chartInstanceVoid,
-  void *c5_inData)
-{
-  SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
-  const mxArray *c5_e_y = NULL;
-  const mxArray *c5_mxArrayOutData;
-  real_T c5_b_u[15];
-  int32_T c5_i;
-  int32_T c5_i1;
-  int32_T c5_i2;
-  chartInstance = (SFc5_sl_groundvehicleDynamicsInstanceStruct *)
-    chartInstanceVoid;
-  c5_mxArrayOutData = NULL;
-  c5_mxArrayOutData = NULL;
-  c5_i = 0;
-  for (c5_i1 = 0; c5_i1 < 3; c5_i1++) {
-    for (c5_i2 = 0; c5_i2 < 5; c5_i2++) {
-      c5_b_u[c5_i2 + c5_i] = (*(real_T (*)[15])c5_inData)[c5_i2 + c5_i];
-    }
-
-    c5_i += 5;
-  }
-
-  c5_e_y = NULL;
-  sf_mex_assign(&c5_e_y, sf_mex_create("y", c5_b_u, 0, 0U, 1, 0U, 2, 5, 3),
-                false);
-  sf_mex_assign(&c5_mxArrayOutData, c5_e_y, false);
-  return c5_mxArrayOutData;
-}
-
-static void c5_m_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
-  real_T c5_e_y[15])
-{
-  real_T c5_b_dv[15];
-  int32_T c5_i;
-  (void)chartInstance;
-  sf_mex_import(c5_parentId, sf_mex_dup(c5_b_u), c5_b_dv, 1, 0, 0U, 1, 0U, 2, 5,
-                3);
-  for (c5_i = 0; c5_i < 15; c5_i++) {
-    c5_e_y[c5_i] = c5_b_dv[c5_i];
-  }
-
-  sf_mex_destroy(&c5_b_u);
-}
-
-static void c5_sf_marshallIn_matrix5x3_real_T(void *chartInstanceVoid, const
-  mxArray *c5_mxArrayInData, const char_T *c5_varName, void *c5_outData)
-{
-  SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
-  emlrtMsgIdentifier c5_thisId;
-  const mxArray *c5_nullptr;
-  real_T c5_e_y[15];
-  int32_T c5_i;
-  int32_T c5_i1;
-  int32_T c5_i2;
-  const char_T *c5_identifier;
-  chartInstance = (SFc5_sl_groundvehicleDynamicsInstanceStruct *)
-    chartInstanceVoid;
-  c5_nullptr = sf_mex_dup(c5_mxArrayInData);
-  c5_identifier = c5_varName;
-  c5_thisId.fIdentifier = (const char_T *)c5_identifier;
-  c5_thisId.fParent = NULL;
-  c5_thisId.bParentIsCell = false;
-  c5_m_emlrt_marshallIn(chartInstance, sf_mex_dup(c5_nullptr), &c5_thisId,
-                        c5_e_y);
-  sf_mex_destroy(&c5_nullptr);
-  c5_i = 0;
-  for (c5_i1 = 0; c5_i1 < 3; c5_i1++) {
-    for (c5_i2 = 0; c5_i2 < 5; c5_i2++) {
-      (*(real_T (*)[15])c5_outData)[c5_i2 + c5_i] = c5_e_y[c5_i2 + c5_i];
-    }
-
-    c5_i += 5;
-  }
-
-  sf_mex_destroy(&c5_mxArrayInData);
-}
-
 static const mxArray *c5_sf_marshallOut_real_T_1(void *chartInstanceVoid, void
   *c5_inData)
 {
@@ -14646,7 +13847,7 @@ static const mxArray *c5_sf_marshallOut_matrix1x2_real_T(void *chartInstanceVoid
   return c5_mxArrayOutData;
 }
 
-static void c5_n_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
+static void c5_k_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
   real_T c5_e_y[2])
 {
@@ -14678,7 +13879,7 @@ static void c5_sf_marshallIn_matrix1x2_real_T(void *chartInstanceVoid, const
   c5_thisId.fIdentifier = (const char_T *)c5_identifier;
   c5_thisId.fParent = NULL;
   c5_thisId.bParentIsCell = false;
-  c5_n_emlrt_marshallIn(chartInstance, sf_mex_dup(c5_nullptr), &c5_thisId,
+  c5_k_emlrt_marshallIn(chartInstance, sf_mex_dup(c5_nullptr), &c5_thisId,
                         c5_e_y);
   sf_mex_destroy(&c5_nullptr);
   for (c5_i = 0; c5_i < 2; c5_i++) {
@@ -14749,7 +13950,7 @@ static const mxArray *c5_sf_marshallOut_s_Y7g3XIg0UrmNkIXtokcBk(void
   return c5_mxArrayOutData;
 }
 
-static void c5_o_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
+static void c5_l_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_b_u, const
   emlrtMsgIdentifier *c5_parentId, c5_s_Y7g3XIg0UrmNkIXtokcBk *c5_e_y)
 {
@@ -14760,15 +13961,15 @@ static void c5_o_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   c5_thisId.bParentIsCell = false;
   sf_mex_check_struct(c5_parentId, c5_b_u, 2, &c5_fieldNames[0], 0U, NULL);
   c5_thisId.fIdentifier = "x";
-  c5_p_emlrt_marshallIn(chartInstance, c5_sp, sf_mex_dup(sf_mex_getfield(c5_b_u,
+  c5_m_emlrt_marshallIn(chartInstance, c5_sp, sf_mex_dup(sf_mex_getfield(c5_b_u,
     "x", "x", 0)), &c5_thisId, &c5_e_y->x);
   c5_thisId.fIdentifier = "y";
-  c5_p_emlrt_marshallIn(chartInstance, c5_sp, sf_mex_dup(sf_mex_getfield(c5_b_u,
+  c5_m_emlrt_marshallIn(chartInstance, c5_sp, sf_mex_dup(sf_mex_getfield(c5_b_u,
     "y", "y", 0)), &c5_thisId, &c5_e_y->y);
   sf_mex_destroy(&c5_b_u);
 }
 
-static void c5_p_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
+static void c5_m_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_b_u, const
   emlrtMsgIdentifier *c5_parentId, c5_coder_array_real_T *c5_e_y)
 {
@@ -14818,7 +14019,7 @@ static void c5_sf_marshallIn_s_Y7g3XIg0UrmNkIXtokcBk(void *chartInstanceVoid,
   c5_thisId.fParent = NULL;
   c5_thisId.bParentIsCell = false;
   c5_array_s_Y7g3XIg0UrmNkIXtokcBk_C(chartInstance, &c5_e_y);
-  c5_o_emlrt_marshallIn(chartInstance, &c5_st, sf_mex_dup(c5_nullptr),
+  c5_l_emlrt_marshallIn(chartInstance, &c5_st, sf_mex_dup(c5_nullptr),
                         &c5_thisId, &c5_e_y);
   sf_mex_destroy(&c5_nullptr);
   c5_b_array_s_Y7g3XIg0UrmNkIXtokcBk_C(chartInstance, &c5_st, c5_outData,
@@ -14828,189 +14029,6 @@ static void c5_sf_marshallIn_s_Y7g3XIg0UrmNkIXtokcBk(void *chartInstanceVoid,
 }
 
 static const mxArray *c5_sf_marshallOut_dynamicmatrix_1(void *chartInstanceVoid,
-  real_T c5_inData_data[], int32_T c5_inData_size[1])
-{
-  SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
-  const mxArray *c5_e_y = NULL;
-  const mxArray *c5_mxArrayOutData;
-  real_T c5_u_data[5];
-  int32_T c5_u_size[1];
-  int32_T c5_i;
-  int32_T c5_loop_ub;
-  chartInstance = (SFc5_sl_groundvehicleDynamicsInstanceStruct *)
-    chartInstanceVoid;
-  c5_mxArrayOutData = NULL;
-  c5_mxArrayOutData = NULL;
-  c5_u_size[0] = c5_inData_size[0];
-  c5_loop_ub = c5_inData_size[0] - 1;
-  for (c5_i = 0; c5_i <= c5_loop_ub; c5_i++) {
-    c5_u_data[c5_i] = c5_inData_data[c5_i];
-  }
-
-  c5_e_y = NULL;
-  sf_mex_assign(&c5_e_y, sf_mex_create("y", &c5_u_data, 0, 0U, 1, 0U, 1,
-    c5_u_size[0]), false);
-  sf_mex_assign(&c5_mxArrayOutData, c5_e_y, false);
-  return c5_mxArrayOutData;
-}
-
-static void c5_q_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
-  real_T c5_y_data[], int32_T c5_y_size[1])
-{
-  real_T c5_tmp_data[5];
-  int32_T c5_iv[1];
-  int32_T c5_tmp_size[1];
-  int32_T c5_i;
-  int32_T c5_loop_ub;
-  boolean_T c5_b_bv[1];
-  (void)chartInstance;
-  c5_iv[0] = 5;
-  c5_tmp_size[0] = sf_mex_get_dimension(c5_b_u, 0);
-  c5_b_bv[0] = true;
-  sf_mex_import_vs(c5_parentId, sf_mex_dup(c5_b_u), &c5_tmp_data, 1, 0, 0U, 1,
-                   0U, 1, c5_b_bv, c5_iv, c5_tmp_size);
-  c5_y_size[0] = c5_tmp_size[0];
-  c5_loop_ub = c5_tmp_size[0] - 1;
-  for (c5_i = 0; c5_i <= c5_loop_ub; c5_i++) {
-    c5_y_data[c5_i] = c5_tmp_data[c5_i];
-  }
-
-  sf_mex_destroy(&c5_b_u);
-}
-
-static void c5_sf_marshallIn_dynamicmatrix_1(void *chartInstanceVoid, const
-  mxArray *c5_mxArrayInData, const char_T *c5_varName, real_T c5_outData_data[],
-  int32_T c5_outData_size[1])
-{
-  SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
-  emlrtMsgIdentifier c5_thisId;
-  const mxArray *c5_nullptr;
-  real_T c5_y_data[5];
-  int32_T c5_y_size[1];
-  int32_T c5_i;
-  int32_T c5_loop_ub;
-  const char_T *c5_identifier;
-  chartInstance = (SFc5_sl_groundvehicleDynamicsInstanceStruct *)
-    chartInstanceVoid;
-  c5_nullptr = sf_mex_dup(c5_mxArrayInData);
-  c5_identifier = c5_varName;
-  c5_thisId.fIdentifier = (const char_T *)c5_identifier;
-  c5_thisId.fParent = NULL;
-  c5_thisId.bParentIsCell = false;
-  c5_q_emlrt_marshallIn(chartInstance, sf_mex_dup(c5_nullptr), &c5_thisId,
-                        c5_y_data, c5_y_size);
-  sf_mex_destroy(&c5_nullptr);
-  c5_outData_size[0] = c5_y_size[0];
-  c5_loop_ub = c5_y_size[0] - 1;
-  for (c5_i = 0; c5_i <= c5_loop_ub; c5_i++) {
-    c5_outData_data[c5_i] = c5_y_data[c5_i];
-  }
-
-  sf_mex_destroy(&c5_mxArrayInData);
-}
-
-static const mxArray *c5_sf_marshallOut_dynamicmatrix_2(void *chartInstanceVoid,
-  real_T c5_inData_data[], int32_T c5_inData_size[2])
-{
-  SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
-  const mxArray *c5_e_y = NULL;
-  const mxArray *c5_mxArrayOutData;
-  real_T c5_u_data[15];
-  int32_T c5_u_size[2];
-  int32_T c5_i;
-  int32_T c5_loop_ub;
-  chartInstance = (SFc5_sl_groundvehicleDynamicsInstanceStruct *)
-    chartInstanceVoid;
-  c5_mxArrayOutData = NULL;
-  c5_mxArrayOutData = NULL;
-  c5_u_size[0] = c5_inData_size[0];
-  c5_loop_ub = c5_inData_size[0] * 3 - 1;
-  for (c5_i = 0; c5_i <= c5_loop_ub; c5_i++) {
-    c5_u_data[c5_i] = c5_inData_data[c5_i];
-  }
-
-  c5_e_y = NULL;
-  sf_mex_assign(&c5_e_y, sf_mex_create("y", &c5_u_data, 0, 0U, 1, 0U, 2,
-    c5_u_size[0], 3), false);
-  sf_mex_assign(&c5_mxArrayOutData, c5_e_y, false);
-  return c5_mxArrayOutData;
-}
-
-static void c5_r_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
-  *chartInstance, const mxArray *c5_b_u, const emlrtMsgIdentifier *c5_parentId,
-  real_T c5_y_data[], int32_T c5_y_size[2])
-{
-  static boolean_T c5_bv1[2] = { true, false };
-
-  real_T c5_tmp_data[15];
-  int32_T c5_iv[2];
-  int32_T c5_tmp_size[2];
-  int32_T c5_i;
-  int32_T c5_i1;
-  int32_T c5_i2;
-  int32_T c5_loop_ub;
-  boolean_T c5_b_bv[2];
-  (void)chartInstance;
-  for (c5_i = 0; c5_i < 2; c5_i++) {
-    c5_iv[c5_i] = 5 + -2 * c5_i;
-  }
-
-  c5_tmp_size[0] = sf_mex_get_dimension(c5_b_u, 0);
-  c5_tmp_size[1] = sf_mex_get_dimension(c5_b_u, 1);
-  for (c5_i1 = 0; c5_i1 < 2; c5_i1++) {
-    c5_b_bv[c5_i1] = c5_bv1[c5_i1];
-  }
-
-  sf_mex_import_vs(c5_parentId, sf_mex_dup(c5_b_u), &c5_tmp_data, 1, 0, 0U, 1,
-                   0U, 2, c5_b_bv, c5_iv, c5_tmp_size);
-  c5_y_size[0] = c5_tmp_size[0];
-  c5_y_size[1] = 3;
-  c5_loop_ub = c5_tmp_size[0] * 3 - 1;
-  for (c5_i2 = 0; c5_i2 <= c5_loop_ub; c5_i2++) {
-    c5_y_data[c5_i2] = c5_tmp_data[c5_i2];
-  }
-
-  sf_mex_destroy(&c5_b_u);
-}
-
-static void c5_sf_marshallIn_dynamicmatrix_2(void *chartInstanceVoid, const
-  mxArray *c5_mxArrayInData, const char_T *c5_varName, real_T c5_outData_data[],
-  int32_T c5_outData_size[2])
-{
-  SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
-  emlrtMsgIdentifier c5_thisId;
-  const mxArray *c5_nullptr;
-  real_T c5_y_data[15];
-  int32_T c5_y_size[2];
-  int32_T c5_i;
-  int32_T c5_i1;
-  int32_T c5_loop_ub;
-  const char_T *c5_identifier;
-  chartInstance = (SFc5_sl_groundvehicleDynamicsInstanceStruct *)
-    chartInstanceVoid;
-  c5_nullptr = sf_mex_dup(c5_mxArrayInData);
-  c5_identifier = c5_varName;
-  c5_thisId.fIdentifier = (const char_T *)c5_identifier;
-  c5_thisId.fParent = NULL;
-  c5_thisId.bParentIsCell = false;
-  c5_r_emlrt_marshallIn(chartInstance, sf_mex_dup(c5_nullptr), &c5_thisId,
-                        c5_y_data, c5_y_size);
-  sf_mex_destroy(&c5_nullptr);
-  c5_outData_size[0] = c5_y_size[0];
-  c5_outData_size[1] = 3;
-  for (c5_i = 0; c5_i < 3; c5_i++) {
-    c5_loop_ub = c5_y_size[0] - 1;
-    for (c5_i1 = 0; c5_i1 <= c5_loop_ub; c5_i1++) {
-      c5_outData_data[c5_i1 + c5_outData_size[0] * c5_i] = c5_y_data[c5_i1 +
-        c5_y_size[0] * c5_i];
-    }
-  }
-
-  sf_mex_destroy(&c5_mxArrayInData);
-}
-
-static const mxArray *c5_sf_marshallOut_dynamicmatrix_3(void *chartInstanceVoid,
   c5_coder_array_real_T_2D *c5_inData)
 {
   SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
@@ -15045,7 +14063,7 @@ static const mxArray *c5_sf_marshallOut_dynamicmatrix_3(void *chartInstanceVoid,
   return c5_mxArrayOutData;
 }
 
-static void c5_s_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
+static void c5_n_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_b_u, const
   emlrtMsgIdentifier *c5_parentId, c5_coder_array_real_T_2D *c5_e_y)
 {
@@ -15080,7 +14098,7 @@ static void c5_s_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   c5_array_real_T_2D_Destructor(chartInstance, &c5_r);
 }
 
-static void c5_sf_marshallIn_dynamicmatrix_3(void *chartInstanceVoid, const
+static void c5_sf_marshallIn_dynamicmatrix_1(void *chartInstanceVoid, const
   mxArray *c5_mxArrayInData, const char_T *c5_varName, c5_coder_array_real_T_2D *
   c5_outData)
 {
@@ -15107,7 +14125,7 @@ static void c5_sf_marshallIn_dynamicmatrix_3(void *chartInstanceVoid, const
   c5_thisId.fIdentifier = (const char_T *)c5_identifier;
   c5_thisId.fParent = NULL;
   c5_thisId.bParentIsCell = false;
-  c5_s_emlrt_marshallIn(chartInstance, &c5_st, sf_mex_dup(c5_nullptr),
+  c5_n_emlrt_marshallIn(chartInstance, &c5_st, sf_mex_dup(c5_nullptr),
                         &c5_thisId, &c5_e_y);
   sf_mex_destroy(&c5_nullptr);
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, c5_outData, (emlrtRTEInfo *)
@@ -15125,7 +14143,7 @@ static void c5_sf_marshallIn_dynamicmatrix_3(void *chartInstanceVoid, const
   sf_mex_destroy(&c5_mxArrayInData);
 }
 
-static const mxArray *c5_sf_marshallOut_dynamicmatrix_4(void *chartInstanceVoid,
+static const mxArray *c5_sf_marshallOut_dynamicmatrix_2(void *chartInstanceVoid,
   c5_coder_array_real_T_2D *c5_inData)
 {
   SFc5_sl_groundvehicleDynamicsInstanceStruct *chartInstance;
@@ -15160,7 +14178,7 @@ static const mxArray *c5_sf_marshallOut_dynamicmatrix_4(void *chartInstanceVoid,
   return c5_mxArrayOutData;
 }
 
-static void c5_t_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
+static void c5_o_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_b_u, const
   emlrtMsgIdentifier *c5_parentId, c5_coder_array_real_T_2D *c5_e_y)
 {
@@ -15197,7 +14215,7 @@ static void c5_t_emlrt_marshallIn(SFc5_sl_groundvehicleDynamicsInstanceStruct
   c5_array_real_T_2D_Destructor(chartInstance, &c5_r);
 }
 
-static void c5_sf_marshallIn_dynamicmatrix_4(void *chartInstanceVoid, const
+static void c5_sf_marshallIn_dynamicmatrix_2(void *chartInstanceVoid, const
   mxArray *c5_mxArrayInData, const char_T *c5_varName, c5_coder_array_real_T_2D *
   c5_outData)
 {
@@ -15223,7 +14241,7 @@ static void c5_sf_marshallIn_dynamicmatrix_4(void *chartInstanceVoid, const
   c5_thisId.fIdentifier = (const char_T *)c5_identifier;
   c5_thisId.fParent = NULL;
   c5_thisId.bParentIsCell = false;
-  c5_t_emlrt_marshallIn(chartInstance, &c5_st, sf_mex_dup(c5_nullptr),
+  c5_o_emlrt_marshallIn(chartInstance, &c5_st, sf_mex_dup(c5_nullptr),
                         &c5_thisId, &c5_e_y);
   sf_mex_destroy(&c5_nullptr);
   c5_array_real_T_2D_SetSize(chartInstance, &c5_st, c5_outData, (emlrtRTEInfo *)
@@ -15251,8 +14269,6 @@ static void c5_chart_data_browse_helper
   real_T c5_d4;
   real_T c5_d5;
   real_T c5_d6;
-  real_T c5_d7;
-  real_T c5_d8;
   *c5_mxData = NULL;
   *c5_mxData = NULL;
   *c5_isValueTooBig = 0U;
@@ -15283,60 +14299,33 @@ static void c5_chart_data_browse_helper
                   false);
     break;
 
-   case 14U:
-    sf_mex_assign(c5_mxData, sf_mex_create("mxData",
-      *chartInstance->c5_scan_angles, 0, 0U, 1, 0U, 1, 30), false);
-    break;
-
-   case 13U:
-    sf_mex_assign(c5_mxData, sf_mex_create("mxData", *chartInstance->c5_ranges,
-      0, 0U, 1, 0U, 2, 30, 1), false);
-    break;
-
-   case 16U:
-    sf_mex_assign(c5_mxData, sf_mex_create("mxData",
-      *chartInstance->c5_object_detection, 0, 0U, 1, 0U, 2, 5, 3), false);
-    break;
-
    case 12U:
     c5_d2 = *chartInstance->c5_sigma_dist;
     sf_mex_assign(c5_mxData, sf_mex_create("mxData", &c5_d2, 0, 0U, 0, 0U, 0),
                   false);
     break;
 
-   case 15U:
-    c5_d3 = *chartInstance->c5_min_wall_collision_dist;
+   case 7U:
+    c5_d3 = *chartInstance->c5_b_x;
     sf_mex_assign(c5_mxData, sf_mex_create("mxData", &c5_d3, 0, 0U, 0, 0U, 0),
                   false);
     break;
 
-   case 17U:
-    c5_d4 = *chartInstance->c5_min_obj_collision_dist;
+   case 8U:
+    c5_d4 = *chartInstance->c5_d_y;
     sf_mex_assign(c5_mxData, sf_mex_create("mxData", &c5_d4, 0, 0U, 0, 0U, 0),
                   false);
     break;
 
-   case 7U:
-    c5_d5 = *chartInstance->c5_b_x;
+   case 10U:
+    c5_d5 = *chartInstance->c5_capture_distance;
     sf_mex_assign(c5_mxData, sf_mex_create("mxData", &c5_d5, 0, 0U, 0, 0U, 0),
                   false);
     break;
 
-   case 8U:
-    c5_d6 = *chartInstance->c5_d_y;
-    sf_mex_assign(c5_mxData, sf_mex_create("mxData", &c5_d6, 0, 0U, 0, 0U, 0),
-                  false);
-    break;
-
-   case 10U:
-    c5_d7 = *chartInstance->c5_capture_distance;
-    sf_mex_assign(c5_mxData, sf_mex_create("mxData", &c5_d7, 0, 0U, 0, 0U, 0),
-                  false);
-    break;
-
    case 9U:
-    c5_d8 = *chartInstance->c5_stop;
-    sf_mex_assign(c5_mxData, sf_mex_create("mxData", &c5_d8, 0, 0U, 0, 0U, 0),
+    c5_d6 = *chartInstance->c5_stop;
+    sf_mex_assign(c5_mxData, sf_mex_create("mxData", &c5_d6, 0, 0U, 0, 0U, 0),
                   false);
     break;
   }
@@ -15355,6 +14344,33 @@ static const mxArray *c5_hold(SFc5_sl_groundvehicleDynamicsInstanceStruct
 }
 
 static const mxArray *c5_plot(SFc5_sl_groundvehicleDynamicsInstanceStruct
+  *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_input0, const
+  mxArray *c5_input1, const mxArray *c5_input2)
+{
+  const mxArray *c5_m = NULL;
+  (void)chartInstance;
+  c5_m = NULL;
+  sf_mex_assign(&c5_m, sf_mex_call(c5_sp, NULL, "plot", 0U, 3U, 14, sf_mex_dup
+    (c5_input0), 14, sf_mex_dup(c5_input1), 14, sf_mex_dup(c5_input2)), false);
+  sf_mex_destroy(&c5_input0);
+  sf_mex_destroy(&c5_input1);
+  sf_mex_destroy(&c5_input2);
+  return c5_m;
+}
+
+static const mxArray *c5_b_hold(SFc5_sl_groundvehicleDynamicsInstanceStruct
+  *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_input0)
+{
+  const mxArray *c5_m = NULL;
+  (void)chartInstance;
+  c5_m = NULL;
+  sf_mex_assign(&c5_m, sf_mex_call(c5_sp, NULL, "hold", 0U, 1U, 14, sf_mex_dup
+    (c5_input0)), false);
+  sf_mex_destroy(&c5_input0);
+  return c5_m;
+}
+
+static const mxArray *c5_b_plot(SFc5_sl_groundvehicleDynamicsInstanceStruct
   *chartInstance, const emlrtStack *c5_sp, const mxArray *c5_input0, const
   mxArray *c5_input1, const mxArray *c5_input2)
 {
@@ -15893,30 +14909,20 @@ static void init_simulink_io_address(SFc5_sl_groundvehicleDynamicsInstanceStruct
     (chartInstance->S, 0);
   chartInstance->c5_waypointsy = (real_T (*)[4])ssGetInputPortSignal_wrapper
     (chartInstance->S, 1);
-  chartInstance->c5_f_logical_map = (boolean_T (*)[213200])
+  chartInstance->c5_g_logical_map = (boolean_T (*)[213200])
     ssGetInputPortSignal_wrapper(chartInstance->S, 2);
   chartInstance->c5_distance_from_wp = (real_T *)ssGetOutputPortSignal_wrapper
     (chartInstance->S, 1);
   chartInstance->c5_target_th = (real_T *)ssGetOutputPortSignal_wrapper
     (chartInstance->S, 2);
-  chartInstance->c5_scan_angles = (real_T (*)[30])ssGetInputPortSignal_wrapper
-    (chartInstance->S, 3);
-  chartInstance->c5_ranges = (real_T (*)[30])ssGetInputPortSignal_wrapper
-    (chartInstance->S, 4);
-  chartInstance->c5_object_detection = (real_T (*)[15])
-    ssGetInputPortSignal_wrapper(chartInstance->S, 5);
   chartInstance->c5_sigma_dist = (real_T *)ssGetInputPortSignal_wrapper
-    (chartInstance->S, 6);
-  chartInstance->c5_min_wall_collision_dist = (real_T *)
-    ssGetInputPortSignal_wrapper(chartInstance->S, 7);
-  chartInstance->c5_min_obj_collision_dist = (real_T *)
-    ssGetInputPortSignal_wrapper(chartInstance->S, 8);
+    (chartInstance->S, 3);
   chartInstance->c5_b_x = (real_T *)ssGetInputPortSignal_wrapper
-    (chartInstance->S, 9);
+    (chartInstance->S, 4);
   chartInstance->c5_d_y = (real_T *)ssGetInputPortSignal_wrapper
-    (chartInstance->S, 10);
+    (chartInstance->S, 5);
   chartInstance->c5_capture_distance = (real_T *)ssGetInputPortSignal_wrapper
-    (chartInstance->S, 11);
+    (chartInstance->S, 6);
   chartInstance->c5_stop = (real_T *)ssGetOutputPortSignal_wrapper
     (chartInstance->S, 3);
 }
@@ -15928,10 +14934,10 @@ static void init_simulink_io_address(SFc5_sl_groundvehicleDynamicsInstanceStruct
 /* SFunction Glue Code */
 void sf_c5_sl_groundvehicleDynamics_get_check_sum(mxArray *plhs[])
 {
-  ((real_T *)mxGetPr((plhs[0])))[0] = (real_T)(1796597752U);
-  ((real_T *)mxGetPr((plhs[0])))[1] = (real_T)(411845610U);
-  ((real_T *)mxGetPr((plhs[0])))[2] = (real_T)(3455671926U);
-  ((real_T *)mxGetPr((plhs[0])))[3] = (real_T)(2945670490U);
+  ((real_T *)mxGetPr((plhs[0])))[0] = (real_T)(2353837027U);
+  ((real_T *)mxGetPr((plhs[0])))[1] = (real_T)(89081546U);
+  ((real_T *)mxGetPr((plhs[0])))[2] = (real_T)(1612013991U);
+  ((real_T *)mxGetPr((plhs[0])))[3] = (real_T)(1203772110U);
 }
 
 mxArray *sf_c5_sl_groundvehicleDynamics_third_party_uses_info(void)
@@ -15974,12 +14980,13 @@ static const mxArray *sf_get_sim_state_info_c5_sl_groundvehicleDynamics(void)
 
   mxArray *mxInfo = mxCreateStructMatrix(1, 1, 2, infoFields);
   mxArray *mxVarInfo = sf_mex_decode(
-    "eNpjYPT0ZQACPiA+wcXAwAakOYCYiQECWKF8RiQaIs4C5ysAcUllQSpIvLgo2TMFSOcl5oL5iaU"
-    "Vnnlp+WDzLRgQ5rNhMZ8RyXxOqDgEfLCnTL+aA0i/A5J+Fiz6BZD0C0BxSmZxSWJecmp8WlF+bn"
-    "x5AR9UfmD9owT2jwEB/7Cg+IeFobgkf5C4X4So+OBEiw8QvySxKD21JL4kA8kflPtHwIEy/RD7C"
-    "fmHD80/IH5yaVFRal4JMGXFZ6ZUQMQuMODPh4xo+ZAJygfpyWHIZCjA4h5s/mFC848APDi6HMB0"
-    "QxdVwmWoxA8vWvyA+GmlJaVFqfDoGRzxc6MVEj8ObcMqfiwIxA8bWvyA+AWJJRnxgyXfbKiAxIt"
-    "A5Wi8gOKlcpDEi0IVtDyrGlHlGRdavID4wIIsOb80ryS1CGHOgMfPhD5I/Dzoo1r8AAA191qh"
+    "eNrtlc9Og0AQxhdCiRglHHyAxkPPHnuTKwefAQkslkT+uAyxvdmbJpr06CN49DE88ih9BHfZtdI"
+    "NEROauFo3mUy+ITPw8WNZpHkXiC6bxuURQibNBzR0xNdIaI2GJTKvG5v6mAYsCszqJQm9iOYsSB"
+    "sdVHMvi/Nm/hR9zjc75mut+Zao87U+H9Y/cVm/2+o3OvqdVr8jIkpKCLIQ+zHJU/+2sMX1n/Vz2"
+    "vg56/FjbPkxUAm5Is9/8i0elsSDaQjIFQYfZi0fw/047rB+fv8+P7bkh+mwIgRnQL8sP4nmvFaj"
+    "r/ehJu1DXWjWc40SVHQ8T5cfXfLjfJipH90mu087eS+/hc+xxIfpuIKK4A0eNfg833M+6OFP8Zn"
+    "28DElPkwXAcx8VfbNa8G5ODf/XBiXhSJcxoRzuSN7xWUkcWEakhQTVf5jb0vOZb3cq3PmUOLCND"
+    "1gwrzKoIGjCp+XFedTr3bG5x2fX2S/"
     );
   mxArray *mxChecksum = mxCreateDoubleMatrix(1, 4, mxREAL);
   sf_c5_sl_groundvehicleDynamics_get_check_sum(&mxChecksum);
@@ -15990,7 +14997,7 @@ static const mxArray *sf_get_sim_state_info_c5_sl_groundvehicleDynamics(void)
 
 static const char* sf_get_instance_specialization(void)
 {
-  return "sfR7oHa2M5SaaZBRZps915C";
+  return "s788r1Dd4dCchhYTp1lZeL";
 }
 
 static void sf_opaque_initialize_c5_sl_groundvehicleDynamics(void
@@ -16088,40 +15095,41 @@ static void mdlProcessParameters_c5_sl_groundvehicleDynamics(SimStruct *S)
 const char* sf_c5_sl_groundvehicleDynamics_get_post_codegen_info(void)
 {
   int i;
-  const char* encStrCodegen [28] = {
-    "eNrtWs9v21Qcd7pSbaMtRSCGxCSmCSEuoP1oYaAJ2ubHGq3dojkdYgRFr/ZL/NbnZ+/9SJOeuMB",
-    "hh8GRM1cuu08IcePIcRIX/gSOcOP7bCc1rtfYztiygaU0+dr5vO/7fr4/7dQo1bcMOBbh9d1bhj",
-    "EH78fhNWOExwuRXIq9wvOzxuVIbpw0DMtBXNZZxzPyH5Zn4y5mpup0SD8nlim3gThyRQG9DLn4B",
-    "hYeVZJ4LN/mCetgjpkFC/gel7n0CuIqSthuTTFLaxafOsRyTMdT1F6HBZF9ndHBo/T6SjZAY4Vw",
-    "bMkaxrZ0uKe6To2i7tEscLlXdrC1K5SbmyuBpal8barYUlQSn+JqH1t1JiQCFsQYe02JJC7Lfu4",
-    "IIcIcoj3XpwSx7Fw7SJjYh+iQeNu34e91JYG9jHpB3w5hSHqcIFp1aVlHeEZsg8I+tyCsaW6epS",
-    "sreEd1u4R1NbtcuZiB/RAnGbjqlL0e5qiLr7OcOaitq/YDB4/iMnsO1nVYFspB5YZeEYWwgd5qD",
-    "xgSBfXWLFZGlIp82Kbnb+IepoH+CpKoADbUnwMsBLGb3k3EdRbkzCTFyB2FI2zZYzbJ7uFeAhUU",
-    "3GtQPDPAiatDCttA82jro4XGxaQS0nPLkEaVzc2M+g5j60xi3kEWzlz7OCICw4aDuMqp1yYC7VC",
-    "NBpZkYGXmFTArDDVER7HKnsd3geO8RfaAK50J+dDY7uIKljgoGFWI7puIqox7dgVUOB0e2wIqVj",
-    "69gNX5UwhsIcvBtu4nhOItLPQCInN9hj6yBtb2iBxUsLA48bNmkhLYhkaiWWoOfLzNdpm3x2rcc",
-    "81oIjgirjCGqoE4g7awDm2JD2qw+Wy75vhOU0dWkfHMRZKiHR0bVzCDzqJt1Z0QWZBVVQajG2xo",
-    "EqxJ9qG1M0GEhHFqUA1ywA7m0ddL+ebRlyP54iiX6qLJwVMI2jCDSWltJxj2cJO4ODhhIpgpQjE",
-    "6tN5zxoHeEzNH652BT6WCOGNCXCOGm03h540YbimSrZW2oO0uTIzM7mGYOymuDGAQJpZI3c98Bt",
-    "6HuPvH8vlrIZK/Ce4BoEz35cFgfhD5ngvxzqROGQhl8GAP4kMfHRL6zowL17Tk1mKXRoK+pD8Hj",
-    "cCERsCdWALRuHCIhyS/wyPO7xB3aYxfjidwWvaRdNpwE5QFP5fAzwUsKYj3UH9/DP5KAq/lz6tf",
-    "lD9qbQvMRauM3FbFs4LBU7S21pqba+st7SDu0TaH+53WmpKeOYCMdcXy8vut4ebfcw/Z/9KYOFi",
-    "IztdP/1ZK4y8r/sHle8uT4I1H+K8IfmMM/68l+Nfy9jW2f966fbVy+5K30a+fu1ppLH9WCdd7J7",
-    "ZeKWW9eBwW+X5R3OoRdWv+UN2KzsWOtHUWEnpnE+vMRZx9v/HzpbM//LRpLF/568cHrzQnqdv9F",
-    "/PVrcVIPj28bxpNlr1Dw1eWeDiViIdTwTx34wNvA13YWjERurV+45YvPjy/Ug7W++Xk0fs9ntjv",
-    "UD4DL6mrqF6fW3U7VmqRCu/Nk/E/N4aPE/+I/z8+mQz/9moyHtL4WkrwtRTO3cGDiHYHxqn2nr/",
-    "4iHx+svacXR3XR0qxGA/tmYUZ05uS/b+ayR8nEv7QskS8i2VbOil1pvh+llYnwx+uN2n2LCbsWQ",
-    "zukTiHdgiR1SZ2Pzz3q5GvbszE+jc1iOGn7CfNnpmEPUsjOu6uBu9f3n0svDwr/llI+EfLHSUVx",
-    "yP3TId/Hn4V+mf16+fKP0Xm02BEnJa8ud8P/bI0+N8v2i+DKfHLmf2onu3/p+rZyYRftAyFzIJ7",
-    "dIn5wTpP3T/f3gv98/u9x+qfZ+V5y5PClaaAlyzPfeYL4o5N+JzpSeEmte/fvm+ftu8XfV42bXY",
-    "cVZ/mU+wqJdadVrse5uwfb0byx6PfHssOoXbKrx/R5U2MOmlXn5P4/jMnf8PnOlXNX/TPE7curj",
-    "FEB4KED5uHpxtc/24/usQxEum/KT2N/pV1jplP5LeW9wizvT3x7vkLKxcm6Yd/AwQspMY=",
+  const char* encStrCodegen [29] = {
+    "eNrtWstvG0UYX6dp2lRJCBICJCqoOFRICNS0KUSIR1w/WqtJamGnKMXFTHbH3mlmZzfzcOye6AE",
+    "JJBCVuPAn9NgT3Dgijj0icUH8AahHjnyzu3aWjRvvrkvrtqzk2N+uf/O9HzOOkausG3AtwOuN04",
+    "YxA+/H4TVlBNfRkM5FXsH9aeP9kK6eMAzTRlxWWMs10l+ma+E2ZjXVapFuSixTThVx5IgMfBly8",
+    "MdYuFRJ4rJ0whPWwhwzExbwXC5T8RXEUZSwnbJipuYsPrGJaddsV1HrAiyIrCuM9h7E11OyChyL",
+    "hGNTljG2pM1d1bbLFLUPtwKXewUbmztCOaltJbCsKU+rKtYVlcSjuNTFZoUJicAKYoS+NYkkLsh",
+    "u6gghotZHu45HCWLJbW0jUcMeRIfEm54Ff68oCdZLyBf4bROGpMsJoiWHFnSEJ8RWKci5DmFNU9",
+    "tZOrKIt1W7TVhbW5crBzPQH+Ikga1aBbeDOWrjKyxlDmrtSl3fwYO4TJ6DFR2WmXJQOYFXRCasz",
+    "7fUAQuJjHzLJisgSkU6bN311nAHU59/EUmUARvwTwEWglh19yriOgtSZpJiZFfhEFtwmUWSe7gT",
+    "Q/kFdwOKZwI4cXRIYQvMPBB9sNComFRCuk4B0qi4tpaQ30FshUnMW8jEiWsfR0RgENiPq5R8LSL",
+    "QNtVosJL0tUy8AmaZoYZoKVbcc/kO2Dhtkd23lc6EdGhstXERS+wXjBJE91VEVUKZHQEVTofHpo",
+    "CKlY4vYHX+ZAKbyLSxpfsJoXgdC72ASFyfoY/kQdsOkb0iFiYnXtJMUgJb0Ei0leo9D2+yHebus",
+    "TJ3nVo4ERwSVxhD1UCcQVu4AG2J98ogfDKpOd6t68jKMp45SFK0rWPjImbQWbSuuhMiE7KqxGB0",
+    "A4HGwdbITWjtTBAhYZzqlfwcsPx59OVcunn0+ZA+N8iliqhz8BSCNsxgUspv+8MerhMH+zdqCGa",
+    "KgAwvzfeMsc93dupwvlPwKZcRZ4yJq0Zw00Ps80oEtxjS5vmmoM02TIzM6mCYOyku9mAQJqYYKs",
+    "9cArv3cXePpPPXfEh/5+8BoEx35f5gvh/5rgPxzqROGQhl8GAH4kNfLRL4rhYlNjTllCOPBoR+p",
+    "D/7jaAGjYDbkQSiUeKAHeL27V9R+/ZxKyP8cjyG07SHpN2ETVAS/EwMP+NbSUG8B/y7I/AXY3hN",
+    "f1q6XnivsSkwF40CchpF1/QHT9FYz9fX8hca2kHcpU0O+51GXkm31oOMdcTy8juNvvBvOwf0f25",
+    "EHMyH9z87+XtumP2S4rd2frozDt54gP+y4C+NsP+LMftrenOD3Vwyb1wu3lhxL3UrZy4Xq8tbxX",
+    "BfHlkvN2S9aBxm+X5W3MohdevYgboV3gsuH78awc/H+E3H8DOhrV5984O8c/fnL//85ez3f/x1/",
+    "cdx6vXifLp6tRDSJ/v7pcFE2TkwdGWNA/HuygpfKlrLVsG07a26t0Sv4bVgvc/nDpd3NiZv//4p",
+    "eEldPfX63KxYkRKLVLAnj/tzZoQ9Zv8V9/c/Gg9/ejUeD8PstRiz12Iwb/sHEM0WjFHNPW/hAfH",
+    "5aPV5fXVU/8hFYjzQZxpmS3dC5H8hkT9mY/7QtES8jWVT2kPqS3Z5FlfHwxtGEn0WYvos+Hsjzq",
+    "ENQmQ1idUN7t0z0tWNqUjfpgYxvCHyDNNnKqZPf8Yw7n2z6r+vfvtQ7PKk+Gc+5h9Nt5RUHA/cM",
+    "xn++eGrwD/G10+Vf7LMpf5oOCl5c9cL/LK4+79ftF96E+KXUzzwyxf8mfLL0ZhfNC1hn8onpY79",
+    "eivwy/1bz1SfORHzi6ahwZiu0kfJ++s8dv/cuR34597th+qfJ+X861HhchNglyTncMcy4o6Mee7",
+    "3qHDj6vdfn6NM2veznl9Omh6H1ae5IXrlYutOql6/pewfr4X0h4Pfggs2odaQX6PCx2sYtYY9fU",
+    "ri+++U9nsppEvafuE/s1w7l2eI9gQJDv/7t6tc/x/F4BHHSAz/je9x9K+kc8xcLL81vUeY5e6Jt",
+    "5bOnj87Tj/8ByEWr7s=",
     ""
   };
 
-  static char newstr [2021] = "";
+  static char newstr [2045] = "";
   newstr[0] = '\0';
-  for (i = 0; i < 28; i++) {
+  for (i = 0; i < 29; i++) {
     strcat(newstr, encStrCodegen[i]);
   }
 
@@ -16132,10 +15140,10 @@ static void mdlSetWorkWidths_c5_sl_groundvehicleDynamics(SimStruct *S)
 {
   const char* newstr = sf_c5_sl_groundvehicleDynamics_get_post_codegen_info();
   sf_set_work_widths(S, newstr);
-  ssSetChecksum0(S,(952191138U));
-  ssSetChecksum1(S,(1287629602U));
-  ssSetChecksum2(S,(4182193152U));
-  ssSetChecksum3(S,(1410579389U));
+  ssSetChecksum0(S,(1094527774U));
+  ssSetChecksum1(S,(2243866733U));
+  ssSetChecksum2(S,(2469578466U));
+  ssSetChecksum3(S,(3059609312U));
 }
 
 static void mdlRTW_c5_sl_groundvehicleDynamics(SimStruct *S)
