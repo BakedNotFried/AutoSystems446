@@ -1,18 +1,33 @@
-function [waypoints,waypoint_mat,path,shortestPath, logical_map] = updated_waypoint_gen()
-    close all
+function [waypoints,waypoint_mat] = updated_waypoint_gen()
+
     %% Import the Map
     cplx_map = load('complexMap_air_ground.mat');
-    occupancy_map = cplx_map.map;
-    original_logic_map = cplx_map.logical_map;
+    load('obstacles_air_ground.mat');
 
-    logical_map = original_logic_map; % Load into the simulink sim...
-    
-    % inflate the map so we dont get waypoints on the wall...
-    inflate(occupancy_map, 0.5);
-    
-    % convert the map to its logical values...
+    occupancy_map = cplx_map.map;
     logic_map = occupancyMatrix(occupancy_map);
+   
+    for iter = 1:length(obstacles)
+        xo = abs(obstacles(iter,1)*10);
+        yo = abs(410-obstacles(iter,2)*10);
+        for i = (xo-5):(xo+5)
+            for j = (yo-5):(yo+5)
+                logic_map(j,i) = 1;
+            end
+        end        
+    end
     
+    % figure(3)
+    % RI = imref2d(size(logical_map));
+    % RI.XWorldLimits = [0 52];
+    % RI.YWorldLimits = [-41 0];           
+    % hRef = imshow(logical_map,RI);
+    % spatialExtentRef1 = [hRef.XData; hRef.YData];
+
+    imshow(~logic_map);
+    occupancy_map = binaryOccupancyMap(logic_map,10);
+    inflate(occupancy_map, 2.5); % Inflate for a wall buffer
+    imshow(logic_map);
     %% Generate random waypoints
     % setup the generation params...
     num_waypoints = 4;
@@ -65,26 +80,26 @@ function [waypoints,waypoint_mat,path,shortestPath, logical_map] = updated_waypo
 
     % plot([25, dist_wp.y], [385, dist_wp.x], '--')
     
-    % init a planner....
-    planner = plannerAStarGrid(occupancy_map);
+    % % init a planner....
+    % planner = plannerAStarGrid(occupancy_map);
     
     % plan a path using A* planner...
-    wp_path = [];
-    start = [385, 25];
+    % wp_path = [];
+    % start = [385, 25];
+    % 
+    % goal = [dist_wp.x(1), dist_wp.y(1)];
+    % wp_path = [wp_path, plan(planner,start,goal(1,:))'];
     
-    goal = [dist_wp.x(1), dist_wp.y(1)];
-    wp_path = [wp_path, plan(planner,start,goal(1,:))'];
-    
-    for i = 1:1:num_waypoints - 1
-        % update the start point...
-        start = [dist_wp.x(i), dist_wp.y(i)];
-        
-        % update the goal...
-        goal = [dist_wp.x(i + 1), dist_wp.y(i + 1)];
-    
-        % plan the path and append...
-        wp_path = [wp_path, plan(planner,start,goal(1,:))'];
-    end
+    % for i = 1:1:num_waypoints - 1
+    %     % update the start point...
+    %     start = [dist_wp.x(i), dist_wp.y(i)];
+    % 
+    %     % update the goal...
+    %     goal = [dist_wp.x(i + 1), dist_wp.y(i + 1)];
+    % 
+    %     % plan the path and append...
+    %     wp_path = [wp_path, plan(planner,start,goal(1,:))'];
+    % end
     
     % Sanity Plot
     % plot(wp_path(2,:), wp_path(1,:), 'g-')
@@ -92,12 +107,11 @@ function [waypoints,waypoint_mat,path,shortestPath, logical_map] = updated_waypo
     %% Clean up Variables for Export
     % Translate values to occupancy map...
     waypoints_world = grid2world(occupancy_map, [dist_wp.x; dist_wp.y]');
-    path_world = grid2world(occupancy_map, [wp_path(1, :); wp_path(2, :)]');
-    
+    % path_world = grid2world(occupancy_map, [wp_path(1, :); wp_path(2, :)]');    
     % Assign to return variables
-    path.x = path_world(:, 1);
-    path.y = path_world(:, 2);
-    
+    % path.x = path_world(:, 1);
+    % path.y = path_world(:, 2);
+
     waypoints.x = waypoints_world(:, 1);
     waypoints.y = waypoints_world(:, 2);
 
