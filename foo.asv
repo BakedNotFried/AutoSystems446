@@ -1,0 +1,21 @@
+close all
+
+cplx_map = load('complexMap_air_ground.mat');
+load('obstacles_air_ground.mat');
+occupancy_map = cplx_map.map;
+original_logic_map = cplx_map.logical_map;
+
+obstacles_grid = world2grid(occupancy_map, obstacles(:, 1:2));
+
+logical_map = original_logic_map; % Load into the simulink sim...
+
+for i = 1:1:numel(obstacles_grid)
+    logical_map(obstacles_grid(i, 1), )
+
+end
+
+% inflate the map so we dont get waypoints on the wall...
+inflate(occupancy_map, 0.5);
+
+% convert the map to its logical values...
+logic_map = occupancyMatrix(occupancy_map);

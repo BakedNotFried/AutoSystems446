@@ -3198,8 +3198,6 @@ typedef struct {
   boolean_T c5_path_x_not_empty;
   c5_coder_array_real_T c5_path_y;
   boolean_T c5_path_y_not_empty;
-  real_T c5_timer;
-  boolean_T c5_timer_not_empty;
   real_T c5_future_wp_idx;
   boolean_T c5_future_wp_idx_not_empty;
   real_T c5_current_wp_idx;
