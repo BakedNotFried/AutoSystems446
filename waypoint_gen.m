@@ -1,6 +1,6 @@
-function [waypoints, waypoint_mat, path, shortestPath, logical_map] = updated_waypoint_gen()
+function [waypoints, waypoint_mat] = waypoint_gen()
     close all
-    %% Import the Map
+    % Import the Map
     cplx_map = load('complexMap_air_ground.mat');
     map = cplx_map.map;
     occupancy_grid = cplx_map.logical_map;
@@ -8,12 +8,12 @@ function [waypoints, waypoint_mat, path, shortestPath, logical_map] = updated_wa
     figure(1)
     show(map);
 
-    %% Expand the occupancy grid
+    % Expand the occupancy grid
     buffer_size = 8;
     expanded_grid = imdilate(occupancy_grid, strel('square', 2*buffer_size+1));
 
-    %% Generate random waypoints
-    num_waypoints = 5;
+    % Generate random waypoints
+    num_waypoints = 4;
     [free_row, free_col] = find(expanded_grid == 0);
     free_cells = [free_row, free_col];
     % Randomly select waypoints from free cells
@@ -21,7 +21,7 @@ function [waypoints, waypoint_mat, path, shortestPath, logical_map] = updated_wa
     selected_indices = randperm(num_free_cells, num_waypoints);
     waypoints = free_cells(selected_indices, :);
 
-    %% Visualize the occupancy grid and waypoints
+    % Visualize the occupancy grid and waypoints
     figure(2);
     [exp_row, exp_col] = find(expanded_grid == 1);
     scatter(exp_col, exp_row, 'red');
@@ -38,7 +38,7 @@ function [waypoints, waypoint_mat, path, shortestPath, logical_map] = updated_wa
     ylabel('Y');
     hold off;
 
-    %% Apply TSP algorithm to optimize waypoint order
+    % Apply TSP algorithm to optimize waypoint order
     world_start = [2,2];
     world_waypoints = grid2world(map, waypoints);
     
@@ -78,7 +78,7 @@ function [waypoints, waypoint_mat, path, shortestPath, logical_map] = updated_wa
     sorted_world_waypoints = all_points(bestOrder(2:end), :);
     sorted_grid_waypoints = world2grid(map, sorted_world_waypoints);
 
-    %% Visualize sorted waypoints
+    % Visualize sorted waypoints
     figure(3);
     scatter(occ_col, occ_row, 1, 'black');
     hold on;
@@ -95,24 +95,24 @@ function [waypoints, waypoint_mat, path, shortestPath, logical_map] = updated_wa
     axis xy
     hold off;
 
-    %% Plan paths using A* planner
-    inflated_map = map.copy();
-    inflate(inflated_map, 0.7);
-    planner = plannerAStarGrid(inflated_map);
-    % planner = plannerAStarGrid(map);
-    start = world2grid(map, world_start);
-    % Flip first axis to align with convention used so far
-    sorted_grid_waypoints(:,1) = 410 - sorted_grid_waypoints(:,1);
-    % Calculate paths between all waypoints
-    num_paths = num_waypoints; % Including path from start to first waypoint
-    paths = cell(1, num_paths);
-    % Path from start to first waypoint
-    paths{1} = plan(planner, start, sorted_grid_waypoints(1,:));
-    % Paths between waypoints
-    for i = 1:num_waypoints-1
-        paths{i+1} = plan(planner, sorted_grid_waypoints(i,:), sorted_grid_waypoints(i+1,:));
-    end
-    world_paths = cellfun(@(p) grid2world(map, p), paths, 'UniformOutput', false);
+    % Plan paths using A* planner
+    % inflated_map = map.copy();
+    % inflate(inflated_map, 0.7);
+    % planner = plannerAStarGrid(inflated_map);
+    % % planner = plannerAStarGrid(map);
+    % start = world2grid(map, world_start);
+    % % Flip first axis to align with convention used so far
+    % sorted_grid_waypoints(:,1) = 410 - sorted_grid_waypoints(:,1);
+    % % Calculate paths between all waypoints
+    % num_paths = num_waypoints; % Including path from start to first waypoint
+    % paths = cell(1, num_paths);
+    % % Path from start to first waypoint
+    % paths{1} = plan(planner, start, sorted_grid_waypoints(1,:));
+    % % Paths between waypoints
+    % for i = 1:num_waypoints-1
+    %     paths{i+1} = plan(planner, sorted_grid_waypoints(i,:), sorted_grid_waypoints(i+1,:));
+    % end
+    % world_paths = cellfun(@(p) grid2world(map, p), paths, 'UniformOutput', false);
 
     % % Optimize paths
     % options = optimizePathOptions;
@@ -122,15 +122,28 @@ function [waypoints, waypoint_mat, path, shortestPath, logical_map] = updated_wa
     % options.MaxSolverIteration = 10;
     % [opt_paths,kineticInfo,solutionInfo] = cellfun(@(p) optimizePath(p, map, options), world_paths, 'UniformOutput', false);
 
-    %% Visualize all paths
-    figure(5);
-    show(map)
-    hold on
-    colors = lines(num_paths);
-    for i = 1:num_waypoints
-        path = world_paths{i};
-        % path = opt_paths{i};
-        plot(path(:,1), path(:,2), 'Color', colors(i,:), 'LineWidth', 2);
-    end
+    % Visualize all paths
+    % figure(5);
+    % show(map)
+    % hold on
+    % colors = lines(num_paths);
+    % for i = 1:num_waypoints
+    %     path = world_paths{i};
+    %     % path = opt_paths{i};
+    %     plot(path(:,1), path(:,2), 'Color', colors(i,:), 'LineWidth', 2);
+    % end
 
+    newx = abs(sorted_world_waypoints(:, 1));
+    newy = abs(-41+sorted_world_waypoints(:, 2));
+
+    waypoints = struct('x',{newx},'y',{newy});
+
+    sorted_world_waypoints2(:,1) = newx;
+    sorted_world_waypoints2(:,2) = newy; 
+
+    waypoint_mat = sorted_world_waypoints2;
+
+    % waypoint_mat = [10,10;25,25;30,30;40,40];
+    % waypoints = struct('x',{[10,25,30,40]'},'y',{[10,25,30,40]'});
+    
 end
