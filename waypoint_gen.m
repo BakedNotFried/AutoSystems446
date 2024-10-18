@@ -13,7 +13,7 @@ function [waypoints, waypoint_mat] = waypoint_gen()
     expanded_grid = imdilate(occupancy_grid, strel('square', 2*buffer_size+1));
 
     % Generate random waypoints
-    num_waypoints = 4;
+    num_waypoints = 5;
     [free_row, free_col] = find(expanded_grid == 0);
     free_cells = [free_row, free_col];
     % Randomly select waypoints from free cells

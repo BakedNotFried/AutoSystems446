@@ -3267,8 +3267,8 @@ typedef struct {
   boolean_T c5_c_mat[213200];
   CovrtStateflowInstance *c5_covrtInstance;
   void *c5_fEmlrtCtx;
-  real_T (*c5_waypointsx)[4];
-  real_T (*c5_waypointsy)[4];
+  real_T (*c5_waypointsx)[5];
+  real_T (*c5_waypointsy)[5];
   boolean_T (*c5_f_logical_map)[213200];
   real_T *c5_distance_from_wp;
   real_T *c5_target_th;
